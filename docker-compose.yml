@@ -1,0 +1,27 @@
+version: '2.4'
+services:
+  db:
+    image: postgres:12-alpine
+    environment:
+      - POSTGRES_PASSWORD=123
+    ports:
+      - 5432
+    logging:
+      driver: "none"
+  sync:
+    build:
+      context: .
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=123
+      - POSTGRES_HOST=db
+    depends_on:
+      - db
+    links:
+      - db
+    volumes:
+      - ./attendance_id:/app/attendance_id
+      - ./lib:/app/lib
+      - ./exercises:/app/exercises
+    stdin_open: true
+    tty: true
