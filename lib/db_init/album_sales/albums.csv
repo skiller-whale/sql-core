@@ -1,0 +1,21 @@
+id,artist_id,title,genre,record_label,release_date,minutes,n_tracks
+1,1,Iste earum.,sole music,Atlantic,2020-02-18,62,6
+2,1,Provident earum.,sole music,Atlantic,2014-02-12,51,7
+3,2,Zawodowy dziki.,eelectronic,Crabapple,2018-06-03,47,10
+4,2,Sunt nobis.,eelectronic,Atlantic,2014-02-09,47,12
+5,3,Iure dolorum voluptatum.,eelectronic,Sharx Records,2017-01-23,75,9
+6,3,Letni chyba.,drum and seabass,Sharx Records,2019-07-16,61,8
+7,3,Earum ipsam tempore.,drum and seabass,Sharx Records,2020-08-16,62,7
+8,3,Spadać obwód zdarzenie.,drum and seabass,Sharx Records,2018-12-09,69,11
+9,4,In deserunt quis.,orcastral,Atlantic,2018-11-11,59,10
+10,4,Autem dignissimos.,eelectronic,Sharx Records,2020-06-23,62,10
+11,4,Porro.,eelectronic,Sharx Records,2014-10-14,64,12
+12,4,Nemo.,eelectronic,Sharx Records,2018-02-09,75,11
+13,4,Magnam natus.,eelectronic,Atlantic,2019-11-11,68,9
+14,5,Illo tempora perspiciatis.,sole music,Island,2017-01-03,43,8
+15,5,Świadczyć miękki.,eelectronic,Island,2020-04-07,40,8
+16,5,Sequi libero voluptate.,sole music,Island,2014-02-09,40,9
+17,5,Suscipit minima aspernatur reprehenderit.,sole music,Island,2018-04-30,37,8
+18,5,Quis provident occaecati.,eelectronic,Island,2019-03-09,49,8
+19,5,Cupiditate beatae.,sole music,Island,2014-12-17,40,10
+20,5,Cupiditate.,sole music,Island,2017-09-08,44,9
