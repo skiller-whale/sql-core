@@ -16,7 +16,15 @@ TABLES = [
         os.path.join(THIS_DIR, "artists.csv")),
     TableDefinition(
         "albums",
-        "(id SERIAL PRIMARY KEY, title VARCHAR(255), genre VARCHAR(255), release_date DATE, n_tracks INTEGER, minutes INTEGER, record_label VARCHAR(255), artist_id INTEGER REFERENCES artists(id))",
+        """(id SERIAL PRIMARY KEY,
+            title VARCHAR(255),
+            genre VARCHAR(255),
+            release_date DATE,
+            n_tracks INTEGER,
+            minutes INTEGER,
+            record_label VARCHAR(255),
+            artist_id INTEGER REFERENCES artists(id),
+            collaborator_id INTEGER REFERENCES artists(id))""",
         os.path.join(THIS_DIR, "albums.csv")),
     TableDefinition(
         "sales",
