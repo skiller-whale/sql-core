@@ -74,17 +74,29 @@
 |   artists table, called collaborator_id. This is either empty, or contains the
 |   id of a row in the artists table.
 |
-|   * Write two queries, a LEFT JOIN and a RIGHT JOIN, that join the artists to
-|     the albums using the collaborator_id.
-|   * Note how many rows were returned for each query.
+|   One at a time, uncomment the two queries below, to look at the results of
+|   the LEFT and RIGHT joins between artists (collaborators) and albums.
 |
-|   * Try to predict how many rows would be returned by a FULL OUTER JOIN using
-|     this column.
-|   * Write the query to see if you were correct.
+|   * Try to predict how many rows would be returned by a FULL OUTER JOIN
+|     version of this query.
+|   * Write, and run the query to see if you were correct.
 |
 */ -----------------------------------------------------------------------------
 
--- YOUR CODE GOES HERE
+
+-- SELECT artists.name, albums.title
+-- FROM artists
+-- LEFT JOIN albums
+-- ON artists.id = albums.collaborator_id;
+
+
+-- SELECT artists.name, albums.title
+-- FROM artists
+-- RIGHT JOIN albums
+-- ON artists.id = albums.collaborator_id;
+
+
+-- YOUR FULL JOIN GOES HERE
 
 
 /* -----------------------------------------------------------------------------
