@@ -87,13 +87,13 @@
 /* -----------------------------------------------------------------------------
 |   7. Expressions
 |
-|   In the space below, write a query that will will SELECT from the albums
+|   In the space below, write a query that will SELECT from the albums
 |   table, and return the:
 |
 |   * title
 |   * average track length  (number of minutes, divided by the number of tracks)
 |
-|   for the three albums with the largest average track length.
+|   for the top three albums with the largest average track length.
 |
 */ -----------------------------------------------------------------------------
 
