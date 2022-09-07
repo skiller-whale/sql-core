@@ -22,14 +22,26 @@ def run_sync():
     file_uploader = FileUploader(output_lock=OUTPUT_LOCK)
     pinger = Pinger()
     watcher = Watcher(file_uploader, base_path="exercises", output_lock=OUTPUT_LOCK)
-    watcher.poll_for_changes(loop_callback=pinger.ping)
+    while True:
+        try:
+            watcher.poll_for_changes(loop_callback=pinger.ping)
+        except BaseException as err:
+            print(f"Unexpected error with file sync: {err}")
+            time.sleep(1)
+            print(f"Restarting...")
 
 
 def pg_update():
     time.sleep(1)  # Give time for the database service to start
     pg_executor = PgExec(DATABASE_NAMES, output_lock=OUTPUT_LOCK)
     watcher = Watcher(pg_executor, base_path="exercises")
-    watcher.poll_for_changes()
+    while True:
+        try:
+            watcher.poll_for_changes()
+        except BaseException as err:
+            print(f"Unexpected error with postgres auto-runner: {err}")
+            time.sleep(1)
+            print(f"Restarting...")
 
 
 def skiller_whale_sync():
