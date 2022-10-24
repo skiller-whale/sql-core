@@ -46,22 +46,22 @@
 |
 */ -----------------------------------------------------------------------------
 
--- This query finds any sales recorded on the day an album was released
+-- This query finds any sales recorded on '2019-11-16', and their album details.
+
 -- SELECT *
 -- FROM albums a, sales s
--- WHERE s.date = a.release_date
+-- WHERE s.date = '2019-11-16'
 -- AND s.album_id = a.id;
 
--- YOUR REWRITE GOES HERE
+-- This query finds all `Salmon and Garfunkel` sales recorded in 2020.
 
--- This query finds all eelectronic sales recorded in 2020
--- SELECT *
--- FROM sales s, albums a
--- WHERE s.date >= '2020-01-01'
--- AND s.date < '2021-01-01'
--- AND s.album_id = a.id
-
--- YOUR REWRITE GOES HERE
+-- SELECT sales.*, artists.name
+-- FROM sales, albums, artists
+-- WHERE artists.name = 'Salmon and Garfunkel'
+-- AND albums.artist_id = artists.id
+-- AND sales.date >= '2020-01-01'
+-- AND sales.date < '2021-01-01'
+-- AND sales.album_id = albums.id;
 
 /* -----------------------------------------------------------------------------
 |   5. Joining on multiple columns
