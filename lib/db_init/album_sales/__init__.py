@@ -30,4 +30,8 @@ TABLES = [
         "sales",
         "(id SERIAL PRIMARY KEY, album_id INTEGER REFERENCES albums(id), amount DECIMAL, date DATE)",
         os.path.join(THIS_DIR, "sales.csv")),
+    TableDefinition(
+        "industry_revenue_history",
+        "(download_revenue_percent INTEGER, cd_revenue_percent INTEGER, streaming_revenue_percent INTEGER, period_start DATE, period_end DATE)",
+        os.path.join(THIS_DIR, "industry_revenue_history.csv")),
 ]
