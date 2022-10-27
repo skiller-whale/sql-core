@@ -73,12 +73,11 @@
 |   Note that the period_end date is NOT inclusive
 |   (a period goes from the period_start date until the day before the period_end)
 |
-|   Then, in the space below, write a query that will return:
+|   Then, write a query that will return the following 3 things for all albums
+|   released in periods when streaming accounted for more than 50% of revenue:
 |     * The album title
 |     * The release date
 |     * What % of music industry revenue came from streaming in the period it was released in.
-|
-|   for all albums released in periods when streaming accounted for more than 50% of revenue
 |
 */ -----------------------------------------------------------------------------
 
