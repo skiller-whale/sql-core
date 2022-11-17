@@ -95,7 +95,8 @@ class PgExec:
                     print(f'{identifier_str}Query Complete. Results:')
                 print(tabulate.tabulate(query_rows,
                                         headers=query_columns,
-                                        tablefmt="psql"))
+                                        tablefmt="psql",
+                                        missingval="NULL"))
                 print(f'Row Count: {len(query_rows)}')
                 print()
 
@@ -138,7 +139,7 @@ class PgExec:
             # E.g. remove the .1 from my_file.1.sql to give my_file.sql
             start, end = cls.FILE_NUMBER_REGEX.split(filename)
             filename = start[:-1] + end
-        
+
         pre_filename = '.pre.' + filename
 
         pre_path = os.path.join(dirname, pre_filename)
