@@ -1,0 +1,1676 @@
+product_name,amount,currency_code,sale_date,id
+An Ag-isle Primer,24.0,EUR,2016-01-07,1
+An Ag-isle Primer,96.0,PLN,2016-01-08,2
+An Ag-isle Primer,19.99,EUR,2016-01-12,3
+An Ag-isle Primer,21.16,EUR,2016-01-22,4
+An Ag-isle Primer,22.0,EUR,2016-02-04,5
+An Ag-isle Primer,20.0,GBP,2016-02-07,6
+An Ag-isle Primer,15.0,GBP,2016-02-08,7
+An Ag-isle Primer,18.49,EUR,2016-02-09,8
+An Ag-isle Primer,741.0,UAH,2016-02-21,9
+An Ag-isle Primer,20.0,EUR,2016-02-23,10
+An Ag-isle Primer,23.28,EUR,2016-02-26,11
+An Ag-isle Primer,21.5,EUR,2016-03-06,12
+An Ag-isle Primer,202.99,SEK,2016-03-17,13
+An Ag-isle Primer,776.49,UAH,2016-03-25,14
+An Ag-isle Primer,592.5,UAH,2016-04-02,15
+An Ag-isle Primer,15.88,GBP,2016-04-09,16
+An Ag-isle Primer,23.0,EUR,2016-04-24,17
+An Ag-isle Primer,16.49,EUR,2016-04-24,18
+An Ag-isle Primer,24.5,EUR,2016-04-25,19
+An Ag-isle Primer,652.09,UAH,2016-05-07,20
+An Ag-isle Primer,21.5,EUR,2016-05-26,21
+An Ag-isle Primer,15.49,EUR,2016-05-26,22
+Cod-ing in Python,49.25,GBP,2016-06-02,23
+Cod-ing in Python,59.0,EUR,2016-06-02,24
+Cod-ing in Python,56.99,EUR,2016-06-03,25
+An Ag-isle Primer,21.49,EUR,2016-06-03,26
+Cod-ing in Python,50.49,GBP,2016-06-04,27
+Cod-ing in Python,48.5,GBP,2016-06-04,28
+Cod-ing in Python,61.0,EUR,2016-06-05,29
+Cod-ing in Python,53.5,EUR,2016-06-05,30
+Cod-ing in Python,56.5,EUR,2016-06-06,31
+Cod-ing in Python,54.49,EUR,2016-06-07,32
+Cod-ing in Python,60.0,EUR,2016-06-09,33
+Cod-ing in Python,54.2,EUR,2016-06-11,34
+Cod-ing in Python,2073.74,UAH,2016-06-11,35
+Cod-ing in Python,47.72,GBP,2016-06-12,36
+Cod-ing in Python,58.32,EUR,2016-06-15,37
+Cod-ing in Python,57.43,EUR,2016-06-16,38
+Cod-ing in Python,59.5,EUR,2016-06-18,39
+Cod-ing in Python,53.87,EUR,2016-06-18,40
+An Ag-isle Primer,22.09,EUR,2016-06-18,41
+Cod-ing in Python,57.28,EUR,2016-06-19,42
+Cod-ing in Python,56.5,EUR,2016-06-19,43
+Cod-ing in Python,53.96,EUR,2016-06-20,44
+Cod-ing in Python,54.44,EUR,2016-06-22,45
+Cod-ing in Python,55.0,EUR,2016-06-24,46
+Cod-ing in Python,50.5,GBP,2016-06-25,47
+Cod-ing in Python,57.5,EUR,2016-06-25,48
+An Ag-isle Primer,19.16,EUR,2016-06-25,49
+An Ag-isle Primer,20.5,CHF,2016-06-26,50
+Cod-ing in Python,255.0,PLN,2016-07-01,51
+Cod-ing in Python,57.0,EUR,2016-07-02,52
+Cod-ing in Python,56.0,EUR,2016-07-05,53
+Cod-ing in Python,57.33,EUR,2016-07-05,54
+Cod-ing in Python,57.5,EUR,2016-07-06,55
+Cod-ing in Python,58.0,EUR,2016-07-06,56
+Cod-ing in Python,59.49,EUR,2016-07-07,57
+Cod-ing in Python,58.0,EUR,2016-07-07,58
+Cod-ing in Python,57.5,EUR,2016-07-09,59
+Cod-ing in Python,274.5,PLN,2016-07-09,60
+Cod-ing in Python,51.59,GBP,2016-07-09,61
+Cod-ing in Python,619.5,SEK,2016-07-16,62
+Cod-ing in Python,56.99,EUR,2016-07-18,63
+An Ag-isle Primer,21.5,EUR,2016-07-18,64
+An Ag-isle Primer,16.5,GBP,2016-07-26,65
+Cod-ing in Python,48.0,GBP,2016-08-02,66
+An Ag-isle Primer,18.5,GBP,2016-08-06,67
+Cod-ing in Python,55.58,EUR,2016-08-08,68
+An Ag-isle Primer,19.06,EUR,2016-08-08,69
+Cod-ing in Python,58.5,EUR,2016-08-09,70
+Cod-ing in Python,56.0,EUR,2016-08-12,71
+Cod-ing in Python,62.64,EUR,2016-08-13,72
+Cod-ing in Python,51.99,GBP,2016-08-14,73
+Cod-ing in Python,53.99,EUR,2016-08-17,74
+Cod-ing in Python,54.0,EUR,2016-08-20,75
+Cod-ing in Python,59.79,EUR,2016-08-24,76
+Cod-ing in Python,272.84,PLN,2016-08-25,77
+Cod-ing in Python,256.5,PLN,2016-08-27,78
+Cod-ing in Python,1079.5,TRY,2016-08-29,79
+Cod-ing in Python,55.43,EUR,2016-08-30,80
+An Ag-isle Primer,17.5,USD,2016-09-01,81
+Cod-ing in Python,54.0,EUR,2016-09-03,82
+An Ag-isle Primer,17.5,EUR,2016-09-03,83
+Cod-ing in Python,54.5,CHF,2016-09-06,84
+Cod-ing in Python,626.66,SEK,2016-09-10,85
+An Ag-isle Primer,19.17,EUR,2016-09-10,86
+Cod-ing in Python,51.99,GBP,2016-09-11,87
+Cod-ing in Python,53.49,EUR,2016-09-15,88
+Cod-ing in Python,53.0,EUR,2016-09-15,89
+Cod-ing in Python,57.49,EUR,2016-09-15,90
+Cod-ing in Python,59.0,EUR,2016-09-19,91
+Cod-ing in Python,2194.0,UAH,2016-09-21,92
+Cod-ing in Python,46.99,GBP,2016-09-24,93
+An Ag-isle Primer,18.49,EUR,2016-09-25,94
+Cod-ing in Python,57.5,CHF,2016-09-27,95
+Cod-ing in Python,55.5,EUR,2016-09-28,96
+Cod-ing in Python,57.0,EUR,2016-10-01,97
+Cod-ing in Python,51.99,EUR,2016-10-01,98
+Cod-ing in Python,46.0,GBP,2016-10-03,99
+An Ag-isle Primer,22.49,EUR,2016-10-04,100
+Cod-ing in Python,62.99,EUR,2016-10-06,101
+Cod-ing in Python,57.18,EUR,2016-10-08,102
+Cod-ing in Python,1128.99,TRY,2016-10-11,103
+Cod-ing in Python,53.19,EUR,2016-10-23,104
+Cod-ing in Python,284.0,PLN,2016-10-30,105
+Cod-ing in Python,2093.88,UAH,2016-11-02,106
+Cod-ing in Python,50.0,GBP,2016-11-04,107
+An Ag-isle Primer,19.49,EUR,2016-11-07,108
+An Ag-isle Primer,78.99,PLN,2016-11-08,109
+Cod-ing in Python,61.03,EUR,2016-11-11,110
+Cod-ing in Python,54.5,EUR,2016-11-11,111
+Cod-ing in Python,49.49,GBP,2016-11-12,112
+Cod-ing in Python,55.5,EUR,2016-11-14,113
+Cod-ing in Python,60.5,EUR,2016-11-21,114
+Cod-ing in Python,47.99,GBP,2016-11-21,115
+Cod-ing in Python,61.0,EUR,2016-11-22,116
+Cod-ing in Python,618.0,SEK,2016-11-24,117
+An Ag-isle Primer,22.0,EUR,2016-11-24,118
+Cod-ing in Python,58.24,EUR,2016-11-26,119
+Cod-ing in Python,50.49,EUR,2016-11-28,120
+Cod-ing in Python,61.0,EUR,2016-11-29,121
+Cod-ing in Python,55.5,EUR,2016-11-29,122
+Cod-ing in Python,54.34,EUR,2016-12-03,123
+Cod-ing in Python,62.0,EUR,2016-12-03,124
+An Ag-isle Primer,19.99,EUR,2016-12-03,125
+An Ag-isle Primer,23.99,EUR,2016-12-04,126
+Cod-ing in Python,56.49,EUR,2016-12-07,127
+An Ag-isle Primer,15.49,EUR,2016-12-17,128
+An Ag-isle Primer,100.5,PLN,2016-12-20,129
+Cod-ing in Python,58.66,EUR,2016-12-22,130
+Cod-ing in Python,57.99,EUR,2016-12-25,131
+An Ag-isle Primer,15.72,CHF,2016-12-25,132
+An Ag-isle Primer,22.5,EUR,2016-12-27,133
+Cod-ing in Python,56.5,EUR,2016-12-31,134
+Cod-ing in Python,594.99,SEK,2017-01-02,135
+Cod-ing in Python,57.0,CHF,2017-01-05,136
+An Ag-isle Primer,17.49,EUR,2017-01-05,137
+Cod-ing in Python,56.99,EUR,2017-01-07,138
+Cod-ing in Python,62.38,EUR,2017-01-07,139
+An Ag-isle Primer,18.49,EUR,2017-01-08,140
+An Ag-isle Primer,18.5,EUR,2017-01-09,141
+Cod-ing in Python,48.12,GBP,2017-01-18,142
+Cod-ing in Python,50.5,GBP,2017-01-22,143
+Cod-ing in Python,57.0,EUR,2017-01-30,144
+An Ag-isle Primer,18.0,EUR,2017-02-04,145
+Cod-ing in Python,49.5,GBP,2017-02-07,146
+Cod-ing in Python,56.99,EUR,2017-02-08,147
+An Ag-isle Primer,18.6,EUR,2017-02-08,148
+Cod-ing in Python,55.0,EUR,2017-02-10,149
+Cod-ing in Python,57.49,EUR,2017-02-13,150
+Cod-ing in Python,56.0,EUR,2017-03-04,151
+An Ag-isle Primer,23.0,EUR,2017-03-09,152
+Cod-ing in Python,49.5,GBP,2017-03-11,153
+Cod-ing in Python,54.0,EUR,2017-03-17,154
+Cod-ing in Python,620.49,SEK,2017-03-28,155
+Cod-ing in Python,276.5,PLN,2017-03-30,156
+Cod-ing in Python,51.49,GBP,2017-04-03,157
+Cod-ing in Python,57.5,EUR,2017-04-05,158
+Cod-ing in Python,55.0,EUR,2017-04-10,159
+An Ag-isle Primer,21.27,EUR,2017-04-24,160
+An Ag-isle Primer,22.0,GBP,2017-05-09,161
+Cod-ing in Python,56.94,EUR,2017-05-10,162
+Cod-ing in Python,55.5,EUR,2017-05-12,163
+An Ag-isle Primer,23.05,EUR,2017-05-12,164
+Cod-ing in Python,56.76,EUR,2017-05-21,165
+Cod-ing in Python,273.5,PLN,2017-05-21,166
+Cod-ing in Python,53.5,CHF,2017-05-23,167
+An Ag-isle Primer,19.99,EUR,2017-05-23,168
+Cod-ing in Python,260.0,PLN,2017-05-29,169
+An Ag-isle Primer,397.0,TRY,2017-05-30,170
+An Ag-isle Primer,198.99,SEK,2017-06-03,171
+Cod-ing in Python,51.35,GBP,2017-06-06,172
+Cod-ing in Python,57.49,EUR,2017-06-07,173
+Cod-ing in Python,54.71,EUR,2017-06-11,174
+Cod-ing in Python,58.0,EUR,2017-06-19,175
+Cod-ing in Python,56.99,EUR,2017-06-19,176
+Cod-ing in Python,1034.49,TRY,2017-06-19,177
+Cod-ing in Python,57.2,EUR,2017-06-20,178
+Cod-ing in Python,53.5,GBP,2017-06-23,179
+Cod-ing in Python,57.64,USD,2017-06-23,180
+An Ag-isle Primer,16.5,GBP,2017-06-24,181
+Cod-ing in Python,47.0,GBP,2017-06-27,182
+An Ag-isle Primer,20.73,EUR,2017-06-30,183
+Cod-ing in Python,56.16,EUR,2017-07-02,184
+An Ag-isle Primer,18.0,EUR,2017-07-03,185
+Cod-ing in Python,2136.5,UAH,2017-07-04,186
+Cod-ing in Python,48.5,GBP,2017-07-09,187
+An Ag-isle Primer,20.99,CHF,2017-07-11,188
+An Ag-isle Primer,18.49,EUR,2017-07-11,189
+Cod-ing in Python,54.49,GBP,2017-07-12,190
+Cod-ing in Python,2237.5,UAH,2017-07-13,191
+Cod-ing in Python,53.15,GBP,2017-07-15,192
+Cod-ing in Python,59.5,EUR,2017-07-18,193
+Cod-ing in Python,58.99,EUR,2017-07-21,194
+Cod-ing in Python,54.0,EUR,2017-07-26,195
+Cod-ing in Python,59.0,EUR,2017-07-26,196
+An Ag-isle Primer,18.0,EUR,2017-08-03,197
+Cod-ing in Python,59.49,EUR,2017-08-05,198
+Cod-ing in Python,47.99,GBP,2017-08-06,199
+Cod-ing in Python,58.49,EUR,2017-08-08,200
+Cod-ing in Python,57.05,EUR,2017-08-11,201
+Cod-ing in Python,58.49,EUR,2017-09-07,202
+An Ag-isle Primer,19.34,EUR,2017-09-07,203
+Cod-ing in Python,57.99,EUR,2017-09-09,204
+Cod-ing in Python,53.0,GBP,2017-09-17,205
+Cod-ing in Python,56.99,EUR,2017-09-19,206
+An Ag-isle Primer,24.0,EUR,2017-09-19,207
+Cod-ing in Python,58.0,EUR,2017-09-26,208
+An Ag-isle Primer,22.99,EUR,2017-10-04,209
+Cod-ing in Python,55.5,EUR,2017-10-08,210
+Cod-ing in Python,59.99,EUR,2017-10-17,211
+Cod-ing in Python,60.99,EUR,2017-10-23,212
+An Ag-isle Primer,23.0,EUR,2017-11-05,213
+Cod-ing in Python,55.5,EUR,2017-11-06,214
+Cod-ing in Python,56.5,EUR,2017-11-13,215
+Cod-ing in Python,59.0,EUR,2017-11-18,216
+An Ag-isle Primer,17.99,EUR,2017-11-24,217
+An Ag-isle Primer,24.49,EUR,2017-12-14,218
+Cod-ing in Python,2147.0,UAH,2017-12-16,219
+Cod-ing in Python,58.0,EUR,2017-12-18,220
+Cod-ing in Python,57.99,EUR,2017-12-21,221
+An Ag-isle Primer,105.5,PLN,2017-12-21,222
+An Ag-isle Primer,20.5,EUR,2017-12-22,223
+Cod-ing in Python,44.5,GBP,2017-12-23,224
+An Ag-isle Primer,17.49,GBP,2017-12-25,225
+Cod-ing in Python,56.49,EUR,2017-12-26,226
+An Ag-isle Primer,19.0,EUR,2017-12-28,227
+An Ag-isle Primer,18.0,EUR,2017-12-29,228
+Cod-ing in Python,49.3,GBP,2018-01-07,229
+An Ag-isle Primer,16.99,GBP,2018-01-23,230
+Cod-ing in Python,62.27,EUR,2018-01-27,231
+Cod-ing in Python,1156.99,TRY,2018-02-09,232
+An Ag-isle Primer,20.0,EUR,2018-02-09,233
+Cod-ing in Python,48.99,GBP,2018-02-10,234
+Cod-ing in Python,59.5,EUR,2018-02-13,235
+Cod-ing in Python,58.0,EUR,2018-02-14,236
+An Ag-isle Primer,17.99,GBP,2018-02-21,237
+Cod-ing in Python,57.99,EUR,2018-03-06,238
+Cod-ing in Python,57.5,EUR,2018-03-09,239
+Cod-ing in Python,56.0,EUR,2018-03-15,240
+Cod-ing in Python,55.99,EUR,2018-03-20,241
+Cod-ing in Python,57.5,EUR,2018-03-28,242
+An Ag-isle Primer,461.99,TRY,2018-03-28,243
+Cod-ing in Python,58.58,EUR,2018-04-15,244
+An Ag-isle Primer,19.5,EUR,2018-04-21,245
+Cod-ing in Python,52.0,GBP,2018-04-24,246
+Cod-ing in Python,58.49,EUR,2018-05-04,247
+An Ag-isle Primer,20.99,GBP,2018-05-05,248
+An Ag-isle Primer,255.0,SEK,2018-05-12,249
+Cod-ing in Python,61.5,EUR,2018-05-18,250
+An Ag-isle Primer,14.49,GBP,2018-05-22,251
+Advanced Ruby on Whales,46.5,EUR,2018-05-24,252
+Advanced Ruby on Whales,42.0,EUR,2018-05-24,253
+Advanced Ruby on Whales,45.99,EUR,2018-05-24,254
+Advanced Ruby on Whales,44.5,EUR,2018-05-26,255
+Advanced Ruby on Whales,43.0,EUR,2018-05-28,256
+Advanced Ruby on Whales,46.0,EUR,2018-05-29,257
+Cod-ing in Python,1193.0,TRY,2018-05-29,258
+Advanced Ruby on Whales,45.5,EUR,2018-06-02,259
+Advanced Ruby on Whales,50.99,EUR,2018-06-02,260
+Advanced Ruby on Whales,215.0,PLN,2018-06-02,261
+Advanced Ruby on Whales,42.49,GBP,2018-06-02,262
+An Ag-isle Primer,16.5,GBP,2018-06-02,263
+Advanced Ruby on Whales,44.5,EUR,2018-06-07,264
+Advanced Ruby on Whales,44.0,EUR,2018-06-08,265
+An Ag-isle Primer,607.0,UAH,2018-06-08,266
+Advanced Ruby on Whales,45.99,EUR,2018-06-10,267
+Advanced Ruby on Whales,944.0,TRY,2018-06-10,268
+An Ag-isle Primer,18.49,EUR,2018-06-14,269
+Advanced Ruby on Whales,43.07,EUR,2018-06-15,270
+Advanced Ruby on Whales,48.99,CHF,2018-06-17,271
+Advanced Ruby on Whales,225.49,PLN,2018-06-17,272
+An Ag-isle Primer,19.0,GBP,2018-06-21,273
+An Ag-isle Primer,20.49,EUR,2018-06-22,274
+Cod-ing in Python,59.99,EUR,2018-07-01,275
+Advanced Ruby on Whales,44.03,EUR,2018-07-05,276
+Cod-ing in Python,54.0,EUR,2018-07-07,277
+Cod-ing in Python,57.71,EUR,2018-07-11,278
+An Ag-isle Primer,16.99,GBP,2018-07-14,279
+Cod-ing in Python,52.5,GBP,2018-07-22,280
+Cod-ing in Python,54.99,EUR,2018-07-27,281
+Advanced Ruby on Whales,40.99,GBP,2018-07-28,282
+Advanced Ruby on Whales,48.0,EUR,2018-07-28,283
+An Ag-isle Primer,15.49,EUR,2018-07-28,284
+Advanced Ruby on Whales,210.0,PLN,2018-07-29,285
+An Ag-isle Primer,23.11,EUR,2018-07-29,286
+Advanced Ruby on Whales,47.86,EUR,2018-07-30,287
+Cod-ing in Python,51.49,GBP,2018-07-30,288
+Cod-ing in Python,59.49,EUR,2018-08-01,289
+Advanced Ruby on Whales,478.5,SEK,2018-08-09,290
+Advanced Ruby on Whales,49.9,EUR,2018-08-11,291
+Advanced Ruby on Whales,46.5,EUR,2018-08-12,292
+Cod-ing in Python,61.5,EUR,2018-08-15,293
+Advanced Ruby on Whales,42.5,GBP,2018-08-16,294
+Cod-ing in Python,51.25,GBP,2018-08-16,295
+Advanced Ruby on Whales,48.5,EUR,2018-08-19,296
+Cod-ing in Python,53.49,CHF,2018-08-19,297
+Advanced Ruby on Whales,40.0,GBP,2018-08-28,298
+Cod-ing in Python,56.0,EUR,2018-08-29,299
+Cod-ing in Python,56.49,EUR,2018-08-31,300
+Cod-ing in Python,2274.0,UAH,2018-09-08,301
+Advanced Ruby on Whales,40.74,EUR,2018-09-09,302
+Advanced Ruby on Whales,46.39,EUR,2018-09-11,303
+Advanced Ruby on Whales,44.0,CHF,2018-09-15,304
+Advanced Ruby on Whales,41.0,GBP,2018-09-21,305
+Cod-ing in Python,261.6,PLN,2018-09-23,306
+Advanced Ruby on Whales,48.0,EUR,2018-09-24,307
+Advanced Ruby on Whales,48.0,CHF,2018-09-25,308
+An Ag-isle Primer,17.99,CHF,2018-09-27,309
+Advanced Ruby on Whales,198.0,PLN,2018-09-29,310
+Cod-ing in Python,60.0,EUR,2018-10-03,311
+Cod-ing in Python,59.5,EUR,2018-10-09,312
+Cod-ing in Python,56.08,EUR,2018-10-09,313
+Cod-ing in Python,58.5,EUR,2018-10-09,314
+An Ag-isle Primer,18.0,CHF,2018-10-09,315
+Advanced Ruby on Whales,46.27,CHF,2018-10-10,316
+Cod-ing in Python,1168.53,TRY,2018-10-12,317
+Cod-ing in Python,56.99,EUR,2018-10-12,318
+Advanced Ruby on Whales,48.5,EUR,2018-10-17,319
+Advanced Ruby on Whales,47.0,EUR,2018-10-17,320
+Cod-ing in Python,57.0,EUR,2018-10-19,321
+Cod-ing in Python,58.49,EUR,2018-11-03,322
+Advanced Ruby on Whales,38.47,GBP,2018-11-04,323
+Advanced Ruby on Whales,45.0,EUR,2018-11-05,324
+An Ag-isle Primer,22.0,EUR,2018-11-06,325
+Advanced Ruby on Whales,209.49,PLN,2018-11-08,326
+Advanced Ruby on Whales,39.0,GBP,2018-11-10,327
+Advanced Ruby on Whales,1730.5,UAH,2018-11-11,328
+Cod-ing in Python,59.49,EUR,2018-11-17,329
+Cod-ing in Python,59.99,EUR,2018-11-18,330
+Cod-ing in Python,44.91,GBP,2018-11-19,331
+Advanced Ruby on Whales,44.0,EUR,2018-11-23,332
+Cod-ing in Python,58.0,EUR,2018-11-26,333
+Advanced Ruby on Whales,42.49,EUR,2018-11-28,334
+Cod-ing in Python,61.99,EUR,2018-11-30,335
+Cod-ing in Python,56.24,USD,2018-12-01,336
+Advanced Ruby on Whales,42.99,EUR,2018-12-02,337
+Advanced Ruby on Whales,46.0,EUR,2018-12-06,338
+An Ag-isle Primer,19.0,EUR,2018-12-10,339
+Cod-ing in Python,52.0,GBP,2018-12-13,340
+Cod-ing in Python,53.5,GBP,2018-12-13,341
+Cod-ing in Python,56.99,EUR,2018-12-15,342
+Advanced Ruby on Whales,43.0,GBP,2018-12-16,343
+Advanced Ruby on Whales,216.5,PLN,2018-12-20,344
+Advanced Ruby on Whales,45.49,EUR,2018-12-22,345
+An Ag-isle Primer,20.5,EUR,2018-12-23,346
+Cod-ing in Python,2285.49,UAH,2018-12-24,347
+Cod-ing in Python,55.99,EUR,2018-12-28,348
+Advanced Ruby on Whales,875.49,TRY,2018-12-29,349
+Cod-ing in Python,58.5,EUR,2019-01-03,350
+Cod-ing in Python,60.49,EUR,2019-01-09,351
+Advanced Ruby on Whales,37.5,GBP,2019-01-10,352
+Cod-ing in Python,275.5,PLN,2019-01-11,353
+Advanced Ruby on Whales,41.99,EUR,2019-01-12,354
+Cod-ing in Python,58.49,CHF,2019-01-13,355
+An Ag-isle Primer,16.0,GBP,2019-01-15,356
+Advanced Ruby on Whales,506.4,SEK,2019-01-19,357
+Advanced Ruby on Whales,46.0,EUR,2019-01-19,358
+An Ag-isle Primer,20.49,EUR,2019-01-20,359
+Cod-ing in Python,57.5,EUR,2019-01-25,360
+Cod-ing in Python,61.59,EUR,2019-01-25,361
+Advanced Ruby on Whales,44.49,EUR,2019-01-27,362
+Advanced Ruby on Whales,51.0,EUR,2019-01-29,363
+Cod-ing in Python,55.5,EUR,2019-02-01,364
+Cod-ing in Python,57.16,EUR,2019-02-05,365
+Advanced Ruby on Whales,42.0,GBP,2019-02-06,366
+Cod-ing in Python,48.5,GBP,2019-02-07,367
+Advanced Ruby on Whales,43.99,EUR,2019-02-09,368
+Advanced Ruby on Whales,48.5,EUR,2019-02-11,369
+An Ag-isle Primer,19.5,CHF,2019-02-12,370
+Cod-ing in Python,57.49,EUR,2019-02-15,371
+An Ag-isle Primer,222.5,SEK,2019-02-15,372
+Cod-ing in Python,50.99,EUR,2019-02-19,373
+Cod-ing in Python,49.49,GBP,2019-02-20,374
+Advanced Ruby on Whales,197.99,PLN,2019-02-24,375
+Advanced Ruby on Whales,39.19,GBP,2019-02-25,376
+Cod-ing in Python,2057.99,UAH,2019-02-25,377
+An Ag-isle Primer,15.99,GBP,2019-02-27,378
+Advanced Ruby on Whales,46.98,EUR,2019-02-28,379
+Cod-ing in Python,54.51,EUR,2019-03-03,380
+Cod-ing in Python,53.5,EUR,2019-03-03,381
+Cod-ing in Python,1051.5,TRY,2019-03-04,382
+Cod-ing in Python,56.5,EUR,2019-03-05,383
+An Ag-isle Primer,16.99,EUR,2019-03-05,384
+Cod-ing in Python,56.0,EUR,2019-03-07,385
+Advanced Ruby on Whales,45.49,EUR,2019-03-08,386
+The Crabmatic Programmer,56.99,EUR,2019-03-08,387
+The Crabmatic Programmer,59.49,EUR,2019-03-09,388
+The Crabmatic Programmer,56.99,EUR,2019-03-10,389
+The Crabmatic Programmer,59.99,EUR,2019-03-10,390
+The Crabmatic Programmer,55.49,EUR,2019-03-10,391
+The Crabmatic Programmer,60.0,EUR,2019-03-10,392
+The Crabmatic Programmer,55.26,EUR,2019-03-12,393
+The Crabmatic Programmer,578.0,SEK,2019-03-15,394
+Advanced Ruby on Whales,47.99,EUR,2019-03-16,395
+The Crabmatic Programmer,56.5,EUR,2019-03-19,396
+Cod-ing in Python,52.51,GBP,2019-03-20,397
+The Crabmatic Programmer,57.92,EUR,2019-03-21,398
+Building with Gradeel,75.99,EUR,2019-03-22,399
+Building with Gradeel,79.0,EUR,2019-03-22,400
+Building with Gradeel,366.99,PLN,2019-03-22,401
+Building with Gradeel,75.99,EUR,2019-03-22,402
+The Crabmatic Programmer,58.99,EUR,2019-03-23,403
+The Crabmatic Programmer,60.0,EUR,2019-03-23,404
+Building with Gradeel,75.49,CHF,2019-03-24,405
+Building with Gradeel,843.77,SEK,2019-03-24,406
+Building with Gradeel,78.5,EUR,2019-03-24,407
+The Crabmatic Programmer,49.49,GBP,2019-03-24,408
+The Crabmatic Programmer,59.5,EUR,2019-03-25,409
+Building with Gradeel,69.5,GBP,2019-03-27,410
+Building with Gradeel,80.99,EUR,2019-03-28,411
+Building with Gradeel,81.0,EUR,2019-03-29,412
+Cod-ing in Python,59.49,EUR,2019-03-30,413
+Building with Gradeel,76.49,EUR,2019-03-30,414
+Building with Gradeel,68.5,GBP,2019-03-30,415
+Building with Gradeel,68.5,GBP,2019-03-31,416
+Building with Gradeel,76.0,EUR,2019-03-31,417
+Building with Gradeel,376.45,PLN,2019-03-31,418
+The Crabmatic Programmer,59.0,EUR,2019-03-31,419
+An Ag-isle Primer,18.37,EUR,2019-04-01,420
+The Crabmatic Programmer,56.72,EUR,2019-04-02,421
+The Crabmatic Programmer,51.5,CHF,2019-04-02,422
+Building with Gradeel,78.49,EUR,2019-04-03,423
+Building with Gradeel,83.49,EUR,2019-04-03,424
+An Ag-isle Primer,21.0,EUR,2019-04-04,425
+The Crabmatic Programmer,50.49,GBP,2019-04-06,426
+Cod-ing in Python,263.76,PLN,2019-04-07,427
+Building with Gradeel,65.85,GBP,2019-04-07,428
+Building with Gradeel,69.99,GBP,2019-04-09,429
+Building with Gradeel,81.5,EUR,2019-04-09,430
+Building with Gradeel,67.99,GBP,2019-04-09,431
+The Crabmatic Programmer,55.49,EUR,2019-04-12,432
+Building with Gradeel,68.99,GBP,2019-04-14,433
+Advanced Ruby on Whales,44.5,EUR,2019-04-15,434
+Cod-ing in Python,48.49,GBP,2019-04-15,435
+The Crabmatic Programmer,276.5,PLN,2019-04-17,436
+Advanced Ruby on Whales,46.99,EUR,2019-04-18,437
+Cod-ing in Python,2268.49,UAH,2019-04-18,438
+Building with Gradeel,79.46,EUR,2019-04-19,439
+The Crabmatic Programmer,268.49,PLN,2019-04-20,440
+The Crabmatic Programmer,57.99,EUR,2019-04-20,441
+The Crabmatic Programmer,57.5,EUR,2019-04-23,442
+Advanced Ruby on Whales,45.99,EUR,2019-04-25,443
+Building with Gradeel,74.0,EUR,2019-04-25,444
+The Crabmatic Programmer,58.49,EUR,2019-04-25,445
+Advanced Ruby on Whales,48.49,EUR,2019-04-26,446
+Building with Gradeel,66.5,GBP,2019-04-27,447
+Building with Gradeel,66.99,GBP,2019-04-27,448
+The Crabmatic Programmer,49.5,GBP,2019-04-27,449
+The Crabmatic Programmer,56.49,EUR,2019-04-27,450
+Building with Gradeel,77.5,EUR,2019-04-28,451
+Building with Gradeel,75.0,EUR,2019-04-28,452
+Building with Gradeel,81.84,EUR,2019-04-28,453
+The Crabmatic Programmer,59.25,USD,2019-05-01,454
+Cod-ing in Python,634.99,SEK,2019-05-03,455
+Advanced Ruby on Whales,46.5,EUR,2019-05-04,456
+Building with Gradeel,75.5,EUR,2019-05-05,457
+An Ag-isle Primer,22.75,USD,2019-05-06,458
+Building with Gradeel,83.49,EUR,2019-05-07,459
+The Crabmatic Programmer,57.99,EUR,2019-05-09,460
+Advanced Ruby on Whales,45.99,EUR,2019-05-10,461
+The Crabmatic Programmer,2068.5,UAH,2019-05-11,462
+Building with Gradeel,69.5,GBP,2019-05-12,463
+Building with Gradeel,372.64,PLN,2019-05-12,464
+Advanced Ruby on Whales,43.5,EUR,2019-05-13,465
+Building with Gradeel,79.0,EUR,2019-05-13,466
+Building with Gradeel,80.0,EUR,2019-05-13,467
+Building with Gradeel,67.49,GBP,2019-05-15,468
+The Crabmatic Programmer,61.99,EUR,2019-05-15,469
+Building with Gradeel,74.0,EUR,2019-05-16,470
+Building with Gradeel,79.5,EUR,2019-05-18,471
+Advanced Ruby on Whales,39.5,GBP,2019-05-19,472
+Building with Gradeel,79.0,EUR,2019-05-20,473
+The Crabmatic Programmer,1149.5,TRY,2019-05-20,474
+Building with Gradeel,78.99,EUR,2019-05-23,475
+The Crabmatic Programmer,57.81,EUR,2019-05-24,476
+Advanced Ruby on Whales,47.99,EUR,2019-05-26,477
+The Crabmatic Programmer,60.0,EUR,2019-05-26,478
+The Crabmatic Programmer,60.0,EUR,2019-05-26,479
+Cod-ing in Python,52.5,GBP,2019-06-01,480
+Building with Gradeel,77.49,EUR,2019-06-02,481
+An Ag-isle Primer,17.5,EUR,2019-06-03,482
+Building with Gradeel,80.49,EUR,2019-06-03,483
+Building with Gradeel,79.74,EUR,2019-06-04,484
+The Crabmatic Programmer,61.0,EUR,2019-06-06,485
+The Crabmatic Programmer,60.5,EUR,2019-06-07,486
+An Ag-isle Primer,20.0,EUR,2019-06-09,487
+Building with Gradeel,81.71,EUR,2019-06-09,488
+Building with Gradeel,74.5,EUR,2019-06-11,489
+The Crabmatic Programmer,2093.49,UAH,2019-06-11,490
+Building with Gradeel,78.99,EUR,2019-06-13,491
+The Crabmatic Programmer,275.99,PLN,2019-06-15,492
+Building with Gradeel,77.0,EUR,2019-06-16,493
+Building with Gradeel,77.93,EUR,2019-06-17,494
+Building with Gradeel,365.06,PLN,2019-06-18,495
+Building with Gradeel,822.99,SEK,2019-06-18,496
+Building with Gradeel,373.49,PLN,2019-06-20,497
+Advanced Ruby on Whales,44.0,EUR,2019-06-21,498
+Advanced Ruby on Whales,44.5,EUR,2019-06-21,499
+The Crabmatic Programmer,57.81,EUR,2019-06-22,500
+The Crabmatic Programmer,61.99,EUR,2019-06-22,501
+Building with Gradeel,78.5,EUR,2019-06-24,502
+Cod-ing in Python,55.99,EUR,2019-06-26,503
+Building with Gradeel,77.0,USD,2019-06-26,504
+The Crabmatic Programmer,59.0,EUR,2019-06-27,505
+Building with Gradeel,79.0,EUR,2019-06-29,506
+Building with Gradeel,79.65,EUR,2019-06-30,507
+Building with Gradeel,76.0,EUR,2019-07-01,508
+Building with Gradeel,366.0,PLN,2019-07-01,509
+The Crabmatic Programmer,625.0,SEK,2019-07-02,510
+An Ag-isle Primer,19.0,EUR,2019-07-04,511
+The Crabmatic Programmer,54.5,EUR,2019-07-05,512
+Cod-ing in Python,55.3,EUR,2019-07-06,513
+Cod-ing in Python,57.4,EUR,2019-07-07,514
+Building with Gradeel,77.0,CHF,2019-07-09,515
+Building with Gradeel,68.84,GBP,2019-07-10,516
+The Crabmatic Programmer,57.45,EUR,2019-07-10,517
+Advanced Ruby on Whales,45.99,EUR,2019-07-13,518
+Building with Gradeel,2940.26,UAH,2019-07-15,519
+Advanced Ruby on Whales,40.5,EUR,2019-07-17,520
+Building with Gradeel,80.5,EUR,2019-07-18,521
+Building with Gradeel,1487.5,TRY,2019-07-19,522
+The Crabmatic Programmer,57.5,EUR,2019-07-22,523
+Advanced Ruby on Whales,44.0,EUR,2019-07-23,524
+The Crabmatic Programmer,58.05,EUR,2019-07-24,525
+Advanced Ruby on Whales,47.0,EUR,2019-07-27,526
+The Crabmatic Programmer,59.0,EUR,2019-07-28,527
+Advanced Ruby on Whales,45.86,EUR,2019-07-29,528
+Advanced Ruby on Whales,209.99,PLN,2019-07-30,529
+Advanced Ruby on Whales,42.5,GBP,2019-07-30,530
+Building with Gradeel,74.6,CHF,2019-07-31,531
+Fin-troduction to Sea++,219.0,PLN,2019-08-04,532
+Fin-troduction to Sea++,50.5,EUR,2019-08-04,533
+Advanced Ruby on Whales,40.49,EUR,2019-08-04,534
+The Crabmatic Programmer,50.71,GBP,2019-08-04,535
+Fin-troduction to Sea++,40.0,GBP,2019-08-05,536
+Building with Gradeel,77.49,EUR,2019-08-06,537
+Fin-troduction to Sea++,45.92,EUR,2019-08-07,538
+Building with Gradeel,76.99,EUR,2019-08-09,539
+Building with Gradeel,79.99,EUR,2019-08-09,540
+Fin-troduction to Sea++,50.5,EUR,2019-08-11,541
+Fin-troduction to Sea++,48.49,EUR,2019-08-11,542
+Fin-troduction to Sea++,49.5,EUR,2019-08-12,543
+Fin-troduction to Sea++,53.5,EUR,2019-08-12,544
+Fin-troduction to Sea++,41.49,GBP,2019-08-13,545
+Fin-troduction to Sea++,47.5,EUR,2019-08-13,546
+Fin-troduction to Sea++,49.5,EUR,2019-08-13,547
+Building with Gradeel,77.03,EUR,2019-08-13,548
+The Crabmatic Programmer,53.0,EUR,2019-08-14,549
+Fin-troduction to Sea++,49.56,EUR,2019-08-16,550
+Fin-troduction to Sea++,49.49,EUR,2019-08-17,551
+Cod-ing in Python,51.5,GBP,2019-08-17,552
+The Crabmatic Programmer,58.5,EUR,2019-08-17,553
+Fin-troduction to Sea++,40.99,GBP,2019-08-18,554
+Building with Gradeel,69.5,GBP,2019-08-18,555
+Fin-troduction to Sea++,48.0,EUR,2019-08-19,556
+Building with Gradeel,69.99,GBP,2019-08-19,557
+Building with Gradeel,81.0,EUR,2019-08-20,558
+Fin-troduction to Sea++,46.0,GBP,2019-08-21,559
+Advanced Ruby on Whales,45.0,EUR,2019-08-21,560
+Cod-ing in Python,49.24,GBP,2019-08-21,561
+Fin-troduction to Sea++,41.99,GBP,2019-08-22,562
+Fin-troduction to Sea++,42.0,GBP,2019-08-22,563
+Building with Gradeel,67.0,GBP,2019-08-23,564
+Building with Gradeel,74.99,EUR,2019-08-24,565
+Fin-troduction to Sea++,47.5,EUR,2019-08-25,566
+Fin-troduction to Sea++,44.0,EUR,2019-08-25,567
+Fin-troduction to Sea++,46.0,EUR,2019-08-25,568
+Building with Gradeel,82.1,EUR,2019-08-25,569
+Fin-troduction to Sea++,45.42,EUR,2019-08-27,570
+An Ag-isle Primer,21.5,EUR,2019-08-27,571
+Fin-troduction to Sea++,223.99,PLN,2019-08-29,572
+Advanced Ruby on Whales,40.0,GBP,2019-08-29,573
+Building with Gradeel,77.49,EUR,2019-08-30,574
+The Crabmatic Programmer,59.0,EUR,2019-09-01,575
+Fin-troduction to Sea++,48.0,EUR,2019-09-02,576
+Advanced Ruby on Whales,39.99,GBP,2019-09-02,577
+Cod-ing in Python,58.62,EUR,2019-09-03,578
+Cod-ing in Python,54.5,EUR,2019-09-03,579
+Building with Gradeel,1456.5,TRY,2019-09-03,580
+The Crabmatic Programmer,55.49,EUR,2019-09-03,581
+Fin-troduction to Sea++,51.0,EUR,2019-09-05,582
+Fin-troduction to Sea++,45.0,EUR,2019-09-05,583
+Building with Gradeel,68.5,GBP,2019-09-06,584
+Fin-troduction to Sea++,45.0,EUR,2019-09-07,585
+Fin-troduction to Sea++,42.8,GBP,2019-09-07,586
+Building with Gradeel,76.72,EUR,2019-09-07,587
+Fin-troduction to Sea++,47.29,EUR,2019-09-08,588
+Fin-troduction to Sea++,44.5,USD,2019-09-08,589
+Advanced Ruby on Whales,40.5,GBP,2019-09-08,590
+Building with Gradeel,81.0,EUR,2019-09-08,591
+Building with Gradeel,65.99,GBP,2019-09-09,592
+Building with Gradeel,75.99,EUR,2019-09-09,593
+Fin-troduction to Sea++,42.89,GBP,2019-09-10,594
+Building with Gradeel,74.5,EUR,2019-09-10,595
+Fin-troduction to Sea++,51.0,EUR,2019-09-11,596
+Fin-troduction to Sea++,49.0,EUR,2019-09-12,597
+Fin-troduction to Sea++,41.86,GBP,2019-09-13,598
+Advanced Ruby on Whales,42.49,GBP,2019-09-13,599
+The Crabmatic Programmer,59.99,EUR,2019-09-13,600
+Fin-troduction to Sea++,44.66,GBP,2019-09-14,601
+Fin-troduction to Sea++,52.0,EUR,2019-09-14,602
+Building with Gradeel,78.99,EUR,2019-09-14,603
+Advanced Ruby on Whales,45.99,EUR,2019-09-15,604
+Fin-troduction to Sea++,46.5,EUR,2019-09-16,605
+Fin-troduction to Sea++,51.49,EUR,2019-09-17,606
+Building with Gradeel,77.5,EUR,2019-09-18,607
+Fin-troduction to Sea++,48.49,EUR,2019-09-19,608
+Cod-ing in Python,54.99,EUR,2019-09-20,609
+Cod-ing in Python,58.5,EUR,2019-09-20,610
+Fin-troduction to Sea++,46.49,EUR,2019-09-21,611
+Fin-troduction to Sea++,46.5,CHF,2019-09-21,612
+Advanced Ruby on Whales,36.3,GBP,2019-09-21,613
+Fin-troduction to Sea++,49.51,EUR,2019-09-22,614
+Building with Gradeel,77.99,EUR,2019-09-22,615
+Fin-troduction to Sea++,43.0,EUR,2019-09-23,616
+Fin-troduction to Sea++,47.99,EUR,2019-09-23,617
+Cod-ing in Python,59.0,EUR,2019-09-24,618
+Fin-troduction to Sea++,211.0,PLN,2019-09-26,619
+Cod-ing in Python,52.0,EUR,2019-09-27,620
+Cod-ing in Python,49.57,GBP,2019-09-27,621
+The Crabmatic Programmer,269.18,PLN,2019-09-27,622
+Building with Gradeel,81.49,EUR,2019-09-28,623
+The Crabmatic Programmer,55.4,EUR,2019-09-28,624
+Fin-troduction to Sea++,41.49,GBP,2019-09-29,625
+Advanced Ruby on Whales,42.0,EUR,2019-09-29,626
+Fin-troduction to Sea++,48.67,EUR,2019-10-01,627
+Building with Gradeel,81.0,EUR,2019-10-01,628
+Building with Gradeel,79.99,EUR,2019-10-01,629
+Building with Gradeel,76.36,EUR,2019-10-01,630
+Fin-troduction to Sea++,47.44,EUR,2019-10-05,631
+Building with Gradeel,76.89,CHF,2019-10-05,632
+Building with Gradeel,77.5,EUR,2019-10-05,633
+Fin-troduction to Sea++,49.0,EUR,2019-10-06,634
+Fin-troduction to Sea++,46.0,EUR,2019-10-06,635
+Fin-troduction to Sea++,891.5,TRY,2019-10-06,636
+Building with Gradeel,70.5,GBP,2019-10-06,637
+Fin-troduction to Sea++,47.5,EUR,2019-10-07,638
+Fin-troduction to Sea++,41.47,GBP,2019-10-09,639
+Building with Gradeel,77.51,EUR,2019-10-09,640
+Building with Gradeel,80.0,EUR,2019-10-12,641
+Fin-troduction to Sea++,48.5,EUR,2019-10-13,642
+Fin-troduction to Sea++,46.49,EUR,2019-10-14,643
+Advanced Ruby on Whales,48.0,EUR,2019-10-14,644
+Building with Gradeel,80.5,EUR,2019-10-14,645
+Fin-troduction to Sea++,47.0,EUR,2019-10-15,646
+Fin-troduction to Sea++,46.99,EUR,2019-10-17,647
+Cod-ing in Python,58.72,EUR,2019-10-18,648
+Fin-troduction to Sea++,41.49,EUR,2019-10-20,649
+Fin-troduction to Sea++,47.06,EUR,2019-10-20,650
+Cod-ing in Python,243.0,PLN,2019-10-20,651
+Cod-ing in Python,59.5,EUR,2019-10-20,652
+Building with Gradeel,72.5,CHF,2019-10-20,653
+Building with Gradeel,350.49,PLN,2019-10-20,654
+The Crabmatic Programmer,62.82,EUR,2019-10-20,655
+Fin-troduction to Sea++,38.49,GBP,2019-10-21,656
+Fin-troduction to Sea++,52.49,EUR,2019-10-22,657
+The Crabmatic Programmer,56.49,EUR,2019-10-25,658
+Fin-troduction to Sea++,46.5,EUR,2019-10-26,659
+Fin-troduction to Sea++,227.33,PLN,2019-10-28,660
+The Crabmatic Programmer,56.34,EUR,2019-10-28,661
+Fin-troduction to Sea++,40.0,GBP,2019-11-01,662
+The Crabmatic Programmer,50.5,GBP,2019-11-03,663
+Fin-troduction to Sea++,216.5,PLN,2019-11-04,664
+Advanced Ruby on Whales,44.94,EUR,2019-11-04,665
+Cod-ing in Python,56.0,EUR,2019-11-04,666
+Fin-troduction to Sea++,38.0,GBP,2019-11-05,667
+The Crabmatic Programmer,55.99,EUR,2019-11-08,668
+Cod-ing in Python,59.0,EUR,2019-11-09,669
+Building with Gradeel,84.49,EUR,2019-11-09,670
+Fin-troduction to Sea++,48.99,EUR,2019-11-10,671
+Building with Gradeel,75.49,EUR,2019-11-11,672
+Fin-troduction to Sea++,47.99,EUR,2019-11-12,673
+Fin-troduction to Sea++,50.0,EUR,2019-11-12,674
+Building with Gradeel,81.17,USD,2019-11-12,675
+An Ag-isle Primer,15.49,GBP,2019-11-14,676
+Fin-troduction to Sea++,40.5,GBP,2019-11-15,677
+Fin-troduction to Sea++,41.49,GBP,2019-11-16,678
+Building with Gradeel,77.11,EUR,2019-11-18,679
+Building with Gradeel,1419.78,TRY,2019-11-18,680
+The Crabmatic Programmer,57.36,EUR,2019-11-18,681
+The Crabmatic Programmer,59.49,EUR,2019-11-18,682
+Advanced Ruby on Whales,47.49,EUR,2019-11-19,683
+Advanced Ruby on Whales,44.78,EUR,2019-11-19,684
+Building with Gradeel,77.0,EUR,2019-11-20,685
+Fin-troduction to Sea++,44.99,EUR,2019-11-21,686
+Fin-troduction to Sea++,53.49,EUR,2019-11-21,687
+Advanced Ruby on Whales,44.0,EUR,2019-11-21,688
+The Crabmatic Programmer,48.35,GBP,2019-11-21,689
+Fin-troduction to Sea++,48.49,CHF,2019-11-23,690
+Cod-ing in Python,49.5,GBP,2019-11-24,691
+Fin-troduction to Sea++,43.5,GBP,2019-11-25,692
+Advanced Ruby on Whales,195.5,PLN,2019-11-26,693
+Building with Gradeel,75.5,EUR,2019-11-26,694
+Building with Gradeel,358.5,PLN,2019-11-26,695
+Building with Gradeel,66.5,GBP,2019-11-27,696
+The Crabmatic Programmer,57.43,EUR,2019-11-27,697
+Building with Gradeel,67.0,GBP,2019-11-28,698
+Building with Gradeel,81.61,EUR,2019-11-29,699
+Building with Gradeel,67.5,GBP,2019-11-29,700
+Cod-ing in Python,57.0,EUR,2019-12-01,701
+The Crabmatic Programmer,278.99,PLN,2019-12-01,702
+Fin-troduction to Sea++,48.5,EUR,2019-12-03,703
+Advanced Ruby on Whales,47.99,EUR,2019-12-04,704
+Advanced Ruby on Whales,45.49,EUR,2019-12-04,705
+Building with Gradeel,78.5,EUR,2019-12-04,706
+Fin-troduction to Sea++,871.99,TRY,2019-12-05,707
+Cod-ing in Python,49.6,GBP,2019-12-05,708
+Advanced Ruby on Whales,46.91,EUR,2019-12-08,709
+Building with Gradeel,79.99,EUR,2019-12-08,710
+The Crabmatic Programmer,54.24,CHF,2019-12-08,711
+Cod-ing in Python,50.0,GBP,2019-12-09,712
+Building with Gradeel,78.0,EUR,2019-12-09,713
+Building with Gradeel,74.0,CHF,2019-12-09,714
+Cod-ing in Python,58.49,EUR,2019-12-10,715
+The Crabmatic Programmer,262.99,PLN,2019-12-11,716
+Fin-troduction to Sea++,47.5,EUR,2019-12-12,717
+Fin-troduction to Sea++,51.18,EUR,2019-12-13,718
+Fin-troduction to Sea++,47.0,EUR,2019-12-13,719
+Fin-troduction to Sea++,45.0,EUR,2019-12-14,720
+Fin-troduction to Sea++,45.77,EUR,2019-12-14,721
+Advanced Ruby on Whales,38.0,GBP,2019-12-14,722
+Building with Gradeel,74.5,EUR,2019-12-14,723
+Building with Gradeel,68.0,GBP,2019-12-14,724
+Cod-ing in Python,60.5,EUR,2019-12-15,725
+Building with Gradeel,78.66,CHF,2019-12-18,726
+Advanced Ruby on Whales,837.99,TRY,2019-12-19,727
+Cod-ing in Python,54.5,EUR,2019-12-19,728
+Fin-troduction to Sea++,1856.0,UAH,2019-12-20,729
+Fin-troduction to Sea++,44.5,EUR,2019-12-21,730
+Fin-troduction to Sea++,50.5,EUR,2019-12-21,731
+Advanced Ruby on Whales,38.49,GBP,2019-12-21,732
+The Crabmatic Programmer,57.49,EUR,2019-12-21,733
+The Crabmatic Programmer,54.99,EUR,2019-12-21,734
+Fin-troduction to Sea++,43.99,EUR,2019-12-22,735
+Building with Gradeel,349.5,PLN,2019-12-23,736
+Fin-troduction to Sea++,44.13,GBP,2019-12-24,737
+Building with Gradeel,79.13,EUR,2019-12-24,738
+Cod-ing in Python,58.49,EUR,2019-12-26,739
+Cod-ing in Python,268.0,PLN,2019-12-26,740
+Building with Gradeel,77.13,EUR,2019-12-26,741
+Fin-troduction to Sea++,50.0,EUR,2019-12-28,742
+Building with Gradeel,80.49,EUR,2019-12-28,743
+Cod-ing in Python,58.5,EUR,2019-12-30,744
+Fin-troduction to Sea++,50.99,EUR,2019-12-31,745
+Building with Gradeel,80.49,EUR,2019-12-31,746
+Fin-troduction to Sea++,39.5,GBP,2020-01-02,747
+Advanced Ruby on Whales,36.99,GBP,2020-01-04,748
+Fin-troduction to Sea++,51.5,EUR,2020-01-05,749
+Fin-troduction to Sea++,48.0,EUR,2020-01-09,750
+Building with Gradeel,70.0,GBP,2020-01-10,751
+Building with Gradeel,77.5,EUR,2020-01-11,752
+Fin-troduction to Sea++,47.5,EUR,2020-01-13,753
+The Crabmatic Programmer,48.0,GBP,2020-01-14,754
+Cod-ing in Python,57.11,EUR,2020-01-19,755
+Advanced Ruby on Whales,1808.5,UAH,2020-01-20,756
+The Crabmatic Programmer,49.91,GBP,2020-01-20,757
+An Ag-isle Primer,20.5,EUR,2020-01-21,758
+Fin-troduction to Sea++,49.74,EUR,2020-01-22,759
+Advanced Ruby on Whales,39.0,GBP,2020-01-23,760
+Fin-troduction to Sea++,40.0,GBP,2020-01-26,761
+Advanced Ruby on Whales,46.0,EUR,2020-01-26,762
+The Crabmatic Programmer,618.5,SEK,2020-01-26,763
+Fin-troduction to Sea++,46.19,EUR,2020-01-27,764
+Fin-troduction to Sea++,46.5,EUR,2020-01-27,765
+The Crabmatic Programmer,55.5,EUR,2020-01-27,766
+Advanced Ruby on Whales,1754.0,UAH,2020-01-29,767
+Fin-troduction to Sea++,48.5,EUR,2020-01-30,768
+Cod-ing in Python,53.5,GBP,2020-01-31,769
+An Ag-isle Primer,17.53,EUR,2020-01-31,770
+Fin-troduction to Sea++,42.49,EUR,2020-02-01,771
+Building with Gradeel,74.5,EUR,2020-02-01,772
+Cod-ing in Python,49.99,GBP,2020-02-02,773
+Building with Gradeel,75.5,EUR,2020-02-02,774
+The Crabmatic Programmer,57.0,EUR,2020-02-02,775
+Building with Gradeel,78.99,EUR,2020-02-03,776
+An Ag-isle Primer,16.99,EUR,2020-02-05,777
+The Crabmatic Programmer,59.0,EUR,2020-02-05,778
+Building with Gradeel,65.5,GBP,2020-02-07,779
+Fin-troduction to Sea++,39.0,GBP,2020-02-08,780
+Fin-troduction to Sea++,49.21,EUR,2020-02-09,781
+An Ag-isle Primer,21.76,EUR,2020-02-09,782
+Building with Gradeel,67.5,GBP,2020-02-10,783
+Building with Gradeel,66.99,GBP,2020-02-12,784
+Building with Gradeel,71.7,GBP,2020-02-12,785
+Fin-troduction to Sea++,50.0,EUR,2020-02-13,786
+An Ag-isle Primer,15.49,EUR,2020-02-14,787
+An Ag-isle Primer,102.5,PLN,2020-02-16,788
+Building with Gradeel,73.75,EUR,2020-02-16,789
+Building with Gradeel,79.5,EUR,2020-02-17,790
+Fin-troduction to Sea++,211.99,PLN,2020-02-18,791
+Building with Gradeel,77.0,EUR,2020-02-19,792
+Fin-troduction to Sea++,43.0,GBP,2020-02-20,793
+Building with Gradeel,76.49,EUR,2020-02-21,794
+Building with Gradeel,77.0,EUR,2020-02-22,795
+Fin-troduction to Sea++,44.99,USD,2020-02-23,796
+Fin-troduction to Sea++,232.0,PLN,2020-02-24,797
+Fin-troduction to Sea++,49.0,EUR,2020-02-27,798
+Fin-troduction to Sea++,48.99,EUR,2020-03-01,799
+Advanced Ruby on Whales,52.49,EUR,2020-03-03,800
+Fin-troduction to Sea++,215.0,PLN,2020-03-05,801
+Fin-troduction to Sea++,50.98,EUR,2020-03-05,802
+Fin-troduction to Sea++,41.99,GBP,2020-03-07,803
+Advanced Ruby on Whales,37.5,GBP,2020-03-07,804
+Building with Gradeel,71.49,GBP,2020-03-07,805
+An Ag-isle Primer,27.5,EUR,2020-03-09,806
+Cod-ing in Python,56.0,EUR,2020-03-10,807
+Fin-troduction to Sea++,1934.25,UAH,2020-03-11,808
+Cod-ing in Python,57.5,EUR,2020-03-11,809
+Cod-ing in Python,52.5,GBP,2020-03-12,810
+Building with Gradeel,349.5,PLN,2020-03-12,811
+Building with Gradeel,356.0,PLN,2020-03-12,812
+Fin-troduction to Sea++,44.56,EUR,2020-03-15,813
+Fin-troduction to Sea++,45.5,EUR,2020-03-15,814
+Advanced Ruby on Whales,47.99,EUR,2020-03-15,815
+Fin-troduction to Sea++,48.0,EUR,2020-03-16,816
+Advanced Ruby on Whales,37.5,GBP,2020-03-17,817
+Building with Gradeel,75.99,EUR,2020-03-20,818
+An Ag-isle Primer,18.5,EUR,2020-03-21,819
+Advanced Ruby on Whales,39.5,EUR,2020-03-22,820
+Building with Gradeel,80.0,EUR,2020-03-22,821
+Building with Gradeel,68.0,GBP,2020-03-22,822
+Advanced Ruby on Whales,532.0,SEK,2020-03-25,823
+Building with Gradeel,78.5,EUR,2020-03-27,824
+Fin-troduction to Sea++,48.99,EUR,2020-03-28,825
+Advanced Ruby on Whales,44.5,EUR,2020-03-28,826
+Building with Gradeel,69.0,GBP,2020-03-29,827
+Building with Gradeel,80.0,EUR,2020-03-31,828
+Fin-troduction to Sea++,48.5,EUR,2020-04-01,829
+Cod-ing in Python,57.0,EUR,2020-04-02,830
+Fin-troduction to Sea++,46.0,EUR,2020-04-04,831
+Advanced Ruby on Whales,38.5,GBP,2020-04-04,832
+An Ag-isle Primer,17.0,EUR,2020-04-05,833
+Advanced Ruby on Whales,46.82,EUR,2020-04-06,834
+Fin-troduction to Sea++,45.5,EUR,2020-04-10,835
+Building with Gradeel,77.99,EUR,2020-04-10,836
+Fin-troduction to Sea++,41.99,EUR,2020-04-12,837
+Fin-troduction to Sea++,44.17,EUR,2020-04-14,838
+Cod-ing in Python,49.5,GBP,2020-04-15,839
+Fin-troduction to Sea++,48.0,EUR,2020-04-18,840
+Building with Gradeel,81.99,EUR,2020-04-18,841
+Building with Gradeel,77.22,EUR,2020-04-18,842
+Building with Gradeel,78.49,EUR,2020-04-18,843
+Cod-ing in Python,62.56,EUR,2020-04-19,844
+Cod-ing in Python,1055.5,TRY,2020-04-21,845
+The Crabmatic Programmer,269.99,PLN,2020-04-21,846
+Cod-ing in Python,55.62,EUR,2020-04-22,847
+Fin-troduction to Sea++,45.99,EUR,2020-04-23,848
+Advanced Ruby on Whales,48.49,EUR,2020-04-24,849
+Cod-ing in Python,57.0,EUR,2020-04-24,850
+The Crabmatic Programmer,57.0,EUR,2020-04-25,851
+Building with Gradeel,67.5,GBP,2020-04-26,852
+An Ag-isle Primer,103.5,PLN,2020-04-27,853
+The Carp Of Computer Programming,62.99,CHF,2020-04-27,854
+Fin-troduction to Sea++,47.49,CHF,2020-04-30,855
+Building with Gradeel,78.0,EUR,2020-05-02,856
+The Crabmatic Programmer,285.49,PLN,2020-05-04,857
+Cod-ing in Python,59.5,EUR,2020-05-05,858
+An Ag-isle Primer,18.7,EUR,2020-05-05,859
+Building with Gradeel,872.99,SEK,2020-05-05,860
+Cod-ing in Python,55.0,CHF,2020-05-06,861
+The Crabmatic Programmer,48.92,GBP,2020-05-08,862
+Cod-ing in Python,56.07,EUR,2020-05-09,863
+The Crabmatic Programmer,57.49,EUR,2020-05-09,864
+The Carp Of Computer Programming,65.49,EUR,2020-05-10,865
+Building with Gradeel,77.99,EUR,2020-05-11,866
+An Ag-isle Primer,23.5,EUR,2020-05-12,867
+Fin-troduction to Sea++,45.0,USD,2020-05-14,868
+Building with Gradeel,1456.5,TRY,2020-05-14,869
+Building with Gradeel,78.34,EUR,2020-05-14,870
+Fin-troduction to Sea++,45.5,EUR,2020-05-15,871
+The Carp Of Computer Programming,64.5,EUR,2020-05-16,872
+Fin-troduction to Sea++,43.99,EUR,2020-05-17,873
+Building with Gradeel,818.5,SEK,2020-05-17,874
+Fin-troduction to Sea++,47.0,EUR,2020-05-18,875
+Building with Gradeel,77.24,EUR,2020-05-19,876
+Building with Gradeel,79.99,EUR,2020-05-19,877
+The Carp Of Computer Programming,66.24,EUR,2020-05-19,878
+The Carp Of Computer Programming,66.5,USD,2020-05-20,879
+The Carp Of Computer Programming,53.5,GBP,2020-05-21,880
+Software Sharkitecture in Practice,42.49,EUR,2020-05-22,881
+Fin-troduction to Sea++,41.99,GBP,2020-05-23,882
+Fin-troduction to Sea++,54.0,EUR,2020-05-25,883
+Software Sharkitecture in Practice,41.49,GBP,2020-05-26,884
+Fin-troduction to Sea++,50.0,EUR,2020-05-28,885
+Fin-troduction to Sea++,40.5,GBP,2020-05-29,886
+Cod-ing in Python,51.5,GBP,2020-06-01,887
+An Ag-isle Primer,14.49,EUR,2020-06-01,888
+Software Sharkitecture in Practice,45.0,EUR,2020-06-03,889
+Software Sharkitecture in Practice,47.58,EUR,2020-06-05,890
+Fin-troduction to Sea++,47.49,EUR,2020-06-06,891
+Building with Gradeel,77.49,EUR,2020-06-07,892
+Building with Gradeel,70.49,GBP,2020-06-07,893
+No Silver Mullet,55.5,EUR,2020-06-07,894
+No Silver Mullet,60.0,EUR,2020-06-07,895
+Building with Gradeel,80.0,EUR,2020-06-08,896
+Building with Gradeel,69.0,GBP,2020-06-08,897
+The Carp Of Computer Programming,63.99,EUR,2020-06-08,898
+No Silver Mullet,53.5,GBP,2020-06-08,899
+No Silver Mullet,2177.5,UAH,2020-06-08,900
+No Silver Mullet,58.49,EUR,2020-06-09,901
+Advanced Ruby on Whales,38.0,GBP,2020-06-10,902
+No Silver Mullet,62.5,EUR,2020-06-10,903
+Building with Gradeel,78.68,EUR,2020-06-11,904
+Fin-troduction to Sea++,46.5,EUR,2020-06-12,905
+No Silver Mullet,57.0,CHF,2020-06-12,906
+Cod-ing in Python,57.32,EUR,2020-06-13,907
+The Carp Of Computer Programming,66.5,EUR,2020-06-13,908
+Fin-troduction to Sea++,46.49,EUR,2020-06-14,909
+The Carp Of Computer Programming,72.39,EUR,2020-06-14,910
+The Carp Of Computer Programming,1278.54,TRY,2020-06-14,911
+The Crabmatic Programmer,50.49,GBP,2020-06-14,912
+Software Sharkitecture in Practice,51.49,EUR,2020-06-15,913
+Fin-troduction to Sea++,41.0,GBP,2020-06-17,914
+The Carp Of Computer Programming,65.65,EUR,2020-06-17,915
+The Carp Of Computer Programming,66.49,EUR,2020-06-17,916
+No Silver Mullet,2280.99,UAH,2020-06-18,917
+Fin-troduction to Sea++,46.5,EUR,2020-06-20,918
+Fin-troduction to Sea++,49.1,EUR,2020-06-21,919
+Cod-ing in Python,56.5,EUR,2020-06-22,920
+An Ag-isle Primer,17.0,EUR,2020-06-22,921
+Building with Gradeel,69.5,GBP,2020-06-22,922
+The Carp Of Computer Programming,68.0,EUR,2020-06-22,923
+Building with Gradeel,73.5,EUR,2020-06-23,924
+Building with Gradeel,78.0,EUR,2020-06-23,925
+Software Sharkitecture in Practice,45.0,EUR,2020-06-23,926
+No Silver Mullet,61.19,EUR,2020-06-23,927
+No Silver Mullet,51.49,GBP,2020-06-25,928
+Fin-troduction to Sea++,45.49,EUR,2020-06-26,929
+No Silver Mullet,277.86,PLN,2020-06-26,930
+The Carp Of Computer Programming,56.99,GBP,2020-06-27,931
+Software Sharkitecture in Practice,250.71,PLN,2020-06-27,932
+Cod-ing in Python,56.49,EUR,2020-06-28,933
+Cod-ing in Python,56.0,EUR,2020-06-29,934
+Fin-troduction to Sea++,48.49,EUR,2020-06-30,935
+Cod-ing in Python,50.99,GBP,2020-07-04,936
+Cod-ing in Python,57.0,EUR,2020-07-05,937
+Advanced Ruby on Whales,43.0,EUR,2020-07-06,938
+Cod-ing in Python,60.49,EUR,2020-07-06,939
+No Silver Mullet,1106.81,TRY,2020-07-06,940
+Fin-troduction to Sea++,48.5,EUR,2020-07-07,941
+Fin-troduction to Sea++,49.49,EUR,2020-07-07,942
+Building with Gradeel,2917.5,UAH,2020-07-07,943
+The Crabmatic Programmer,56.96,EUR,2020-07-07,944
+No Silver Mullet,62.26,EUR,2020-07-07,945
+Fin-troduction to Sea++,47.0,EUR,2020-07-08,946
+No Silver Mullet,64.99,EUR,2020-07-08,947
+The Carp Of Computer Programming,63.09,EUR,2020-07-09,948
+Software Sharkitecture in Practice,49.05,EUR,2020-07-09,949
+The Carp Of Computer Programming,68.5,EUR,2020-07-13,950
+Advanced Ruby on Whales,39.4,CHF,2020-07-14,951
+Building with Gradeel,79.49,CHF,2020-07-14,952
+The Crabmatic Programmer,61.0,EUR,2020-07-14,953
+Software Sharkitecture in Practice,527.57,SEK,2020-07-15,954
+Advanced Ruby on Whales,46.8,EUR,2020-07-17,955
+The Carp Of Computer Programming,65.99,EUR,2020-07-17,956
+Cod-ing in Python,2143.5,UAH,2020-07-19,957
+Fin-troduction to Sea++,48.51,EUR,2020-07-20,958
+Advanced Ruby on Whales,1517.0,UAH,2020-07-20,959
+Software Sharkitecture in Practice,46.99,EUR,2020-07-20,960
+The Crabmatic Programmer,2252.0,UAH,2020-07-20,961
+Building with Gradeel,76.5,EUR,2020-07-21,962
+No Silver Mullet,615.5,SEK,2020-07-21,963
+No Silver Mullet,61.99,EUR,2020-07-24,964
+Cod-ing in Python,52.5,GBP,2020-07-25,965
+Fin-troduction to Sea++,48.49,EUR,2020-07-26,966
+No Silver Mullet,57.5,EUR,2020-07-26,967
+Building with Gradeel,80.5,EUR,2020-07-27,968
+No Silver Mullet,53.46,EUR,2020-07-28,969
+Fin-troduction to Sea++,45.35,EUR,2020-07-29,970
+The Carp Of Computer Programming,65.49,EUR,2020-07-29,971
+The Crabmatic Programmer,55.0,EUR,2020-07-30,972
+No Silver Mullet,57.5,EUR,2020-08-01,973
+Advanced Ruby on Whales,49.99,EUR,2020-08-04,974
+No Silver Mullet,58.5,EUR,2020-08-04,975
+Fin-troduction to Sea++,48.5,EUR,2020-08-05,976
+The Crabmatic Programmer,62.79,EUR,2020-08-05,977
+The Crabmatic Programmer,58.29,EUR,2020-08-07,978
+The Carp Of Computer Programming,54.5,GBP,2020-08-10,979
+Software Sharkitecture in Practice,41.49,GBP,2020-08-10,980
+Fin-troduction to Sea++,47.5,EUR,2020-08-11,981
+Cod-ing in Python,601.5,SEK,2020-08-13,982
+Building with Gradeel,78.49,EUR,2020-08-13,983
+An Ag-isle Primer,21.31,EUR,2020-08-14,984
+Building with Gradeel,82.88,EUR,2020-08-14,985
+No Silver Mullet,54.5,EUR,2020-08-20,986
+Fin-troduction to Sea++,48.99,EUR,2020-08-21,987
+Building with Gradeel,73.99,EUR,2020-08-22,988
+The Carp Of Computer Programming,58.49,GBP,2020-08-22,989
+No Silver Mullet,59.38,EUR,2020-08-23,990
+Fin-troduction to Sea++,50.49,EUR,2020-08-24,991
+Building with Gradeel,78.49,EUR,2020-08-24,992
+No Silver Mullet,59.0,EUR,2020-08-24,993
+An Ag-isle Primer,21.49,EUR,2020-08-26,994
+No Silver Mullet,58.74,EUR,2020-08-28,995
+Fin-troduction to Sea++,41.5,GBP,2020-08-29,996
+The Crabmatic Programmer,56.99,EUR,2020-08-31,997
+Fin-troduction to Sea++,45.38,EUR,2020-09-01,998
+Building with Gradeel,76.99,USD,2020-09-01,999
+Cod-ing in Python,47.99,GBP,2020-09-03,1000
+The Carp Of Computer Programming,66.49,EUR,2020-09-03,1001
+Advanced Ruby on Whales,47.5,EUR,2020-09-08,1002
+The Crabmatic Programmer,269.0,PLN,2020-09-08,1003
+No Silver Mullet,57.99,EUR,2020-09-08,1004
+No Silver Mullet,57.99,EUR,2020-09-11,1005
+Fin-troduction to Sea++,46.34,EUR,2020-09-12,1006
+Building with Gradeel,76.5,EUR,2020-09-13,1007
+Container Orca-stration,54.5,GBP,2020-09-13,1008
+The Crabmatic Programmer,264.0,PLN,2020-09-13,1009
+Container Orca-stration,70.0,EUR,2020-09-15,1010
+Fin-troduction to Sea++,47.49,EUR,2020-09-16,1011
+Fin-troduction to Sea++,47.14,EUR,2020-09-16,1012
+Container Orca-stration,68.5,EUR,2020-09-16,1013
+Container Orca-stration,69.99,EUR,2020-09-16,1014
+Container Orca-stration,68.49,EUR,2020-09-16,1015
+Container Orca-stration,59.06,GBP,2020-09-17,1016
+Container Orca-stration,57.49,GBP,2020-09-18,1017
+Container Orca-stration,65.83,EUR,2020-09-18,1018
+Fin-troduction to Sea++,41.49,GBP,2020-09-19,1019
+Fin-troduction to Sea++,45.49,EUR,2020-09-19,1020
+Cod-ing in Python,59.72,EUR,2020-09-20,1021
+Building with Gradeel,845.5,SEK,2020-09-21,1022
+The Carp Of Computer Programming,65.55,EUR,2020-09-21,1023
+Container Orca-stration,66.63,EUR,2020-09-21,1024
+Container Orca-stration,1320.49,TRY,2020-09-22,1025
+No Silver Mullet,57.28,EUR,2020-09-22,1026
+Building with Gradeel,364.99,PLN,2020-09-23,1027
+Fin-troduction to Sea++,46.49,EUR,2020-09-26,1028
+Container Orca-stration,69.0,EUR,2020-09-26,1029
+Software Sharkitecture in Practice,45.49,EUR,2020-09-27,1030
+Fin-troduction to Sea++,48.25,CHF,2020-09-28,1031
+No Silver Mullet,57.49,EUR,2020-10-01,1032
+An Ag-isle Primer,18.5,EUR,2020-10-02,1033
+Container Orca-stration,1297.74,TRY,2020-10-03,1034
+Software Sharkitecture in Practice,47.5,EUR,2020-10-03,1035
+Container Orca-stration,71.0,EUR,2020-10-04,1036
+Container Orca-stration,307.49,PLN,2020-10-04,1037
+Container Orca-stration,69.18,EUR,2020-10-06,1038
+Software Sharkitecture in Practice,39.99,GBP,2020-10-06,1039
+The Carp Of Computer Programming,58.94,GBP,2020-10-07,1040
+Container Orca-stration,69.0,EUR,2020-10-07,1041
+Fin-troduction to Sea++,50.49,EUR,2020-10-08,1042
+Container Orca-stration,59.0,GBP,2020-10-08,1043
+Building with Gradeel,76.49,EUR,2020-10-09,1044
+Container Orca-stration,67.5,EUR,2020-10-10,1045
+Fin-troduction to Sea++,49.4,EUR,2020-10-12,1046
+Fin-troduction to Sea++,50.99,EUR,2020-10-12,1047
+Fin-troduction to Sea++,50.09,EUR,2020-10-13,1048
+Fin-troduction to Sea++,212.49,PLN,2020-10-13,1049
+Clean Cod,26.74,GBP,2020-10-13,1050
+Clean Cod,615.0,TRY,2020-10-13,1051
+Container Orca-stration,66.99,EUR,2020-10-13,1052
+Clean Cod,35.0,EUR,2020-10-14,1053
+Container Orca-stration,61.0,GBP,2020-10-18,1054
+Software Sharkitecture in Practice,828.69,TRY,2020-10-18,1055
+Fin-troduction to Sea++,48.5,EUR,2020-10-19,1056
+Software Sharkitecture in Practice,50.5,EUR,2020-10-19,1057
+Building with Gradeel,76.5,EUR,2020-10-20,1058
+Software Sharkitecture in Practice,47.49,EUR,2020-10-21,1059
+Fin-troduction to Sea++,47.99,EUR,2020-10-22,1060
+Software Sharkitecture in Practice,49.5,EUR,2020-10-23,1061
+Cod-ing in Python,56.99,EUR,2020-10-24,1062
+Building with Gradeel,365.47,PLN,2020-10-24,1063
+Container Orca-stration,69.0,EUR,2020-10-24,1064
+Container Orca-stration,57.49,GBP,2020-10-24,1065
+Advanced Ruby on Whales,44.33,EUR,2020-10-25,1066
+Clean Cod,29.5,EUR,2020-10-26,1067
+Building with Gradeel,69.49,GBP,2020-10-26,1068
+Container Orca-stration,63.0,GBP,2020-10-26,1069
+No Silver Mullet,50.0,GBP,2020-10-26,1070
+Clean Cod,29.88,EUR,2020-10-27,1071
+Clean Cod,32.0,EUR,2020-10-28,1072
+Advanced Ruby on Whales,40.49,GBP,2020-10-29,1073
+Advanced Ruby on Whales,48.0,USD,2020-10-29,1074
+Clean Cod,31.0,EUR,2020-10-29,1075
+Cod-ing in Python,1082.5,TRY,2020-10-29,1076
+Building with Gradeel,79.99,EUR,2020-10-29,1077
+No Silver Mullet,50.47,GBP,2020-10-29,1078
+Container Orca-stration,68.5,EUR,2020-10-30,1079
+Fin-troduction to Sea++,48.0,EUR,2020-10-31,1080
+Clean Cod,1377.56,UAH,2020-10-31,1081
+Software Sharkitecture in Practice,47.0,EUR,2020-10-31,1082
+Fin-troduction to Sea++,46.5,EUR,2020-11-01,1083
+Clean Cod,32.0,EUR,2020-11-01,1084
+Advanced Ruby on Whales,1586.5,UAH,2020-11-03,1085
+The Carp Of Computer Programming,67.0,EUR,2020-11-03,1086
+Software Sharkitecture in Practice,47.5,EUR,2020-11-03,1087
+No Silver Mullet,53.49,GBP,2020-11-03,1088
+No Silver Mullet,1156.5,TRY,2020-11-03,1089
+Advanced Ruby on Whales,928.69,TRY,2020-11-04,1090
+Building with Gradeel,69.54,GBP,2020-11-04,1091
+Clean Cod,29.0,EUR,2020-11-06,1092
+The Carp Of Computer Programming,57.49,GBP,2020-11-06,1093
+Software Sharkitecture in Practice,46.0,EUR,2020-11-06,1094
+Fin-troduction to Sea++,40.5,GBP,2020-11-07,1095
+Advanced Ruby on Whales,39.0,GBP,2020-11-07,1096
+Container Orca-stration,59.49,GBP,2020-11-07,1097
+Container Orca-stration,70.49,EUR,2020-11-07,1098
+Clean Cod,33.99,EUR,2020-11-09,1099
+Container Orca-stration,72.5,EUR,2020-11-09,1100
+Container Orca-stration,69.49,EUR,2020-11-09,1101
+Building with Gradeel,77.0,EUR,2020-11-10,1102
+Container Orca-stration,62.49,GBP,2020-11-10,1103
+No Silver Mullet,59.22,EUR,2020-11-10,1104
+Building with Gradeel,80.0,EUR,2020-11-11,1105
+Software Sharkitecture in Practice,47.5,EUR,2020-11-11,1106
+An Ag-isle Primer,17.0,EUR,2020-11-12,1107
+Fin-troduction to Sea++,41.49,GBP,2020-11-14,1108
+Container Orca-stration,69.5,EUR,2020-11-14,1109
+Clean Cod,34.49,EUR,2020-11-16,1110
+Building with Gradeel,77.5,EUR,2020-11-17,1111
+Container Orca-stration,68.5,EUR,2020-11-17,1112
+Fin-troduction to Sea++,40.91,GBP,2020-11-19,1113
+Building with Gradeel,80.0,CHF,2020-11-19,1114
+The Crabmatic Programmer,58.98,EUR,2020-11-19,1115
+Fin-troduction to Sea++,517.49,SEK,2020-11-21,1116
+Fin-troduction to Sea++,44.5,EUR,2020-11-21,1117
+Building with Gradeel,78.13,EUR,2020-11-21,1118
+Clean Cod,152.5,PLN,2020-11-22,1119
+Advanced Ruby on Whales,40.96,GBP,2020-11-23,1120
+Cod-ing in Python,1164.0,TRY,2020-11-23,1121
+Building with Gradeel,68.49,GBP,2020-11-23,1122
+Building with Gradeel,366.0,PLN,2020-11-24,1123
+Advanced Ruby on Whales,43.99,EUR,2020-11-25,1124
+Clean Cod,30.49,EUR,2020-11-25,1125
+Clean Cod,25.99,GBP,2020-11-26,1126
+Cod-ing in Python,615.67,SEK,2020-11-26,1127
+Building with Gradeel,370.3,PLN,2020-11-26,1128
+The Carp Of Computer Programming,68.9,EUR,2020-11-26,1129
+The Carp Of Computer Programming,66.34,EUR,2020-11-26,1130
+Building with Gradeel,79.0,EUR,2020-11-27,1131
+Fin-troduction to Sea++,50.04,EUR,2020-11-28,1132
+Software Sharkitecture in Practice,49.5,EUR,2020-11-28,1133
+Fin-troduction to Sea++,231.49,PLN,2020-11-29,1134
+Clean Cod,30.5,EUR,2020-11-29,1135
+Cod-ing in Python,49.49,GBP,2020-11-29,1136
+The Crabmatic Programmer,52.5,GBP,2020-11-29,1137
+Fin-troduction to Sea++,948.49,TRY,2020-11-30,1138
+Container Orca-stration,54.0,GBP,2020-11-30,1139
+Fin-troduction to Sea++,45.0,CHF,2020-12-01,1140
+Fin-troduction to Sea++,46.0,EUR,2020-12-01,1141
+Clean Cod,137.49,PLN,2020-12-01,1142
+Cod-ing in Python,48.5,GBP,2020-12-01,1143
+Building with Gradeel,79.0,EUR,2020-12-01,1144
+Container Orca-stration,65.0,EUR,2020-12-01,1145
+The Crabmatic Programmer,57.5,EUR,2020-12-01,1146
+The Crabmatic Programmer,59.0,EUR,2020-12-01,1147
+Fin-troduction to Sea++,49.99,EUR,2020-12-02,1148
+Cod-ing in Python,60.0,EUR,2020-12-02,1149
+Building with Gradeel,79.5,EUR,2020-12-03,1150
+Clean Cod,32.5,USD,2020-12-04,1151
+The Crabmatic Programmer,60.99,EUR,2020-12-04,1152
+Fin-troduction to Sea++,45.5,CHF,2020-12-05,1153
+Advanced Ruby on Whales,42.5,EUR,2020-12-05,1154
+Clean Cod,29.0,EUR,2020-12-05,1155
+Fin-troduction to Sea++,1000.44,TRY,2020-12-06,1156
+No Silver Mullet,49.5,GBP,2020-12-06,1157
+Fin-troduction to Sea++,48.84,EUR,2020-12-07,1158
+Clean Cod,32.5,EUR,2020-12-09,1159
+The Carp Of Computer Programming,59.49,GBP,2020-12-09,1160
+Container Orca-stration,71.49,EUR,2020-12-09,1161
+No Silver Mullet,54.99,EUR,2020-12-09,1162
+Clean Cod,1182.0,UAH,2020-12-10,1163
+The Carp Of Computer Programming,66.0,EUR,2020-12-10,1164
+Container Orca-stration,65.76,EUR,2020-12-10,1165
+Container Orca-stration,67.0,EUR,2020-12-12,1166
+Container Orca-stration,2547.0,UAH,2020-12-12,1167
+No Silver Mullet,50.5,GBP,2020-12-12,1168
+Clean Cod,32.53,EUR,2020-12-13,1169
+Building with Gradeel,851.5,SEK,2020-12-13,1170
+Fin-troduction to Sea++,52.49,EUR,2020-12-14,1171
+Clean Cod,37.0,EUR,2020-12-14,1172
+Clean Cod,35.5,EUR,2020-12-14,1173
+Cod-ing in Python,58.99,EUR,2020-12-14,1174
+Building with Gradeel,67.99,GBP,2020-12-15,1175
+Fin-troduction to Sea++,50.99,EUR,2020-12-16,1176
+Advanced Ruby on Whales,48.0,EUR,2020-12-17,1177
+Cod-ing in Python,57.5,CHF,2020-12-17,1178
+Fin-troduction to Sea++,48.0,EUR,2020-12-19,1179
+Advanced Ruby on Whales,37.49,GBP,2020-12-19,1180
+Cod-ing in Python,47.99,GBP,2020-12-19,1181
+Fin-troduction to Sea++,878.58,TRY,2020-12-20,1182
+Cod-ing in Python,47.49,GBP,2020-12-20,1183
+Building with Gradeel,78.49,EUR,2020-12-20,1184
+Software Sharkitecture in Practice,46.0,EUR,2020-12-20,1185
+The Crabmatic Programmer,54.49,EUR,2020-12-20,1186
+No Silver Mullet,60.0,EUR,2020-12-20,1187
+Fin-troduction to Sea++,41.5,GBP,2020-12-21,1188
+Building with Gradeel,73.5,EUR,2020-12-21,1189
+No Silver Mullet,55.1,EUR,2020-12-21,1190
+Advanced Ruby on Whales,39.49,GBP,2020-12-22,1191
+Container Orca-stration,64.99,EUR,2020-12-22,1192
+Fin-troduction to Sea++,46.0,EUR,2020-12-23,1193
+Advanced Ruby on Whales,44.99,EUR,2020-12-23,1194
+The Crabmatic Programmer,59.99,EUR,2020-12-23,1195
+An Ag-isle Primer,19.5,EUR,2020-12-24,1196
+Container Orca-stration,318.99,PLN,2020-12-24,1197
+The Crabmatic Programmer,51.99,GBP,2020-12-24,1198
+Container Orca-stration,714.49,SEK,2020-12-25,1199
+Container Orca-stration,70.0,USD,2020-12-25,1200
+Fin-troduction to Sea++,46.0,EUR,2020-12-26,1201
+Fin-troduction to Sea++,48.49,CHF,2020-12-26,1202
+Fin-troduction to Sea++,39.5,GBP,2020-12-26,1203
+Cod-ing in Python,52.5,GBP,2020-12-26,1204
+Container Orca-stration,67.49,EUR,2020-12-26,1205
+Software Sharkitecture in Practice,46.49,EUR,2020-12-26,1206
+No Silver Mullet,2287.5,UAH,2020-12-26,1207
+Advanced Ruby on Whales,49.0,EUR,2020-12-28,1208
+An Ag-isle Primer,16.99,EUR,2020-12-28,1209
+Fin-troduction to Sea++,49.67,EUR,2020-12-29,1210
+Cod-ing in Python,55.5,EUR,2020-12-29,1211
+Container Orca-stration,72.5,EUR,2020-12-29,1212
+Fin-troduction to Sea++,40.68,GBP,2020-12-30,1213
+Clean Cod,149.5,PLN,2020-12-30,1214
+An Ag-isle Primer,22.99,EUR,2020-12-30,1215
+No Silver Mullet,57.5,EUR,2020-12-30,1216
+Clean Cod,1301.5,UAH,2020-12-31,1217
+Cod-ing in Python,50.5,GBP,2020-12-31,1218
+The Carp Of Computer Programming,65.99,EUR,2020-12-31,1219
+Container Orca-stration,72.99,USD,2021-01-02,1220
+The Crabmatic Programmer,60.5,EUR,2021-01-02,1221
+Fin-troduction to Sea++,50.0,EUR,2021-01-04,1222
+No Silver Mullet,51.0,GBP,2021-01-04,1223
+Building with Gradeel,347.99,PLN,2021-01-05,1224
+Advanced Ruby on Whales,900.0,TRY,2021-01-06,1225
+The Crabmatic Programmer,56.49,EUR,2021-01-06,1226
+Advanced Ruby on Whales,45.0,EUR,2021-01-07,1227
+Building with Gradeel,69.5,GBP,2021-01-08,1228
+Building with Gradeel,79.49,EUR,2021-01-08,1229
+Building with Gradeel,76.52,EUR,2021-01-09,1230
+The Crabmatic Programmer,59.5,EUR,2021-01-09,1231
+Clean Cod,28.98,GBP,2021-01-10,1232
+No Silver Mullet,247.5,PLN,2021-01-10,1233
+Clean Cod,24.99,GBP,2021-01-11,1234
+Cod-ing in Python,55.49,EUR,2021-01-11,1235
+Advanced Ruby on Whales,44.5,EUR,2021-01-12,1236
+Container Orca-stration,67.0,EUR,2021-01-12,1237
+The Crabmatic Programmer,59.5,EUR,2021-01-13,1238
+Clean Cod,28.49,GBP,2021-01-14,1239
+Building with Gradeel,75.0,EUR,2021-01-14,1240
+Container Orca-stration,72.0,EUR,2021-01-14,1241
+No Silver Mullet,54.99,CHF,2021-01-15,1242
+The Carp Of Computer Programming,64.5,EUR,2021-01-16,1243
+Clean Cod,635.0,TRY,2021-01-17,1244
+Cod-ing in Python,57.0,EUR,2021-01-17,1245
+Building with Gradeel,79.0,EUR,2021-01-22,1246
+Clean Cod,31.0,EUR,2021-01-23,1247
+Cod-ing in Python,58.49,EUR,2021-01-23,1248
+Container Orca-stration,68.5,EUR,2021-01-23,1249
+Fin-troduction to Sea++,47.0,EUR,2021-01-24,1250
+Fin-troduction to Sea++,42.24,GBP,2021-01-24,1251
+Container Orca-stration,66.5,EUR,2021-01-24,1252
+The Crabmatic Programmer,58.58,EUR,2021-01-24,1253
+Clean Cod,31.5,USD,2021-01-26,1254
+Building with Gradeel,84.49,EUR,2021-01-27,1255
+Container Orca-stration,59.5,GBP,2021-01-29,1256
+The Crabmatic Programmer,56.5,EUR,2021-01-30,1257
+The Crabmatic Programmer,56.8,EUR,2021-01-31,1258
+Clean Cod,33.5,EUR,2021-02-02,1259
+Container Orca-stration,65.0,EUR,2021-02-02,1260
+No Silver Mullet,56.99,EUR,2021-02-02,1261
+Building with Gradeel,79.13,EUR,2021-02-04,1262
+Container Orca-stration,68.5,EUR,2021-02-04,1263
+Fin-troduction to Sea++,51.25,EUR,2021-02-05,1264
+Fin-troduction to Sea++,873.99,TRY,2021-02-06,1265
+Clean Cod,143.0,PLN,2021-02-06,1266
+Building with Gradeel,79.39,EUR,2021-02-06,1267
+The Carp Of Computer Programming,70.5,EUR,2021-02-06,1268
+Fin-troduction to Sea++,45.99,EUR,2021-02-07,1269
+An Ag-isle Primer,17.0,GBP,2021-02-07,1270
+Building with Gradeel,78.5,EUR,2021-02-08,1271
+Software Sharkitecture in Practice,51.9,EUR,2021-02-08,1272
+Software Sharkitecture in Practice,40.5,GBP,2021-02-08,1273
+Clean Cod,29.67,EUR,2021-02-09,1274
+The Crabmatic Programmer,58.0,EUR,2021-02-10,1275
+Fin-troduction to Sea++,896.99,TRY,2021-02-11,1276
+Clean Cod,133.5,PLN,2021-02-11,1277
+Advanced Ruby on Whales,46.0,EUR,2021-02-13,1278
+Container Orca-stration,68.5,EUR,2021-02-13,1279
+The Crabmatic Programmer,63.0,EUR,2021-02-14,1280
+Container Orca-stration,69.49,EUR,2021-02-15,1281
+Building with Gradeel,1494.5,TRY,2021-02-16,1282
+The Crabmatic Programmer,283.0,PLN,2021-02-16,1283
+Fin-troduction to Sea++,49.5,EUR,2021-02-17,1284
+Advanced Ruby on Whales,467.0,SEK,2021-02-17,1285
+An Ag-isle Primer,19.99,EUR,2021-02-17,1286
+Fin-troduction to Sea++,46.5,EUR,2021-02-18,1287
+Fin-troduction to Sea++,928.49,TRY,2021-02-18,1288
+Clean Cod,32.99,EUR,2021-02-18,1289
+The Crabmatic Programmer,51.99,GBP,2021-02-18,1290
+Fin-troduction to Sea++,49.99,EUR,2021-02-22,1291
+Building with Gradeel,71.5,EUR,2021-02-22,1292
+Software Sharkitecture in Practice,49.0,EUR,2021-02-22,1293
+The Crabmatic Programmer,60.99,EUR,2021-02-23,1294
+Fin-troduction to Sea++,50.0,EUR,2021-02-25,1295
+Fin-troduction to Sea++,50.0,EUR,2021-02-25,1296
+Container Orca-stration,62.0,GBP,2021-02-25,1297
+Building with Gradeel,69.5,GBP,2021-02-26,1298
+The Crabmatic Programmer,49.49,GBP,2021-02-26,1299
+Clean Cod,32.5,EUR,2021-02-27,1300
+Cod-ing in Python,47.91,GBP,2021-02-27,1301
+Fin-troduction to Sea++,45.5,CHF,2021-02-28,1302
+Cod-ing in Python,54.99,EUR,2021-02-28,1303
+Container Orca-stration,66.99,EUR,2021-02-28,1304
+The Crabmatic Programmer,59.99,EUR,2021-02-28,1305
+Container Orca-stration,65.62,EUR,2021-03-01,1306
+Container Orca-stration,2576.49,UAH,2021-03-01,1307
+An Ag-isle Primer,17.99,EUR,2021-03-02,1308
+Container Orca-stration,706.23,SEK,2021-03-02,1309
+The Crabmatic Programmer,58.5,EUR,2021-03-03,1310
+Clean Cod,31.49,EUR,2021-03-04,1311
+Building with Gradeel,73.46,EUR,2021-03-05,1312
+Fin-troduction to Sea++,940.49,TRY,2021-03-06,1313
+Container Orca-stration,68.99,EUR,2021-03-07,1314
+No Silver Mullet,56.5,EUR,2021-03-08,1315
+Fin-troduction to Sea++,48.5,USD,2021-03-09,1316
+Building with Gradeel,75.99,EUR,2021-03-12,1317
+No Silver Mullet,1085.49,TRY,2021-03-13,1318
+No Silver Mullet,53.5,EUR,2021-03-13,1319
+Container Orca-stration,69.5,EUR,2021-03-14,1320
+Clean Cod,1206.99,UAH,2021-03-16,1321
+An Ag-isle Primer,20.5,EUR,2021-03-16,1322
+Building with Gradeel,78.75,EUR,2021-03-19,1323
+Container Orca-stration,66.49,EUR,2021-03-19,1324
+Clean Cod,28.49,GBP,2021-03-20,1325
+Clean Cod,26.79,GBP,2021-03-20,1326
+Cod-ing in Python,59.99,EUR,2021-03-20,1327
+Advanced Ruby on Whales,39.5,GBP,2021-03-21,1328
+Clean Cod,29.49,GBP,2021-03-22,1329
+Fin-troduction to Sea++,49.0,EUR,2021-03-23,1330
+Fin-troduction to Sea++,48.0,USD,2021-03-25,1331
+Building with Gradeel,66.5,GBP,2021-03-25,1332
+Software Sharkitecture in Practice,38.5,GBP,2021-03-26,1333
+No Silver Mullet,50.99,GBP,2021-03-26,1334
+Container Orca-stration,67.5,EUR,2021-03-27,1335
+Fin-troduction to Sea++,861.5,TRY,2021-03-28,1336
+Fin-troduction to Sea++,42.5,EUR,2021-03-28,1337
+No Silver Mullet,276.49,PLN,2021-03-28,1338
+Clean Cod,29.49,EUR,2021-03-29,1339
+Clean Cod,34.0,EUR,2021-03-30,1340
+Container Orca-stration,63.0,GBP,2021-03-30,1341
+Advanced Ruby on Whales,44.55,EUR,2021-03-31,1342
+Fin-troduction to Sea++,46.49,EUR,2021-04-01,1343
+Building with Gradeel,79.0,EUR,2021-04-01,1344
+Container Orca-stration,61.0,GBP,2021-04-01,1345
+No Silver Mullet,53.0,GBP,2021-04-02,1346
+Building with Gradeel,78.0,EUR,2021-04-03,1347
+The Carp Of Computer Programming,2470.5,UAH,2021-04-03,1348
+Container Orca-stration,71.5,EUR,2021-04-03,1349
+Advanced Ruby on Whales,36.88,GBP,2021-04-04,1350
+Container Orca-stration,305.5,PLN,2021-04-04,1351
+Fin-troduction to Sea++,41.5,GBP,2021-04-05,1352
+An Ag-isle Primer,21.0,EUR,2021-04-05,1353
+The Carp Of Computer Programming,67.5,EUR,2021-04-06,1354
+Container Orca-stration,68.62,EUR,2021-04-06,1355
+Clean Cod,28.5,EUR,2021-04-07,1356
+Building with Gradeel,78.0,EUR,2021-04-10,1357
+The Carp Of Computer Programming,301.0,PLN,2021-04-10,1358
+Container Orca-stration,748.5,SEK,2021-04-10,1359
+Cod-ing in Python,2257.0,UAH,2021-04-12,1360
+Container Orca-stration,71.49,EUR,2021-04-15,1361
+Fin-troduction to Sea++,533.99,SEK,2021-04-16,1362
+Building with Gradeel,76.06,EUR,2021-04-20,1363
+Building with Gradeel,74.99,EUR,2021-04-21,1364
+The Crabmatic Programmer,60.49,EUR,2021-04-22,1365
+Container Orca-stration,70.99,EUR,2021-04-23,1366
+Cod-ing in Python,58.5,EUR,2021-04-25,1367
+Building with Gradeel,67.5,GBP,2021-04-25,1368
+Container Orca-stration,58.0,GBP,2021-04-25,1369
+Fin-troduction to Sea++,47.49,EUR,2021-04-26,1370
+Fin-troduction to Sea++,39.22,GBP,2021-04-26,1371
+Fin-troduction to Sea++,46.99,EUR,2021-04-27,1372
+Container Orca-stration,66.0,EUR,2021-04-27,1373
+Container Orca-stration,66.49,EUR,2021-04-28,1374
+The Crabmatic Programmer,59.77,EUR,2021-04-28,1375
+Clean Cod,30.99,EUR,2021-04-30,1376
+Cod-ing in Python,61.0,EUR,2021-04-30,1377
+Building with Gradeel,77.0,EUR,2021-05-01,1378
+The Carp Of Computer Programming,64.0,EUR,2021-05-01,1379
+Container Orca-stration,70.0,EUR,2021-05-01,1380
+No Silver Mullet,49.52,GBP,2021-05-02,1381
+Cod-ing in Python,51.0,GBP,2021-05-03,1382
+The Crabmatic Programmer,52.0,GBP,2021-05-03,1383
+Building with Gradeel,84.25,USD,2021-05-04,1384
+Cod-ing in Python,46.0,GBP,2021-05-05,1385
+The Crabmatic Programmer,58.5,EUR,2021-05-06,1386
+No Silver Mullet,62.5,EUR,2021-05-08,1387
+Container Orca-stration,71.99,EUR,2021-05-09,1388
+Cod-ing in Python,55.03,EUR,2021-05-10,1389
+Fin-troduction to Sea++,42.5,GBP,2021-05-13,1390
+Advanced Ruby on Whales,45.99,EUR,2021-05-15,1391
+Building with Gradeel,360.5,PLN,2021-05-15,1392
+Fin-troduction to Sea++,50.0,EUR,2021-05-16,1393
+Cod-ing in Python,60.0,EUR,2021-05-16,1394
+Fin-troduction to Sea++,48.49,EUR,2021-05-17,1395
+Building with Gradeel,68.03,GBP,2021-05-17,1396
+Advanced Ruby on Whales,45.5,EUR,2021-05-18,1397
+Building with Gradeel,76.51,EUR,2021-05-20,1398
+Building with Gradeel,79.0,EUR,2021-05-21,1399
+Advanced Ruby on Whales,499.0,SEK,2021-05-23,1400
+Fin-troduction to Sea++,50.49,EUR,2021-05-26,1401
+The Carp Of Computer Programming,66.49,EUR,2021-05-26,1402
+Building with Gradeel,66.0,GBP,2021-05-27,1403
+Software Sharkitecture in Practice,42.49,EUR,2021-05-28,1404
+The Crabmatic Programmer,61.37,EUR,2021-05-28,1405
+The Crabmatic Programmer,57.99,EUR,2021-05-30,1406
+Fin-troduction to Sea++,48.0,EUR,2021-05-31,1407
+Cod-ing in Python,57.5,EUR,2021-05-31,1408
+The Crabmatic Programmer,56.5,EUR,2021-06-01,1409
+Container Orca-stration,70.49,EUR,2021-06-02,1410
+Cod-ing in Python,59.49,EUR,2021-06-03,1411
+Building with Gradeel,75.99,EUR,2021-06-03,1412
+No Silver Mullet,57.49,EUR,2021-06-03,1413
+The Carp Of Computer Programming,65.5,EUR,2021-06-04,1414
+Container Orca-stration,69.0,EUR,2021-06-05,1415
+The Crabmatic Programmer,54.99,CHF,2021-06-05,1416
+Container Orca-stration,56.0,GBP,2021-06-06,1417
+Fin-troduction to Sea++,44.75,EUR,2021-06-08,1418
+Clean Cod,26.49,GBP,2021-06-08,1419
+Building with Gradeel,81.5,EUR,2021-06-08,1420
+Container Orca-stration,69.99,EUR,2021-06-08,1421
+Fin-troduction to Sea++,49.5,EUR,2021-06-09,1422
+Building with Gradeel,75.0,EUR,2021-06-09,1423
+Container Orca-stration,328.0,PLN,2021-06-09,1424
+Fin-troduction to Sea++,219.75,PLN,2021-06-10,1425
+Building with Gradeel,2923.5,UAH,2021-06-10,1426
+Container Orca-stration,741.49,SEK,2021-06-10,1427
+Fin-troduction to Sea++,40.5,GBP,2021-06-11,1428
+Container Orca-stration,312.48,PLN,2021-06-11,1429
+No Silver Mullet,55.21,EUR,2021-06-11,1430
+No Silver Mullet,56.49,EUR,2021-06-11,1431
+Clean Cod,28.5,EUR,2021-06-12,1432
+Cod-ing in Python,58.0,EUR,2021-06-12,1433
+An Ag-isle Primer,781.99,UAH,2021-06-12,1434
+Building with Gradeel,65.5,GBP,2021-06-12,1435
+Container Orca-stration,58.1,GBP,2021-06-12,1436
+Container Orca-stration,67.5,EUR,2021-06-12,1437
+The Crabmatic Programmer,253.34,PLN,2021-06-12,1438
+Fin-troduction to Sea++,40.99,GBP,2021-06-13,1439
+Clean Cod,121.49,PLN,2021-06-13,1440
+Container Orca-stration,66.28,EUR,2021-06-13,1441
+Fin-troduction to Sea++,47.49,EUR,2021-06-15,1442
+Container Orca-stration,1314.99,TRY,2021-06-15,1443
+Container Orca-stration,69.64,EUR,2021-06-15,1444
+The Carp Of Computer Programming,2597.5,UAH,2021-06-17,1445
+Fin-troduction to Sea++,43.5,GBP,2021-06-18,1446
+Fin-troduction to Sea++,48.5,EUR,2021-06-18,1447
+Building with Gradeel,81.5,EUR,2021-06-19,1448
+Container Orca-stration,686.99,SEK,2021-06-19,1449
+Cod-ing in Python,58.0,EUR,2021-06-21,1450
+Cod-ing in Python,591.99,SEK,2021-06-21,1451
+The Crabmatic Programmer,55.51,EUR,2021-06-21,1452
+Fin-troduction to Sea++,44.99,GBP,2021-06-22,1453
+Advanced Ruby on Whales,196.0,PLN,2021-06-22,1454
+Fin-troduction to Sea++,224.75,PLN,2021-06-23,1455
+Software Sharkitecture in Practice,50.0,EUR,2021-06-23,1456
+Fin-troduction to Sea++,44.5,EUR,2021-06-24,1457
+Fin-troduction to Sea++,515.99,SEK,2021-06-26,1458
+Clean Cod,27.49,EUR,2021-06-26,1459
+The Carp Of Computer Programming,65.19,EUR,2021-06-26,1460
+The Carp Of Computer Programming,69.0,EUR,2021-06-26,1461
+Fin-troduction to Sea++,44.99,EUR,2021-07-01,1462
+Fin-troduction to Sea++,223.44,PLN,2021-07-03,1463
+Advanced Ruby on Whales,47.5,CHF,2021-07-03,1464
+Container Orca-stration,71.5,EUR,2021-07-04,1465
+No Silver Mullet,57.0,EUR,2021-07-04,1466
+Fin-troduction to Sea++,504.5,SEK,2021-07-05,1467
+Fin-troduction to Sea++,45.99,EUR,2021-07-07,1468
+The Carp Of Computer Programming,63.81,EUR,2021-07-07,1469
+Fin-troduction to Sea++,50.0,EUR,2021-07-08,1470
+Container Orca-stration,66.49,EUR,2021-07-08,1471
+Fin-troduction to Sea++,215.49,PLN,2021-07-09,1472
+Clean Cod,35.0,EUR,2021-07-11,1473
+Building with Gradeel,77.69,EUR,2021-07-11,1474
+No Silver Mullet,2248.5,UAH,2021-07-11,1475
+An Ag-isle Primer,19.5,EUR,2021-07-13,1476
+Fin-troduction to Sea++,45.49,EUR,2021-07-14,1477
+Clean Cod,30.0,GBP,2021-07-14,1478
+Building with Gradeel,1520.99,TRY,2021-07-14,1479
+Building with Gradeel,79.98,EUR,2021-07-17,1480
+Fin-troduction to Sea++,45.49,EUR,2021-07-20,1481
+Fin-troduction to Sea++,43.99,GBP,2021-07-20,1482
+The Carp Of Computer Programming,66.49,EUR,2021-07-21,1483
+Advanced Ruby on Whales,48.5,EUR,2021-07-22,1484
+An Ag-isle Primer,17.5,EUR,2021-07-22,1485
+The Crabmatic Programmer,59.5,EUR,2021-07-22,1486
+Fin-troduction to Sea++,48.5,EUR,2021-07-24,1487
+Fin-troduction to Sea++,50.49,USD,2021-07-24,1488
+Fin-troduction to Sea++,38.49,GBP,2021-07-26,1489
+Cod-ing in Python,57.22,EUR,2021-07-26,1490
+Building with Gradeel,80.0,EUR,2021-07-27,1491
+The Carp Of Computer Programming,65.99,EUR,2021-07-27,1492
+No Silver Mullet,53.0,EUR,2021-07-28,1493
+Fin-troduction to Sea++,39.45,GBP,2021-07-29,1494
+Cod-ing in Python,54.49,EUR,2021-07-29,1495
+No Silver Mullet,59.49,EUR,2021-07-29,1496
+Building with Gradeel,75.5,EUR,2021-08-02,1497
+The Crabmatic Programmer,642.66,SEK,2021-08-02,1498
+The Carp Of Computer Programming,719.49,SEK,2021-08-05,1499
+Container Orca-stration,68.78,EUR,2021-08-05,1500
+Clean Cod,31.08,GBP,2021-08-07,1501
+Building with Gradeel,66.5,GBP,2021-08-07,1502
+The Carp Of Computer Programming,70.0,EUR,2021-08-07,1503
+Container Orca-stration,65.5,EUR,2021-08-07,1504
+An Ag-isle Primer,207.5,SEK,2021-08-09,1505
+An Ag-isle Primer,21.0,EUR,2021-08-09,1506
+The Carp Of Computer Programming,66.5,CHF,2021-08-11,1507
+Fin-troduction to Sea++,541.42,SEK,2021-08-13,1508
+Fin-troduction to Sea++,40.0,GBP,2021-08-13,1509
+Building with Gradeel,77.0,EUR,2021-08-13,1510
+Container Orca-stration,68.89,EUR,2021-08-13,1511
+Fin-troduction to Sea++,492.37,SEK,2021-08-14,1512
+Clean Cod,31.5,EUR,2021-08-15,1513
+No Silver Mullet,58.99,EUR,2021-08-15,1514
+The Crabmatic Programmer,60.5,EUR,2021-08-16,1515
+Fin-troduction to Sea++,231.03,PLN,2021-08-17,1516
+Software Sharkitecture in Practice,1835.5,UAH,2021-08-17,1517
+Software Sharkitecture in Practice,48.5,EUR,2021-08-18,1518
+The Carp Of Computer Programming,65.0,EUR,2021-08-19,1519
+Container Orca-stration,71.49,EUR,2021-08-19,1520
+Container Orca-stration,70.99,EUR,2021-08-19,1521
+Container Orca-stration,1323.5,TRY,2021-08-21,1522
+Building with Gradeel,78.0,EUR,2021-08-23,1523
+Cod-ing in Python,52.5,GBP,2021-08-24,1524
+Building with Gradeel,77.0,EUR,2021-08-24,1525
+Container Orca-stration,60.0,GBP,2021-08-24,1526
+Fin-troduction to Sea++,834.99,TRY,2021-08-25,1527
+Fin-troduction to Sea++,48.0,EUR,2021-08-27,1528
+Fin-troduction to Sea++,875.49,TRY,2021-08-27,1529
+Building with Gradeel,71.35,GBP,2021-08-27,1530
+Fin-troduction to Sea++,226.68,PLN,2021-08-28,1531
+Fin-troduction to Sea++,50.99,EUR,2021-08-28,1532
+Container Orca-stration,70.5,EUR,2021-08-28,1533
+Advanced Ruby on Whales,50.0,USD,2021-08-29,1534
+Cod-ing in Python,57.49,EUR,2021-08-30,1535
+Container Orca-stration,319.5,PLN,2021-08-30,1536
+Advanced Ruby on Whales,52.5,EUR,2021-08-31,1537
+Cod-ing in Python,48.64,GBP,2021-08-31,1538
+Building with Gradeel,81.41,USD,2021-09-01,1539
+Cod-ing in Python,60.0,EUR,2021-09-05,1540
+The Crabmatic Programmer,57.38,EUR,2021-09-09,1541
+Fin-troduction to Sea++,41.0,GBP,2021-09-10,1542
+Building with Gradeel,369.49,PLN,2021-09-11,1543
+No Silver Mullet,621.12,SEK,2021-09-12,1544
+Container Orca-stration,66.49,EUR,2021-09-13,1545
+Fin-troduction to Sea++,44.99,CHF,2021-09-14,1546
+No Silver Mullet,257.5,PLN,2021-09-14,1547
+The Crabmatic Programmer,56.0,EUR,2021-09-15,1548
+Container Orca-stration,69.99,EUR,2021-09-16,1549
+The Carp Of Computer Programming,65.0,EUR,2021-09-17,1550
+Container Orca-stration,70.99,EUR,2021-09-18,1551
+The Crabmatic Programmer,57.0,EUR,2021-09-22,1552
+Clean Cod,32.99,EUR,2021-09-23,1553
+The Carp Of Computer Programming,68.49,EUR,2021-09-26,1554
+Building with Gradeel,77.49,EUR,2021-09-27,1555
+Container Orca-stration,69.5,EUR,2021-09-28,1556
+Container Orca-stration,56.79,GBP,2021-09-28,1557
+Fin-troduction to Sea++,45.92,EUR,2021-09-30,1558
+Building with Gradeel,826.0,SEK,2021-10-01,1559
+Container Orca-stration,72.49,EUR,2021-10-01,1560
+No Silver Mullet,49.99,GBP,2021-10-04,1561
+Fin-troduction to Sea++,538.5,SEK,2021-10-05,1562
+The Crabmatic Programmer,61.5,EUR,2021-10-05,1563
+No Silver Mullet,60.5,EUR,2021-10-05,1564
+No Silver Mullet,49.99,GBP,2021-10-05,1565
+Container Orca-stration,68.0,EUR,2021-10-07,1566
+The Crabmatic Programmer,57.5,CHF,2021-10-09,1567
+Fin-troduction to Sea++,41.49,GBP,2021-10-10,1568
+Container Orca-stration,65.91,EUR,2021-10-10,1569
+No Silver Mullet,59.5,EUR,2021-10-10,1570
+Fin-troduction to Sea++,48.5,EUR,2021-10-11,1571
+Cod-ing in Python,53.0,EUR,2021-10-15,1572
+Container Orca-stration,73.0,USD,2021-10-16,1573
+Fin-troduction to Sea++,48.44,EUR,2021-10-17,1574
+Software Sharkitecture in Practice,47.99,EUR,2021-10-17,1575
+Building with Gradeel,75.5,EUR,2021-10-18,1576
+Fin-troduction to Sea++,49.0,EUR,2021-10-20,1577
+Building with Gradeel,66.5,GBP,2021-10-21,1578
+The Crabmatic Programmer,59.99,EUR,2021-10-21,1579
+Clean Cod,30.33,EUR,2021-10-24,1580
+Cod-ing in Python,56.93,GBP,2021-10-24,1581
+Fin-troduction to Sea++,50.0,EUR,2021-10-25,1582
+Container Orca-stration,67.49,EUR,2021-10-26,1583
+Advanced Ruby on Whales,45.5,EUR,2021-10-27,1584
+Container Orca-stration,66.99,EUR,2021-10-27,1585
+Software Sharkitecture in Practice,46.5,EUR,2021-10-29,1586
+Advanced Ruby on Whales,211.0,PLN,2021-10-30,1587
+Building with Gradeel,80.5,EUR,2021-10-30,1588
+Container Orca-stration,298.5,PLN,2021-11-01,1589
+Clean Cod,34.5,EUR,2021-11-02,1590
+Fin-troduction to Sea++,52.5,EUR,2021-11-03,1591
+Cod-ing in Python,53.0,GBP,2021-11-03,1592
+Fin-troduction to Sea++,47.99,EUR,2021-11-05,1593
+Software Sharkitecture in Practice,41.0,GBP,2021-11-05,1594
+Container Orca-stration,71.49,EUR,2021-11-06,1595
+Fin-troduction to Sea++,48.0,EUR,2021-11-07,1596
+Cod-ing in Python,600.49,SEK,2021-11-08,1597
+Cod-ing in Python,56.61,EUR,2021-11-08,1598
+The Crabmatic Programmer,2190.5,UAH,2021-11-09,1599
+Advanced Ruby on Whales,48.5,EUR,2021-11-10,1600
+Building with Gradeel,79.5,EUR,2021-11-10,1601
+The Crabmatic Programmer,58.0,EUR,2021-11-10,1602
+Cod-ing in Python,58.5,EUR,2021-11-12,1603
+Building with Gradeel,75.49,EUR,2021-11-12,1604
+Clean Cod,30.5,EUR,2021-11-14,1605
+Container Orca-stration,319.99,PLN,2021-11-14,1606
+Container Orca-stration,67.25,EUR,2021-11-14,1607
+Software Sharkitecture in Practice,1935.0,UAH,2021-11-14,1608
+No Silver Mullet,56.03,CHF,2021-11-14,1609
+Building with Gradeel,2832.49,UAH,2021-11-15,1610
+Building with Gradeel,73.5,EUR,2021-11-15,1611
+Fin-troduction to Sea++,49.5,EUR,2021-11-16,1612
+The Crabmatic Programmer,56.5,EUR,2021-11-16,1613
+The Crabmatic Programmer,57.5,EUR,2021-11-16,1614
+Clean Cod,29.49,EUR,2021-11-18,1615
+Clean Cod,140.47,PLN,2021-11-18,1616
+Building with Gradeel,78.0,EUR,2021-11-18,1617
+Advanced Ruby on Whales,47.0,EUR,2021-11-20,1618
+Building with Gradeel,75.0,EUR,2021-11-20,1619
+Fin-troduction to Sea++,1863.5,UAH,2021-11-21,1620
+Fin-troduction to Sea++,47.0,EUR,2021-11-21,1621
+Advanced Ruby on Whales,212.49,PLN,2021-11-21,1622
+Software Sharkitecture in Practice,1724.0,UAH,2021-11-21,1623
+No Silver Mullet,61.53,EUR,2021-11-21,1624
+Fin-troduction to Sea++,40.06,GBP,2021-11-22,1625
+Building with Gradeel,76.5,EUR,2021-11-22,1626
+Building with Gradeel,75.0,EUR,2021-11-22,1627
+Advanced Ruby on Whales,48.0,EUR,2021-11-23,1628
+The Crabmatic Programmer,62.0,EUR,2021-11-23,1629
+Cod-ing in Python,54.78,EUR,2021-11-24,1630
+Fin-troduction to Sea++,235.0,PLN,2021-11-25,1631
+The Carp Of Computer Programming,66.5,EUR,2021-11-25,1632
+Building with Gradeel,79.5,EUR,2021-11-28,1633
+Fin-troduction to Sea++,47.78,EUR,2021-11-29,1634
+No Silver Mullet,55.0,EUR,2021-12-02,1635
+Fin-troduction to Sea++,50.5,EUR,2021-12-04,1636
+Advanced Ruby on Whales,50.72,EUR,2021-12-04,1637
+Container Orca-stration,66.5,EUR,2021-12-04,1638
+Fin-troduction to Sea++,38.99,GBP,2021-12-06,1639
+Fin-troduction to Sea++,48.56,EUR,2021-12-06,1640
+Container Orca-stration,67.0,EUR,2021-12-07,1641
+Container Orca-stration,68.0,EUR,2021-12-08,1642
+An Ag-isle Primer,193.0,SEK,2021-12-09,1643
+The Crabmatic Programmer,641.4,SEK,2021-12-09,1644
+The Carp Of Computer Programming,67.5,EUR,2021-12-11,1645
+The Crabmatic Programmer,56.49,EUR,2021-12-11,1646
+No Silver Mullet,61.0,EUR,2021-12-12,1647
+Fin-troduction to Sea++,40.62,GBP,2021-12-13,1648
+An Ag-isle Primer,16.0,GBP,2021-12-13,1649
+Software Sharkitecture in Practice,46.88,EUR,2021-12-13,1650
+No Silver Mullet,58.85,EUR,2021-12-14,1651
+No Silver Mullet,59.5,EUR,2021-12-15,1652
+Clean Cod,30.5,EUR,2021-12-16,1653
+Building with Gradeel,64.41,GBP,2021-12-17,1654
+The Crabmatic Programmer,56.5,EUR,2021-12-17,1655
+Cod-ing in Python,58.0,USD,2021-12-18,1656
+The Crabmatic Programmer,59.73,EUR,2021-12-18,1657
+Fin-troduction to Sea++,42.0,GBP,2021-12-20,1658
+Container Orca-stration,326.0,PLN,2021-12-20,1659
+Software Sharkitecture in Practice,47.99,EUR,2021-12-20,1660
+The Crabmatic Programmer,60.12,EUR,2021-12-20,1661
+Building with Gradeel,74.87,CHF,2021-12-21,1662
+An Ag-isle Primer,13.99,GBP,2021-12-22,1663
+Fin-troduction to Sea++,41.5,GBP,2021-12-23,1664
+Clean Cod,34.99,EUR,2021-12-24,1665
+Cod-ing in Python,57.49,EUR,2021-12-25,1666
+Building with Gradeel,365.49,PLN,2021-12-25,1667
+Building with Gradeel,80.0,EUR,2021-12-26,1668
+Building with Gradeel,77.5,EUR,2021-12-26,1669
+The Crabmatic Programmer,53.0,EUR,2021-12-26,1670
+Container Orca-stration,68.61,EUR,2021-12-28,1671
+Advanced Ruby on Whales,42.5,EUR,2021-12-29,1672
+Building with Gradeel,75.5,EUR,2021-12-30,1673
+The Carp Of Computer Programming,64.0,EUR,2021-12-30,1674
+Container Orca-stration,65.5,EUR,2021-12-30,1675

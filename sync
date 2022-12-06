@@ -15,8 +15,8 @@ OUTPUT_LOCK = threading.Lock()
 # These names should match the folder names in exercises and db_init
 DATABASE_NAMES = [
     'album_sales',
+    'sales_global'
 ]
-
 
 def run_sync():
     file_uploader = FileUploader(output_lock=OUTPUT_LOCK)

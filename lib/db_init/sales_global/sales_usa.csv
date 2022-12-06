@@ -1,0 +1,2629 @@
+product_name,amount,sale_date,id
+An Ag-isle Primer,21.5,2016-01-08,1
+An Ag-isle Primer,21.99,2016-01-10,2
+An Ag-isle Primer,24.5,2016-01-11,3
+An Ag-isle Primer,20.49,2016-01-16,4
+An Ag-isle Primer,22.96,2016-01-19,5
+An Ag-isle Primer,20.99,2016-01-20,6
+An Ag-isle Primer,20.5,2016-01-21,7
+An Ag-isle Primer,20.5,2016-01-24,8
+An Ag-isle Primer,20.49,2016-02-02,9
+An Ag-isle Primer,19.0,2016-02-04,10
+An Ag-isle Primer,20.99,2016-02-04,11
+An Ag-isle Primer,21.49,2016-02-05,12
+An Ag-isle Primer,19.5,2016-02-08,13
+An Ag-isle Primer,17.49,2016-02-10,14
+An Ag-isle Primer,22.99,2016-02-22,15
+An Ag-isle Primer,19.99,2016-02-25,16
+An Ag-isle Primer,18.49,2016-03-09,17
+An Ag-isle Primer,19.69,2016-03-13,18
+An Ag-isle Primer,23.0,2016-04-03,19
+An Ag-isle Primer,18.99,2016-04-23,20
+An Ag-isle Primer,21.99,2016-04-29,21
+An Ag-isle Primer,20.5,2016-06-03,22
+Cod-ing in Python,59.49,2016-06-04,23
+Cod-ing in Python,58.97,2016-06-05,24
+Cod-ing in Python,60.0,2016-06-07,25
+Cod-ing in Python,61.49,2016-06-08,26
+Cod-ing in Python,58.0,2016-06-09,27
+Cod-ing in Python,61.49,2016-06-10,28
+Cod-ing in Python,64.0,2016-06-11,29
+An Ag-isle Primer,18.99,2016-06-12,30
+Cod-ing in Python,54.0,2016-06-13,31
+Cod-ing in Python,63.0,2016-06-14,32
+An Ag-isle Primer,18.5,2016-06-14,33
+Cod-ing in Python,58.49,2016-06-15,34
+Sea-act Hooks,56.57,2016-06-16,35
+Sea-act Hooks,54.5,2016-06-16,36
+Sea-act Hooks,53.5,2016-06-16,37
+Sea-act Hooks,55.5,2016-06-16,38
+Sea-act Hooks,52.99,2016-06-16,39
+Sea-act Hooks,55.4,2016-06-16,40
+Cod-ing in Python,56.5,2016-06-16,41
+Sea-act Hooks,49.5,2016-06-17,42
+Cod-ing in Python,59.53,2016-06-17,43
+Sea-act Hooks,56.49,2016-06-18,44
+Sea-act Hooks,56.0,2016-06-18,45
+Sea-act Hooks,54.5,2016-06-18,46
+Cod-ing in Python,59.99,2016-06-18,47
+Sea-act Hooks,57.49,2016-06-19,48
+Sea-act Hooks,54.38,2016-06-19,49
+Cod-ing in Python,60.18,2016-06-19,50
+Sea-act Hooks,54.54,2016-06-20,51
+Cod-ing in Python,61.13,2016-06-20,52
+Sea-act Hooks,49.52,2016-06-21,53
+Sea-act Hooks,57.49,2016-06-21,54
+Sea-act Hooks,53.49,2016-06-21,55
+Sea-act Hooks,52.5,2016-06-21,56
+Cod-ing in Python,59.5,2016-06-21,57
+Cod-ing in Python,60.5,2016-06-22,58
+Sea-act Hooks,54.49,2016-06-23,59
+Sea-act Hooks,50.0,2016-06-23,60
+Sea-act Hooks,54.99,2016-06-23,61
+Sea-act Hooks,50.49,2016-06-23,62
+Cod-ing in Python,61.49,2016-06-23,63
+Sea-act Hooks,52.49,2016-06-24,64
+Sea-act Hooks,56.0,2016-06-25,65
+Cod-ing in Python,61.0,2016-06-25,66
+An Ag-isle Primer,25.91,2016-06-25,67
+Sea-act Hooks,53.99,2016-06-26,68
+Sea-act Hooks,58.5,2016-06-26,69
+Sea-act Hooks,54.5,2016-06-26,70
+Sea-act Hooks,50.5,2016-06-26,71
+Cod-ing in Python,61.5,2016-06-26,72
+Cod-ing in Python,56.5,2016-06-26,73
+Sea-act Hooks,55.5,2016-06-27,74
+Sea-act Hooks,56.0,2016-06-28,75
+Sea-act Hooks,57.0,2016-06-28,76
+Sea-act Hooks,52.5,2016-06-28,77
+Sea-act Hooks,52.49,2016-06-29,78
+Sea-act Hooks,57.99,2016-06-29,79
+Sea-act Hooks,51.99,2016-06-30,80
+Sea-act Hooks,54.0,2016-06-30,81
+Cod-ing in Python,57.5,2016-06-30,82
+Sea-act Hooks,58.46,2016-07-01,83
+Cod-ing in Python,57.99,2016-07-01,84
+An Ag-isle Primer,21.07,2016-07-01,85
+Sea-act Hooks,54.0,2016-07-02,86
+Cod-ing in Python,60.49,2016-07-02,87
+Cod-ing in Python,59.5,2016-07-02,88
+Sea-act Hooks,52.5,2016-07-04,89
+Cod-ing in Python,58.5,2016-07-04,90
+Sea-act Hooks,54.71,2016-07-05,91
+Cod-ing in Python,58.49,2016-07-05,92
+Sea-act Hooks,52.0,2016-07-06,93
+Sea-act Hooks,56.5,2016-07-07,94
+Sea-act Hooks,52.0,2016-07-07,95
+Sea-act Hooks,53.13,2016-07-07,96
+Sea-act Hooks,53.49,2016-07-07,97
+An Ag-isle Primer,21.0,2016-07-08,98
+Sea-act Hooks,52.99,2016-07-09,99
+Sea-act Hooks,54.99,2016-07-09,100
+Sea-act Hooks,55.5,2016-07-09,101
+Cod-ing in Python,59.5,2016-07-09,102
+Cod-ing in Python,62.0,2016-07-09,103
+Sea-act Hooks,52.0,2016-07-10,104
+Sea-act Hooks,56.49,2016-07-11,105
+Sea-act Hooks,53.86,2016-07-11,106
+An Ag-isle Primer,21.49,2016-07-12,107
+Sea-act Hooks,54.49,2016-07-13,108
+Sea-act Hooks,52.5,2016-07-13,109
+Sea-act Hooks,54.49,2016-07-16,110
+Sea-act Hooks,53.0,2016-07-16,111
+Sea-act Hooks,53.23,2016-07-16,112
+Sea-act Hooks,52.5,2016-07-17,113
+Cod-ing in Python,64.0,2016-07-17,114
+Cod-ing in Python,56.49,2016-07-17,115
+An Ag-isle Primer,21.0,2016-07-17,116
+Cod-ing in Python,61.49,2016-07-21,117
+Sea-act Hooks,54.93,2016-07-22,118
+Cod-ing in Python,59.99,2016-07-22,119
+Sea-act Hooks,55.5,2016-07-23,120
+Sea-act Hooks,51.5,2016-07-23,121
+Sea-act Hooks,54.5,2016-07-23,122
+Sea-act Hooks,51.49,2016-07-25,123
+Sea-act Hooks,56.0,2016-07-26,124
+Sea-act Hooks,52.49,2016-07-28,125
+Sea-act Hooks,53.5,2016-07-28,126
+Sea-act Hooks,52.5,2016-07-30,127
+Sea-act Hooks,54.99,2016-07-30,128
+Sea-act Hooks,52.61,2016-07-30,129
+Sea-act Hooks,55.34,2016-07-30,130
+Cod-ing in Python,60.99,2016-07-30,131
+Sea-act Hooks,56.49,2016-07-31,132
+Sea-act Hooks,55.5,2016-07-31,133
+Sea-act Hooks,50.5,2016-07-31,134
+Sea-act Hooks,51.99,2016-08-01,135
+Sea-act Hooks,52.0,2016-08-01,136
+Sea-act Hooks,56.49,2016-08-01,137
+Sea-act Hooks,54.99,2016-08-03,138
+Sea-act Hooks,54.5,2016-08-04,139
+Sea-act Hooks,54.0,2016-08-04,140
+Sea-act Hooks,60.99,2016-08-04,141
+An Ag-isle Primer,17.5,2016-08-05,142
+An Ag-isle Primer,19.99,2016-08-05,143
+Sea-act Hooks,52.45,2016-08-06,144
+Sea-act Hooks,52.5,2016-08-09,145
+Cod-ing in Python,61.5,2016-08-09,146
+Sea-act Hooks,53.51,2016-08-11,147
+Sea-act Hooks,57.99,2016-08-12,148
+Cod-ing in Python,55.19,2016-08-12,149
+An Ag-isle Primer,18.99,2016-08-12,150
+Sea-act Hooks,54.0,2016-08-13,151
+Cod-ing in Python,59.99,2016-08-13,152
+Cod-ing in Python,54.5,2016-08-13,153
+Sea-act Hooks,59.5,2016-08-14,154
+Sea-act Hooks,54.5,2016-08-14,155
+Sea-act Hooks,53.56,2016-08-17,156
+An Ag-isle Primer,22.46,2016-08-17,157
+Sea-act Hooks,53.49,2016-08-20,158
+Cod-ing in Python,59.27,2016-08-22,159
+Cod-ing in Python,58.5,2016-08-23,160
+Sea-act Hooks,57.0,2016-08-25,161
+An Ag-isle Primer,19.4,2016-08-25,162
+Sea-act Hooks,53.49,2016-08-28,163
+Cod-ing in Python,63.0,2016-08-28,164
+Sea-act Hooks,55.5,2016-08-29,165
+Sea-act Hooks,55.0,2016-08-29,166
+Sea-act Hooks,55.5,2016-08-31,167
+Sea-act Hooks,57.49,2016-08-31,168
+Sea-act Hooks,52.49,2016-08-31,169
+Sea-act Hooks,59.81,2016-09-01,170
+Sea-act Hooks,54.99,2016-09-01,171
+An Ag-isle Primer,17.5,2016-09-01,172
+Sea-act Hooks,50.5,2016-09-05,173
+Sea-act Hooks,54.5,2016-09-06,174
+Sea-act Hooks,49.72,2016-09-06,175
+Sea-act Hooks,58.49,2016-09-08,176
+Sea-act Hooks,56.99,2016-09-08,177
+Sea-act Hooks,56.5,2016-09-10,178
+Sea-act Hooks,53.1,2016-09-11,179
+Sea-act Hooks,49.0,2016-09-11,180
+Sea-act Hooks,55.0,2016-09-12,181
+Sea-act Hooks,59.99,2016-09-12,182
+Sea-act Hooks,51.99,2016-09-12,183
+Cod-ing in Python,59.5,2016-09-12,184
+Sea-act Hooks,50.99,2016-09-13,185
+Cod-ing in Python,56.0,2016-09-13,186
+Sea-act Hooks,55.99,2016-09-17,187
+Sea-act Hooks,52.99,2016-09-17,188
+An Ag-isle Primer,20.0,2016-09-20,189
+Sea-act Hooks,54.49,2016-09-24,190
+Sea-act Hooks,57.0,2016-09-27,191
+Cod-ing in Python,58.49,2016-09-28,192
+Sea-act Hooks,51.5,2016-09-29,193
+Cod-ing in Python,59.61,2016-09-29,194
+Sea-act Hooks,55.99,2016-09-30,195
+Sea-act Hooks,55.0,2016-10-02,196
+Sea-act Hooks,55.5,2016-10-02,197
+Sea-act Hooks,50.49,2016-10-03,198
+Cod-ing in Python,59.99,2016-10-04,199
+An Ag-isle Primer,18.0,2016-10-04,200
+Sea-act Hooks,53.99,2016-10-05,201
+Sea-act Hooks,52.99,2016-10-06,202
+Cod-ing in Python,59.99,2016-10-07,203
+Sea-act Hooks,52.5,2016-10-10,204
+Sea-act Hooks,52.49,2016-10-10,205
+Sea-act Hooks,52.38,2016-10-11,206
+Sea-act Hooks,54.5,2016-10-12,207
+Sea-act Hooks,56.49,2016-10-12,208
+Cod-ing in Python,61.5,2016-10-13,209
+Sea-act Hooks,51.99,2016-10-14,210
+Sea-act Hooks,52.49,2016-10-15,211
+Cod-ing in Python,57.99,2016-10-19,212
+Sea-act Hooks,56.0,2016-10-20,213
+Sea-act Hooks,55.0,2016-10-20,214
+An Ag-isle Primer,19.0,2016-10-20,215
+Sea-act Hooks,55.0,2016-10-22,216
+Sea-act Hooks,52.0,2016-10-22,217
+Sea-act Hooks,50.99,2016-10-23,218
+Sea-act Hooks,52.35,2016-10-23,219
+Sea-act Hooks,55.0,2016-10-23,220
+Sea-act Hooks,55.5,2016-10-24,221
+Sea-act Hooks,59.0,2016-10-25,222
+Cod-ing in Python,55.5,2016-10-25,223
+An Ag-isle Primer,18.99,2016-10-25,224
+Cod-ing in Python,60.49,2016-10-28,225
+Sea-act Hooks,58.37,2016-10-29,226
+Sea-act Hooks,55.23,2016-11-01,227
+Sea-act Hooks,58.35,2016-11-02,228
+Sea-act Hooks,54.99,2016-11-03,229
+Sea-act Hooks,56.49,2016-11-05,230
+Cod-ing in Python,61.49,2016-11-05,231
+An Ag-isle Primer,19.49,2016-11-07,232
+Cod-ing in Python,61.49,2016-11-09,233
+Cod-ing in Python,55.5,2016-11-11,234
+Sea-act Hooks,54.5,2016-11-13,235
+Sea-act Hooks,57.06,2016-11-13,236
+Cod-ing in Python,58.0,2016-11-14,237
+Sea-act Hooks,56.49,2016-11-18,238
+Cod-ing in Python,58.5,2016-11-19,239
+An Ag-isle Primer,23.0,2016-11-19,240
+Sea-act Hooks,53.49,2016-11-22,241
+Sea-act Hooks,52.5,2016-11-23,242
+Cod-ing in Python,62.49,2016-11-23,243
+Sea-act Hooks,53.0,2016-11-24,244
+Sea-act Hooks,60.49,2016-11-24,245
+Cod-ing in Python,59.58,2016-11-24,246
+Sea-act Hooks,53.38,2016-11-25,247
+Cod-ing in Python,61.49,2016-11-25,248
+Sea-act Hooks,53.5,2016-11-26,249
+Cod-ing in Python,59.99,2016-11-26,250
+Sea-act Hooks,58.5,2016-11-27,251
+Cod-ing in Python,59.5,2016-11-27,252
+Sea-act Hooks,60.0,2016-11-28,253
+An Ag-isle Primer,20.49,2016-11-28,254
+Sea-act Hooks,51.0,2016-11-29,255
+Sea-act Hooks,54.5,2016-12-01,256
+Cod-ing in Python,59.99,2016-12-01,257
+Sea-act Hooks,57.49,2016-12-03,258
+An Ag-isle Primer,19.91,2016-12-03,259
+Sea-act Hooks,53.0,2016-12-04,260
+Sea-act Hooks,53.5,2016-12-06,261
+Sea-act Hooks,55.0,2016-12-07,262
+Sea-act Hooks,56.0,2016-12-08,263
+Sea-act Hooks,55.0,2016-12-08,264
+Sea-act Hooks,55.49,2016-12-09,265
+Cod-ing in Python,58.0,2016-12-09,266
+Sea-act Hooks,52.49,2016-12-10,267
+Sea-act Hooks,55.03,2016-12-11,268
+Cod-ing in Python,57.5,2016-12-11,269
+Sea-act Hooks,55.0,2016-12-12,270
+Sea-act Hooks,56.99,2016-12-13,271
+Sea-act Hooks,56.49,2016-12-13,272
+Sea-act Hooks,52.99,2016-12-14,273
+Sea-act Hooks,49.99,2016-12-16,274
+Cod-ing in Python,60.0,2016-12-17,275
+Cod-ing in Python,60.0,2016-12-17,276
+An Ag-isle Primer,23.44,2016-12-17,277
+Sea-act Hooks,53.49,2016-12-18,278
+Cod-ing in Python,54.99,2016-12-19,279
+Sea-act Hooks,53.99,2016-12-20,280
+Sea-act Hooks,52.0,2016-12-20,281
+An Ag-isle Primer,22.0,2016-12-20,282
+Sea-act Hooks,53.0,2016-12-21,283
+Sea-act Hooks,53.17,2016-12-21,284
+Sea-act Hooks,54.99,2016-12-21,285
+Cod-ing in Python,63.99,2016-12-22,286
+Cod-ing in Python,57.0,2016-12-23,287
+Sea-act Hooks,50.5,2016-12-25,288
+Sea-act Hooks,55.99,2016-12-25,289
+Sea-act Hooks,53.83,2016-12-26,290
+Sea-act Hooks,51.0,2016-12-27,291
+Sea-act Hooks,53.16,2016-12-28,292
+Sea-act Hooks,57.0,2016-12-28,293
+Sea-act Hooks,58.5,2016-12-29,294
+Sea-act Hooks,57.82,2016-12-30,295
+Sea-act Hooks,53.99,2016-12-30,296
+Sea-act Hooks,54.49,2016-12-31,297
+Sea-act Hooks,59.5,2016-12-31,298
+Sea-act Hooks,55.0,2017-01-05,299
+Sea-act Hooks,56.12,2017-01-07,300
+Sea-act Hooks,52.49,2017-01-07,301
+Sea-act Hooks,54.99,2017-01-08,302
+Sea-act Hooks,51.08,2017-01-08,303
+Sea-act Hooks,55.0,2017-01-09,304
+Sea-act Hooks,56.99,2017-01-10,305
+Sea-act Hooks,52.99,2017-01-14,306
+Cod-ing in Python,58.49,2017-01-14,307
+Sea-act Hooks,56.0,2017-01-19,308
+Sea-act Hooks,51.67,2017-01-20,309
+Sea-act Hooks,53.0,2017-01-20,310
+Sea-act Hooks,52.0,2017-01-24,311
+An Ag-isle Primer,16.5,2017-01-24,312
+An Ag-isle Primer,22.5,2017-01-25,313
+Sea-act Hooks,57.0,2017-01-27,314
+Sea-act Hooks,57.99,2017-01-28,315
+An Ag-isle Primer,20.99,2017-01-29,316
+An Ag-isle Primer,19.49,2017-01-29,317
+Sea-act Hooks,56.99,2017-02-01,318
+Cod-ing in Python,60.6,2017-02-01,319
+Cod-ing in Python,57.49,2017-02-03,320
+Cod-ing in Python,60.49,2017-02-04,321
+Sea-act Hooks,58.0,2017-02-05,322
+Sea-act Hooks,56.5,2017-02-06,323
+Sea-act Hooks,53.0,2017-02-07,324
+Sea-act Hooks,51.99,2017-02-10,325
+Sea-act Hooks,53.99,2017-02-13,326
+Cod-ing in Python,60.5,2017-02-15,327
+Sea-act Hooks,55.0,2017-02-18,328
+Sea-act Hooks,55.99,2017-02-18,329
+Sea-act Hooks,55.5,2017-02-19,330
+An Ag-isle Primer,18.87,2017-02-19,331
+Sea-act Hooks,56.35,2017-02-21,332
+Sea-act Hooks,56.99,2017-02-24,333
+Sea-act Hooks,55.0,2017-03-02,334
+Sea-act Hooks,52.49,2017-03-03,335
+Sea-act Hooks,55.02,2017-03-05,336
+Sea-act Hooks,53.51,2017-03-07,337
+Sea-act Hooks,50.5,2017-03-08,338
+Sea-act Hooks,54.0,2017-03-08,339
+Sea-act Hooks,54.0,2017-03-09,340
+Sea-act Hooks,56.63,2017-03-09,341
+Sea-act Hooks,55.0,2017-03-09,342
+Cod-ing in Python,56.0,2017-03-10,343
+Sea-act Hooks,52.99,2017-03-12,344
+Sea-act Hooks,51.77,2017-03-12,345
+Cod-ing in Python,61.0,2017-03-14,346
+Sea-act Hooks,53.5,2017-03-15,347
+Cod-ing in Python,55.85,2017-03-18,348
+Sea-act Hooks,55.49,2017-03-20,349
+Sea-act Hooks,55.0,2017-03-24,350
+Cod-ing in Python,59.5,2017-03-24,351
+Sea-act Hooks,56.9,2017-03-29,352
+Sea-act Hooks,53.49,2017-03-29,353
+Sea-act Hooks,50.0,2017-04-01,354
+Sea-act Hooks,56.49,2017-04-03,355
+Sea-act Hooks,57.55,2017-04-04,356
+Sea-act Hooks,53.53,2017-04-08,357
+Sea-act Hooks,54.0,2017-04-08,358
+Cod-ing in Python,60.99,2017-04-10,359
+Sea-act Hooks,53.0,2017-04-13,360
+Cod-ing in Python,57.99,2017-04-14,361
+Sea-act Hooks,53.0,2017-04-15,362
+Sea-act Hooks,55.5,2017-04-16,363
+Sea-act Hooks,55.99,2017-04-18,364
+Sea-act Hooks,55.0,2017-04-23,365
+Cod-ing in Python,59.98,2017-04-25,366
+An Ag-isle Primer,20.3,2017-04-27,367
+Sea-act Hooks,51.5,2017-05-01,368
+Sea-act Hooks,55.0,2017-05-02,369
+Sea-act Hooks,53.5,2017-05-02,370
+An Ag-isle Primer,24.5,2017-05-02,371
+Sea-act Hooks,58.0,2017-05-03,372
+Cod-ing in Python,59.5,2017-05-06,373
+Sea-act Hooks,58.41,2017-05-07,374
+Sea-act Hooks,57.65,2017-05-09,375
+Sea-act Hooks,53.49,2017-05-09,376
+Cod-ing in Python,59.5,2017-05-10,377
+Sea-act Hooks,53.0,2017-05-12,378
+Sea-act Hooks,51.3,2017-05-13,379
+Sea-act Hooks,51.5,2017-05-14,380
+Sea-act Hooks,54.99,2017-05-20,381
+Sea-act Hooks,55.07,2017-05-21,382
+Sea-act Hooks,53.99,2017-05-25,383
+An Ag-isle Primer,19.5,2017-05-25,384
+An Ag-isle Primer,20.49,2017-05-25,385
+Cod-ing in Python,61.49,2017-05-28,386
+Cod-ing in Python,55.0,2017-05-31,387
+Sea-act Hooks,53.5,2017-06-01,388
+Cod-ing in Python,55.04,2017-06-01,389
+Sea-act Hooks,51.48,2017-06-02,390
+An Ag-isle Primer,25.0,2017-06-04,391
+An Ag-isle Primer,18.58,2017-06-04,392
+Sea-act Hooks,50.99,2017-06-09,393
+Sea-act Hooks,55.99,2017-06-10,394
+Sea-act Hooks,51.33,2017-06-10,395
+Sea-act Hooks,54.5,2017-06-11,396
+Sea-act Hooks,54.5,2017-06-15,397
+Cod-ing in Python,60.0,2017-06-19,398
+Sea-act Hooks,54.5,2017-06-20,399
+Sea-act Hooks,53.99,2017-06-20,400
+Cod-ing in Python,64.0,2017-06-24,401
+Sea-act Hooks,52.5,2017-06-25,402
+Sea-act Hooks,53.49,2017-06-25,403
+Sea-act Hooks,55.99,2017-06-26,404
+Sea-act Hooks,55.63,2017-06-28,405
+Cod-ing in Python,59.1,2017-07-01,406
+Sea-act Hooks,58.99,2017-07-05,407
+Sea-act Hooks,54.5,2017-07-06,408
+Cod-ing in Python,60.49,2017-07-06,409
+Cod-ing in Python,57.99,2017-07-06,410
+Sea-act Hooks,51.5,2017-07-08,411
+Cod-ing in Python,58.49,2017-07-09,412
+Cod-ing in Python,60.6,2017-07-09,413
+Cod-ing in Python,55.5,2017-07-10,414
+Sea-act Hooks,58.49,2017-07-11,415
+Cod-ing in Python,54.5,2017-07-11,416
+Sea-act Hooks,54.0,2017-07-12,417
+Sea-act Hooks,60.99,2017-07-15,418
+Cod-ing in Python,58.5,2017-07-16,419
+Sea-act Hooks,55.49,2017-07-17,420
+Sea-act Hooks,56.5,2017-07-18,421
+Cod-ing in Python,59.5,2017-07-18,422
+Cod-ing in Python,64.5,2017-07-18,423
+Sea-act Hooks,55.5,2017-07-21,424
+Cod-ing in Python,63.05,2017-07-24,425
+Sea-act Hooks,52.63,2017-07-25,426
+Sea-act Hooks,54.5,2017-07-26,427
+Sea-act Hooks,56.25,2017-07-30,428
+Sea-act Hooks,60.0,2017-07-30,429
+Sea-act Hooks,58.49,2017-08-02,430
+An Ag-isle Primer,18.99,2017-08-04,431
+Sea-act Hooks,52.99,2017-08-05,432
+Sea-act Hooks,57.5,2017-08-07,433
+Sea-act Hooks,54.99,2017-08-08,434
+An Ag-isle Primer,17.5,2017-08-08,435
+Sea-act Hooks,50.49,2017-08-09,436
+Sea-act Hooks,54.0,2017-08-12,437
+An Ag-isle Primer,20.99,2017-08-12,438
+Sea-act Hooks,54.66,2017-08-13,439
+Sea-act Hooks,52.49,2017-08-14,440
+Sea-act Hooks,52.41,2017-08-17,441
+Sea-act Hooks,53.49,2017-08-17,442
+Cod-ing in Python,55.24,2017-08-18,443
+Sea-act Hooks,54.49,2017-08-19,444
+Sea-act Hooks,54.5,2017-08-21,445
+Sea-act Hooks,54.99,2017-08-21,446
+Cod-ing in Python,64.46,2017-08-24,447
+Sea-act Hooks,53.49,2017-08-26,448
+Sea-act Hooks,54.5,2017-08-26,449
+Sea-act Hooks,53.04,2017-08-27,450
+Sea-act Hooks,53.49,2017-08-30,451
+Sea-act Hooks,54.5,2017-08-31,452
+Cod-ing in Python,66.0,2017-09-02,453
+An Ag-isle Primer,22.0,2017-09-02,454
+Cod-ing in Python,60.17,2017-09-03,455
+Sea-act Hooks,55.49,2017-09-05,456
+Cod-ing in Python,56.25,2017-09-10,457
+An Ag-isle Primer,22.99,2017-09-11,458
+Sea-act Hooks,51.5,2017-09-12,459
+Sea-act Hooks,54.0,2017-09-13,460
+An Ag-isle Primer,22.0,2017-09-16,461
+Sea-act Hooks,52.0,2017-09-19,462
+Sea-act Hooks,56.0,2017-09-21,463
+Cod-ing in Python,59.5,2017-09-21,464
+Sea-act Hooks,52.99,2017-09-22,465
+Sea-act Hooks,58.0,2017-09-25,466
+Sea-act Hooks,51.49,2017-09-28,467
+Cod-ing in Python,55.88,2017-09-28,468
+Sea-act Hooks,57.5,2017-09-30,469
+Sea-act Hooks,49.49,2017-10-02,470
+Sea-act Hooks,55.5,2017-10-05,471
+An Ag-isle Primer,17.0,2017-10-07,472
+Sea-act Hooks,51.99,2017-10-08,473
+Cod-ing in Python,60.47,2017-10-09,474
+Sea-act Hooks,55.99,2017-10-13,475
+Sea-act Hooks,55.99,2017-10-17,476
+Sea-act Hooks,53.61,2017-10-17,477
+Sea-act Hooks,57.0,2017-10-17,478
+Sea-act Hooks,56.0,2017-10-18,479
+Sea-act Hooks,54.49,2017-10-19,480
+Cod-ing in Python,55.99,2017-10-21,481
+Cod-ing in Python,55.88,2017-10-28,482
+Sea-act Hooks,49.47,2017-10-29,483
+Sea-act Hooks,50.99,2017-10-30,484
+Cod-ing in Python,56.99,2017-11-04,485
+Sea-act Hooks,54.49,2017-11-06,486
+Sea-act Hooks,56.81,2017-11-07,487
+Sea-act Hooks,50.28,2017-11-07,488
+Sea-act Hooks,54.0,2017-11-08,489
+Sea-act Hooks,53.76,2017-11-13,490
+Cod-ing in Python,58.57,2017-11-13,491
+Cod-ing in Python,66.5,2017-11-15,492
+Sea-act Hooks,54.49,2017-11-17,493
+Sea-act Hooks,54.5,2017-11-18,494
+Sea-act Hooks,56.0,2017-11-18,495
+Cod-ing in Python,56.49,2017-11-21,496
+Sea-act Hooks,57.5,2017-11-22,497
+Cod-ing in Python,57.5,2017-11-22,498
+Sea-act Hooks,53.0,2017-11-23,499
+Sea-act Hooks,51.5,2017-11-24,500
+Sea-act Hooks,52.49,2017-11-24,501
+Cod-ing in Python,61.0,2017-11-26,502
+Sea-act Hooks,55.49,2017-11-27,503
+Sea-act Hooks,57.5,2017-12-02,504
+Sea-act Hooks,53.0,2017-12-03,505
+Sea-act Hooks,55.7,2017-12-03,506
+Cod-ing in Python,63.5,2017-12-03,507
+Sea-act Hooks,52.07,2017-12-04,508
+Cod-ing in Python,57.5,2017-12-05,509
+Sea-act Hooks,53.74,2017-12-06,510
+Sea-act Hooks,53.0,2017-12-06,511
+Cod-ing in Python,58.0,2017-12-06,512
+Cod-ing in Python,60.0,2017-12-07,513
+Sea-act Hooks,48.99,2017-12-08,514
+Cod-ing in Python,60.49,2017-12-09,515
+Sea-act Hooks,51.5,2017-12-13,516
+Sea-act Hooks,55.99,2017-12-16,517
+Cod-ing in Python,62.49,2017-12-17,518
+Sea-act Hooks,49.5,2017-12-18,519
+Sea-act Hooks,61.0,2017-12-18,520
+An Ag-isle Primer,24.49,2017-12-20,521
+Sea-act Hooks,53.0,2017-12-21,522
+Cod-ing in Python,58.73,2017-12-22,523
+Sea-act Hooks,55.99,2017-12-23,524
+Sea-act Hooks,53.5,2017-12-25,525
+Sea-act Hooks,56.0,2017-12-26,526
+Cod-ing in Python,63.0,2017-12-26,527
+Sea-act Hooks,56.99,2017-12-28,528
+Sea-act Hooks,54.0,2017-12-28,529
+An Ag-isle Primer,23.36,2017-12-29,530
+Sea-act Hooks,55.99,2017-12-31,531
+Sea-act Hooks,57.99,2018-01-01,532
+Cod-ing in Python,60.49,2018-01-01,533
+Sea-act Hooks,51.0,2018-01-02,534
+Sea-act Hooks,51.99,2018-01-06,535
+Sea-act Hooks,56.9,2018-01-06,536
+Cod-ing in Python,57.5,2018-01-06,537
+Sea-act Hooks,56.49,2018-01-07,538
+An Ag-isle Primer,16.5,2018-01-09,539
+Cod-ing in Python,59.0,2018-01-11,540
+Cod-ing in Python,60.04,2018-01-14,541
+Cod-ing in Python,59.99,2018-01-18,542
+Sea-act Hooks,58.49,2018-01-20,543
+Sea-act Hooks,57.5,2018-01-22,544
+Sea-act Hooks,52.5,2018-01-23,545
+Sea-act Hooks,57.5,2018-01-25,546
+Cod-ing in Python,59.5,2018-01-27,547
+Cod-ing in Python,58.0,2018-01-28,548
+Sea-act Hooks,52.5,2018-02-02,549
+Cod-ing in Python,60.99,2018-02-03,550
+Sea-act Hooks,55.49,2018-02-04,551
+Cod-ing in Python,61.5,2018-02-08,552
+Sea-act Hooks,57.5,2018-02-09,553
+Sea-act Hooks,53.49,2018-02-10,554
+Sea-act Hooks,53.0,2018-02-12,555
+Cod-ing in Python,57.0,2018-02-13,556
+Sea-act Hooks,55.0,2018-02-20,557
+Sea-act Hooks,54.49,2018-02-23,558
+Cod-ing in Python,57.49,2018-02-25,559
+Sea-act Hooks,56.5,2018-03-02,560
+Sea-act Hooks,55.99,2018-03-04,561
+Sea-act Hooks,51.76,2018-03-04,562
+Sea-act Hooks,51.99,2018-03-06,563
+Sea-act Hooks,52.98,2018-03-07,564
+Sea-act Hooks,56.5,2018-03-07,565
+Sea-act Hooks,55.49,2018-03-09,566
+Sea-act Hooks,55.03,2018-03-10,567
+Sea-act Hooks,56.99,2018-03-11,568
+Sea-act Hooks,55.5,2018-03-12,569
+Sea-act Hooks,57.5,2018-03-14,570
+Sea-act Hooks,55.0,2018-03-14,571
+Sea-act Hooks,56.88,2018-03-18,572
+Sea-act Hooks,53.5,2018-03-18,573
+Sea-act Hooks,57.0,2018-03-22,574
+Sea-act Hooks,51.5,2018-03-23,575
+Sea-act Hooks,53.99,2018-03-25,576
+Sea-act Hooks,56.0,2018-03-29,577
+Sea-act Hooks,56.07,2018-03-30,578
+Sea-act Hooks,54.5,2018-03-31,579
+Cod-ing in Python,59.49,2018-04-03,580
+Sea-act Hooks,57.5,2018-04-08,581
+Sea-act Hooks,55.0,2018-04-08,582
+Sea-act Hooks,54.99,2018-04-09,583
+Sea-act Hooks,53.0,2018-04-09,584
+Sea-act Hooks,53.06,2018-04-10,585
+An Ag-isle Primer,21.99,2018-04-12,586
+Sea-act Hooks,52.49,2018-04-14,587
+Sea-act Hooks,56.49,2018-04-15,588
+Cod-ing in Python,59.89,2018-04-18,589
+Sea-act Hooks,54.0,2018-04-20,590
+Sea-act Hooks,51.49,2018-04-21,591
+Cod-ing in Python,60.99,2018-04-23,592
+Sea-act Hooks,51.0,2018-04-28,593
+Sea-act Hooks,56.6,2018-04-28,594
+Cod-ing in Python,58.21,2018-04-28,595
+Cod-ing in Python,57.99,2018-04-28,596
+Cod-ing in Python,58.5,2018-04-28,597
+Sea-act Hooks,61.5,2018-05-02,598
+Sea-act Hooks,54.49,2018-05-03,599
+Sea-act Hooks,55.0,2018-05-05,600
+Sea-act Hooks,57.49,2018-05-06,601
+Cod-ing in Python,56.0,2018-05-08,602
+Sea-act Hooks,50.99,2018-05-10,603
+Cod-ing in Python,61.15,2018-05-15,604
+Sea-act Hooks,56.5,2018-05-16,605
+Sea-act Hooks,55.0,2018-05-18,606
+Sea-act Hooks,49.49,2018-05-20,607
+Sea-act Hooks,52.95,2018-05-20,608
+Sea-act Hooks,55.0,2018-05-23,609
+Advanced Ruby on Whales,46.49,2018-05-24,610
+Cod-ing in Python,57.5,2018-05-25,611
+Advanced Ruby on Whales,47.49,2018-05-27,612
+Cod-ing in Python,54.5,2018-05-27,613
+Sea-act Hooks,53.85,2018-05-28,614
+Sea-act Hooks,53.99,2018-05-28,615
+Sea-act Hooks,54.0,2018-05-29,616
+Sea-act Hooks,57.49,2018-05-30,617
+Sea-act Hooks,52.99,2018-05-31,618
+Advanced Ruby on Whales,50.0,2018-06-04,619
+Advanced Ruby on Whales,44.48,2018-06-05,620
+Advanced Ruby on Whales,45.5,2018-06-06,621
+Advanced Ruby on Whales,47.16,2018-06-06,622
+Sea-act Hooks,59.0,2018-06-08,623
+Advanced Ruby on Whales,45.49,2018-06-09,624
+Advanced Ruby on Whales,45.72,2018-06-09,625
+Cod-ing in Python,59.0,2018-06-10,626
+Sea-act Hooks,51.5,2018-06-11,627
+Advanced Ruby on Whales,49.99,2018-06-13,628
+Sea-act Hooks,52.5,2018-06-14,629
+Sea-act Hooks,51.5,2018-06-15,630
+Sea-act Hooks,52.55,2018-06-15,631
+Sea-act Hooks,47.99,2018-06-18,632
+Sea-act Hooks,52.16,2018-06-22,633
+Sea-act Hooks,52.27,2018-06-24,634
+An Ag-isle Primer,19.0,2018-06-24,635
+Sea-act Hooks,56.46,2018-06-25,636
+Sea-act Hooks,58.99,2018-06-25,637
+Sea-act Hooks,49.38,2018-06-27,638
+Sea-act Hooks,53.5,2018-06-28,639
+Sea-act Hooks,53.0,2018-06-29,640
+Sea-act Hooks,54.5,2018-07-01,641
+An Ag-isle Primer,15.5,2018-07-04,642
+Sea-act Hooks,54.0,2018-07-07,643
+An Ag-isle Primer,22.0,2018-07-09,644
+Sea-act Hooks,55.99,2018-07-10,645
+Sea-act Hooks,57.99,2018-07-10,646
+Sea-act Hooks,51.55,2018-07-11,647
+Sea-act Hooks,56.99,2018-07-13,648
+Advanced Ruby on Whales,46.07,2018-07-14,649
+Cod-ing in Python,64.49,2018-07-16,650
+Advanced Ruby on Whales,45.99,2018-07-18,651
+Advanced Ruby on Whales,47.2,2018-07-19,652
+Advanced Ruby on Whales,46.49,2018-07-19,653
+Advanced Ruby on Whales,42.5,2018-07-20,654
+Sea-act Hooks,48.58,2018-07-20,655
+Sea-act Hooks,53.49,2018-07-21,656
+Cod-ing in Python,57.49,2018-07-21,657
+Sea-act Hooks,58.49,2018-07-22,658
+Advanced Ruby on Whales,49.5,2018-07-24,659
+Sea-act Hooks,55.5,2018-07-24,660
+Sea-act Hooks,55.49,2018-07-25,661
+Cod-ing in Python,56.5,2018-07-28,662
+Advanced Ruby on Whales,50.49,2018-07-30,663
+Sea-act Hooks,53.52,2018-07-30,664
+Sea-act Hooks,50.0,2018-07-30,665
+Sea-act Hooks,54.5,2018-08-01,666
+Advanced Ruby on Whales,38.99,2018-08-06,667
+Sea-act Hooks,53.5,2018-08-08,668
+Sea-act Hooks,51.5,2018-08-08,669
+Advanced Ruby on Whales,46.99,2018-08-11,670
+Sea-act Hooks,56.5,2018-08-11,671
+Sea-act Hooks,56.0,2018-08-12,672
+Cod-ing in Python,58.5,2018-08-12,673
+An Ag-isle Primer,23.49,2018-08-12,674
+Advanced Ruby on Whales,50.5,2018-08-13,675
+Sea-act Hooks,54.49,2018-08-13,676
+Advanced Ruby on Whales,48.5,2018-08-14,677
+Sea-act Hooks,56.5,2018-08-14,678
+Sea-act Hooks,52.5,2018-08-14,679
+Sea-act Hooks,51.0,2018-08-17,680
+Advanced Ruby on Whales,47.63,2018-08-22,681
+Advanced Ruby on Whales,47.99,2018-08-22,682
+Advanced Ruby on Whales,50.0,2018-08-23,683
+Sea-act Hooks,56.0,2018-08-26,684
+Advanced Ruby on Whales,50.13,2018-08-29,685
+Sea-act Hooks,53.99,2018-08-29,686
+Advanced Ruby on Whales,46.0,2018-09-01,687
+Sea-act Hooks,56.26,2018-09-01,688
+Sea-act Hooks,53.5,2018-09-02,689
+Cod-ing in Python,60.99,2018-09-02,690
+An Ag-isle Primer,21.49,2018-09-02,691
+Sea-act Hooks,54.5,2018-09-04,692
+Cod-ing in Python,57.99,2018-09-04,693
+Advanced Ruby on Whales,47.0,2018-09-05,694
+Cod-ing in Python,57.48,2018-09-05,695
+Cod-ing in Python,58.86,2018-09-05,696
+Cod-ing in Python,55.92,2018-09-06,697
+Sea-act Hooks,51.5,2018-09-09,698
+Cod-ing in Python,62.99,2018-09-10,699
+Sea-act Hooks,52.5,2018-09-11,700
+Sea-act Hooks,52.0,2018-09-12,701
+An Ag-isle Primer,21.99,2018-09-12,702
+An Ag-isle Primer,22.49,2018-09-12,703
+Sea-act Hooks,56.0,2018-09-16,704
+Sea-act Hooks,56.0,2018-09-17,705
+Cod-ing in Python,59.49,2018-09-17,706
+Sea-act Hooks,54.87,2018-09-18,707
+Sea-act Hooks,51.49,2018-09-18,708
+Cod-ing in Python,54.5,2018-09-19,709
+Cod-ing in Python,57.58,2018-09-20,710
+Advanced Ruby on Whales,47.5,2018-09-21,711
+Sea-act Hooks,59.0,2018-09-21,712
+Sea-act Hooks,55.99,2018-09-24,713
+An Ag-isle Primer,23.49,2018-09-26,714
+Advanced Ruby on Whales,47.5,2018-09-27,715
+Cod-ing in Python,58.0,2018-09-27,716
+Sea-act Hooks,55.5,2018-10-02,717
+Advanced Ruby on Whales,47.5,2018-10-03,718
+Sea-act Hooks,50.0,2018-10-04,719
+Sea-act Hooks,53.99,2018-10-08,720
+Sea-act Hooks,52.49,2018-10-08,721
+Sea-act Hooks,55.5,2018-10-08,722
+Advanced Ruby on Whales,43.5,2018-10-11,723
+Advanced Ruby on Whales,49.0,2018-10-12,724
+Sea-act Hooks,54.5,2018-10-12,725
+Sea-act Hooks,57.5,2018-10-12,726
+Sea-act Hooks,52.99,2018-10-13,727
+Sea-act Hooks,56.0,2018-10-20,728
+Sea-act Hooks,55.19,2018-10-21,729
+Sea-act Hooks,53.0,2018-10-27,730
+Sea-act Hooks,55.0,2018-10-28,731
+Sea-act Hooks,53.5,2018-10-28,732
+Sea-act Hooks,52.49,2018-11-01,733
+Sea-act Hooks,54.47,2018-11-03,734
+Advanced Ruby on Whales,43.99,2018-11-04,735
+Sea-act Hooks,51.5,2018-11-04,736
+Advanced Ruby on Whales,47.71,2018-11-05,737
+Advanced Ruby on Whales,44.49,2018-11-10,738
+Sea-act Hooks,57.99,2018-11-11,739
+Sea-act Hooks,54.32,2018-11-11,740
+Cod-ing in Python,60.99,2018-11-11,741
+Advanced Ruby on Whales,50.0,2018-11-12,742
+Sea-act Hooks,55.5,2018-11-13,743
+Sea-act Hooks,54.5,2018-11-14,744
+An Ag-isle Primer,18.49,2018-11-14,745
+Cod-ing in Python,57.5,2018-11-16,746
+Sea-act Hooks,49.49,2018-11-17,747
+Cod-ing in Python,57.99,2018-11-17,748
+Sea-act Hooks,54.5,2018-11-20,749
+Cod-ing in Python,59.5,2018-11-21,750
+Sea-act Hooks,52.0,2018-11-29,751
+Cod-ing in Python,60.99,2018-11-29,752
+Cod-ing in Python,56.24,2018-12-01,753
+Sea-act Hooks,59.0,2018-12-02,754
+Advanced Ruby on Whales,46.5,2018-12-03,755
+Sea-act Hooks,52.0,2018-12-04,756
+Sea-act Hooks,53.5,2018-12-05,757
+Cod-ing in Python,55.5,2018-12-11,758
+An Ag-isle Primer,15.5,2018-12-11,759
+Sea-act Hooks,56.49,2018-12-18,760
+Sea-act Hooks,53.49,2018-12-18,761
+Sea-act Hooks,55.0,2018-12-19,762
+Advanced Ruby on Whales,52.5,2018-12-22,763
+Sea-act Hooks,49.0,2018-12-22,764
+Advanced Ruby on Whales,46.49,2018-12-23,765
+Advanced Ruby on Whales,45.5,2018-12-24,766
+Sea-act Hooks,56.77,2018-12-24,767
+An Ag-isle Primer,23.5,2018-12-27,768
+Sea-act Hooks,55.65,2018-12-29,769
+Advanced Ruby on Whales,46.0,2018-12-30,770
+Cod-ing in Python,59.49,2018-12-30,771
+Cod-ing in Python,58.0,2018-12-30,772
+Sea-act Hooks,54.99,2018-12-31,773
+Advanced Ruby on Whales,50.5,2019-01-08,774
+Sea-act Hooks,57.0,2019-01-10,775
+Advanced Ruby on Whales,42.49,2019-01-13,776
+Sea-act Hooks,56.99,2019-01-20,777
+Sea-act Hooks,54.99,2019-01-24,778
+Sea-act Hooks,54.5,2019-01-25,779
+Sea-act Hooks,52.0,2019-01-25,780
+An Ag-isle Primer,17.99,2019-01-26,781
+Sea-act Hooks,56.0,2019-02-02,782
+Advanced Ruby on Whales,48.0,2019-02-05,783
+Sea-act Hooks,54.99,2019-02-09,784
+An Ag-isle Primer,21.99,2019-02-11,785
+Sea-act Hooks,55.21,2019-02-17,786
+Sea-act Hooks,53.5,2019-02-18,787
+Cod-ing in Python,59.33,2019-02-18,788
+Advanced Ruby on Whales,47.99,2019-02-19,789
+Cod-ing in Python,59.99,2019-02-20,790
+An Ag-isle Primer,21.49,2019-02-23,791
+Sea-act Hooks,55.53,2019-02-24,792
+Sea-act Hooks,57.5,2019-03-01,793
+Cod-ing in Python,64.0,2019-03-02,794
+Advanced Ruby on Whales,43.99,2019-03-07,795
+Sea-act Hooks,54.49,2019-03-11,796
+Sea-act Hooks,56.49,2019-03-12,797
+The Crabmatic Programmer,61.49,2019-03-13,798
+The Crabmatic Programmer,64.99,2019-03-13,799
+The Crabmatic Programmer,59.49,2019-03-14,800
+Sea-act Hooks,53.5,2019-03-15,801
+Cod-ing in Python,56.5,2019-03-16,802
+Sea-act Hooks,53.5,2019-03-18,803
+Sea-act Hooks,52.0,2019-03-19,804
+The Crabmatic Programmer,60.92,2019-03-21,805
+Building with Gradeel,84.99,2019-03-23,806
+Building with Gradeel,77.99,2019-03-23,807
+Building with Gradeel,81.77,2019-03-23,808
+The Crabmatic Programmer,60.49,2019-03-23,809
+Sea-act Hooks,53.49,2019-03-24,810
+Building with Gradeel,77.99,2019-03-24,811
+Building with Gradeel,80.49,2019-03-24,812
+Building with Gradeel,82.99,2019-03-24,813
+Building with Gradeel,74.5,2019-03-25,814
+Building with Gradeel,80.72,2019-03-25,815
+The Crabmatic Programmer,61.0,2019-03-25,816
+Sea-act Hooks,56.49,2019-03-26,817
+Cod-ing in Python,58.0,2019-03-27,818
+Sea-act Hooks,58.99,2019-03-28,819
+Building with Gradeel,80.0,2019-03-29,820
+An Ag-isle Primer,21.0,2019-03-30,821
+Building with Gradeel,81.5,2019-04-02,822
+Building with Gradeel,84.0,2019-04-02,823
+The Crabmatic Programmer,58.0,2019-04-02,824
+Building with Gradeel,80.0,2019-04-03,825
+Building with Gradeel,79.79,2019-04-03,826
+Sea-act Hooks,52.49,2019-04-05,827
+Building with Gradeel,77.5,2019-04-06,828
+Building with Gradeel,75.99,2019-04-06,829
+Building with Gradeel,79.56,2019-04-06,830
+Advanced Ruby on Whales,49.99,2019-04-07,831
+Sea-act Hooks,54.0,2019-04-07,832
+Building with Gradeel,84.24,2019-04-07,833
+Sea-act Hooks,55.49,2019-04-09,834
+An Ag-isle Primer,20.99,2019-04-09,835
+The Crabmatic Programmer,60.5,2019-04-10,836
+Sea-act Hooks,53.0,2019-04-11,837
+Sea-act Hooks,57.0,2019-04-12,838
+The Crabmatic Programmer,61.0,2019-04-12,839
+The Crabmatic Programmer,61.49,2019-04-12,840
+Building with Gradeel,82.5,2019-04-13,841
+The Crabmatic Programmer,63.5,2019-04-13,842
+Building with Gradeel,83.0,2019-04-14,843
+Building with Gradeel,79.99,2019-04-14,844
+Building with Gradeel,79.99,2019-04-17,845
+Building with Gradeel,75.99,2019-04-17,846
+Building with Gradeel,77.68,2019-04-17,847
+Sea-act Hooks,53.0,2019-04-18,848
+An Ag-isle Primer,20.99,2019-04-18,849
+Building with Gradeel,80.23,2019-04-18,850
+Cod-ing in Python,61.5,2019-04-20,851
+Building with Gradeel,81.49,2019-04-20,852
+Building with Gradeel,81.39,2019-04-21,853
+Building with Gradeel,79.49,2019-04-23,854
+Sea-act Hooks,54.4,2019-04-25,855
+Building with Gradeel,82.5,2019-04-26,856
+Cod-ing in Python,61.0,2019-04-27,857
+Cod-ing in Python,56.0,2019-04-27,858
+Building with Gradeel,83.99,2019-04-27,859
+Building with Gradeel,84.5,2019-04-28,860
+The Crabmatic Programmer,61.49,2019-04-29,861
+Sea-act Hooks,52.99,2019-04-30,862
+Building with Gradeel,79.5,2019-05-02,863
+Building with Gradeel,82.49,2019-05-03,864
+Cod-ing in Python,61.5,2019-05-07,865
+Sea-act Hooks,50.0,2019-05-08,866
+Sea-act Hooks,52.0,2019-05-09,867
+Building with Gradeel,81.3,2019-05-11,868
+Building with Gradeel,83.99,2019-05-11,869
+Building with Gradeel,84.0,2019-05-11,870
+Building with Gradeel,77.0,2019-05-12,871
+The Crabmatic Programmer,63.99,2019-05-14,872
+Sea-act Hooks,55.5,2019-05-15,873
+Building with Gradeel,84.69,2019-05-15,874
+The Crabmatic Programmer,59.5,2019-05-15,875
+Sea-act Hooks,55.99,2019-05-16,876
+Advanced Ruby on Whales,45.0,2019-05-18,877
+Cod-ing in Python,64.5,2019-05-19,878
+Building with Gradeel,79.5,2019-05-19,879
+Sea-act Hooks,56.65,2019-05-20,880
+Building with Gradeel,85.0,2019-05-20,881
+Sea-act Hooks,49.0,2019-05-21,882
+Cod-ing in Python,60.5,2019-05-22,883
+The Crabmatic Programmer,61.99,2019-05-22,884
+Advanced Ruby on Whales,49.0,2019-05-23,885
+Sea-act Hooks,54.5,2019-05-26,886
+Building with Gradeel,79.51,2019-05-26,887
+Advanced Ruby on Whales,50.99,2019-05-27,888
+Sea-act Hooks,51.52,2019-05-27,889
+Cod-ing in Python,56.5,2019-05-27,890
+Building with Gradeel,78.5,2019-05-27,891
+Building with Gradeel,81.0,2019-05-28,892
+Sea-act Hooks,53.28,2019-05-31,893
+An Ag-isle Primer,21.79,2019-05-31,894
+Cod-ing in Python,56.5,2019-06-03,895
+Building with Gradeel,80.5,2019-06-05,896
+Building with Gradeel,79.0,2019-06-06,897
+Building with Gradeel,80.49,2019-06-06,898
+Building with Gradeel,80.5,2019-06-07,899
+Building with Gradeel,80.62,2019-06-08,900
+Building with Gradeel,80.5,2019-06-08,901
+Building with Gradeel,82.0,2019-06-08,902
+The Crabmatic Programmer,60.0,2019-06-08,903
+An Ag-isle Primer,23.49,2019-06-09,904
+Sea-act Hooks,57.49,2019-06-10,905
+Building with Gradeel,79.74,2019-06-10,906
+Building with Gradeel,77.53,2019-06-10,907
+Advanced Ruby on Whales,47.49,2019-06-11,908
+Sea-act Hooks,52.99,2019-06-11,909
+Building with Gradeel,79.49,2019-06-11,910
+Building with Gradeel,78.99,2019-06-14,911
+Cod-ing in Python,64.0,2019-06-15,912
+The Crabmatic Programmer,60.99,2019-06-15,913
+Advanced Ruby on Whales,46.0,2019-06-17,914
+Cod-ing in Python,60.22,2019-06-17,915
+Advanced Ruby on Whales,48.13,2019-06-18,916
+Sea-act Hooks,54.0,2019-06-18,917
+The Crabmatic Programmer,60.0,2019-06-19,918
+Sea-act Hooks,57.5,2019-06-20,919
+An Ag-isle Primer,19.99,2019-06-20,920
+Sea-act Hooks,56.0,2019-06-22,921
+Advanced Ruby on Whales,46.5,2019-06-23,922
+Cod-ing in Python,57.0,2019-06-24,923
+Cod-ing in Python,55.99,2019-06-25,924
+Sea-act Hooks,56.5,2019-06-26,925
+Building with Gradeel,77.0,2019-06-26,926
+Building with Gradeel,80.0,2019-06-27,927
+Building with Gradeel,77.99,2019-06-27,928
+Advanced Ruby on Whales,53.0,2019-06-29,929
+Sea-act Hooks,56.5,2019-06-29,930
+Cod-ing in Python,58.5,2019-07-01,931
+Building with Gradeel,78.0,2019-07-01,932
+Building with Gradeel,81.0,2019-07-01,933
+Building with Gradeel,80.0,2019-07-02,934
+Sea-act Hooks,52.0,2019-07-06,935
+Sea-act Hooks,58.5,2019-07-09,936
+Building with Gradeel,85.0,2019-07-09,937
+Building with Gradeel,83.49,2019-07-10,938
+An Ag-isle Primer,21.0,2019-07-12,939
+Building with Gradeel,77.33,2019-07-12,940
+Building with Gradeel,82.49,2019-07-12,941
+Sea-act Hooks,55.14,2019-07-13,942
+Sea-act Hooks,57.5,2019-07-13,943
+Building with Gradeel,78.5,2019-07-13,944
+Advanced Ruby on Whales,43.49,2019-07-18,945
+Advanced Ruby on Whales,47.5,2019-07-20,946
+Building with Gradeel,79.5,2019-07-20,947
+Building with Gradeel,86.5,2019-07-20,948
+Building with Gradeel,85.5,2019-07-20,949
+Building with Gradeel,75.99,2019-07-20,950
+Cod-ing in Python,57.5,2019-07-21,951
+Sea-act Hooks,53.49,2019-07-22,952
+An Ag-isle Primer,20.99,2019-07-22,953
+Sea-act Hooks,55.7,2019-07-24,954
+Building with Gradeel,80.31,2019-07-25,955
+Advanced Ruby on Whales,48.99,2019-07-27,956
+Cod-ing in Python,62.0,2019-07-27,957
+Cod-ing in Python,60.88,2019-07-27,958
+The Crabmatic Programmer,59.99,2019-07-27,959
+The Crabmatic Programmer,60.49,2019-07-29,960
+The Crabmatic Programmer,57.0,2019-07-31,961
+Cod-ing in Python,58.5,2019-08-01,962
+Sea-act Hooks,53.5,2019-08-02,963
+Sea-act Hooks,55.99,2019-08-03,964
+Fin-troduction to Sea++,49.5,2019-08-04,965
+Building with Gradeel,80.0,2019-08-04,966
+Fin-troduction to Sea++,52.0,2019-08-05,967
+Fin-troduction to Sea++,49.5,2019-08-05,968
+Fin-troduction to Sea++,49.0,2019-08-05,969
+An Ag-isle Primer,21.5,2019-08-05,970
+An Ag-isle Primer,22.5,2019-08-06,971
+Fin-troduction to Sea++,49.5,2019-08-07,972
+Fin-troduction to Sea++,47.93,2019-08-07,973
+Sea-act Hooks,50.0,2019-08-07,974
+Cod-ing in Python,58.99,2019-08-07,975
+Fin-troduction to Sea++,51.0,2019-08-08,976
+Building with Gradeel,78.5,2019-08-08,977
+Fin-troduction to Sea++,42.99,2019-08-09,978
+Fin-troduction to Sea++,46.49,2019-08-10,979
+Sea-act Hooks,54.49,2019-08-10,980
+Fin-troduction to Sea++,50.5,2019-08-12,981
+Sea-act Hooks,52.5,2019-08-12,982
+An Ag-isle Primer,20.99,2019-08-13,983
+The Crabmatic Programmer,62.0,2019-08-13,984
+Cod-ing in Python,52.99,2019-08-14,985
+Building with Gradeel,79.5,2019-08-14,986
+Sea-act Hooks,56.5,2019-08-15,987
+Cod-ing in Python,57.49,2019-08-15,988
+Fin-troduction to Sea++,49.23,2019-08-16,989
+Building with Gradeel,81.0,2019-08-16,990
+Fin-troduction to Sea++,51.99,2019-08-17,991
+Sea-act Hooks,55.44,2019-08-17,992
+Building with Gradeel,81.49,2019-08-17,993
+Fin-troduction to Sea++,48.39,2019-08-19,994
+Advanced Ruby on Whales,48.5,2019-08-19,995
+Advanced Ruby on Whales,46.5,2019-08-19,996
+Fin-troduction to Sea++,50.02,2019-08-20,997
+Fin-troduction to Sea++,48.0,2019-08-20,998
+Sea-act Hooks,53.99,2019-08-20,999
+Fin-troduction to Sea++,49.06,2019-08-22,1000
+The Crabmatic Programmer,64.99,2019-08-22,1001
+Fin-troduction to Sea++,49.5,2019-08-23,1002
+An Ag-isle Primer,20.49,2019-08-24,1003
+Building with Gradeel,78.49,2019-08-25,1004
+Sea-act Hooks,53.49,2019-08-26,1005
+Advanced Ruby on Whales,47.0,2019-08-27,1006
+Cod-ing in Python,57.45,2019-08-27,1007
+An Ag-isle Primer,19.99,2019-08-27,1008
+Fin-troduction to Sea++,45.5,2019-08-29,1009
+Sea-act Hooks,51.5,2019-08-29,1010
+Building with Gradeel,81.03,2019-08-30,1011
+Fin-troduction to Sea++,49.5,2019-08-31,1012
+The Crabmatic Programmer,60.5,2019-08-31,1013
+Fin-troduction to Sea++,48.06,2019-09-01,1014
+Cod-ing in Python,55.99,2019-09-02,1015
+Sea-act Hooks,49.49,2019-09-03,1016
+Fin-troduction to Sea++,47.5,2019-09-04,1017
+The Crabmatic Programmer,58.0,2019-09-04,1018
+Advanced Ruby on Whales,44.5,2019-09-05,1019
+Fin-troduction to Sea++,47.09,2019-09-06,1020
+Advanced Ruby on Whales,47.49,2019-09-06,1021
+The Crabmatic Programmer,59.99,2019-09-06,1022
+Sea-act Hooks,54.76,2019-09-07,1023
+An Ag-isle Primer,15.99,2019-09-07,1024
+Fin-troduction to Sea++,51.0,2019-09-08,1025
+Fin-troduction to Sea++,44.5,2019-09-08,1026
+Sea-act Hooks,54.5,2019-09-09,1027
+Cod-ing in Python,60.49,2019-09-09,1028
+The Crabmatic Programmer,57.99,2019-09-09,1029
+Sea-act Hooks,55.12,2019-09-10,1030
+Advanced Ruby on Whales,46.5,2019-09-11,1031
+Sea-act Hooks,52.05,2019-09-11,1032
+Cod-ing in Python,57.99,2019-09-11,1033
+Sea-act Hooks,56.5,2019-09-12,1034
+Building with Gradeel,81.5,2019-09-13,1035
+Cod-ing in Python,58.5,2019-09-14,1036
+Sea-act Hooks,54.0,2019-09-15,1037
+Cod-ing in Python,61.5,2019-09-15,1038
+Building with Gradeel,83.49,2019-09-16,1039
+Fin-troduction to Sea++,47.5,2019-09-18,1040
+Sea-act Hooks,54.49,2019-09-18,1041
+Building with Gradeel,78.49,2019-09-18,1042
+The Crabmatic Programmer,60.5,2019-09-19,1043
+Advanced Ruby on Whales,45.99,2019-09-20,1044
+Sea-act Hooks,54.0,2019-09-21,1045
+The Crabmatic Programmer,57.01,2019-09-21,1046
+Sea-act Hooks,55.0,2019-09-22,1047
+Advanced Ruby on Whales,43.5,2019-09-23,1048
+Fin-troduction to Sea++,49.0,2019-09-24,1049
+An Ag-isle Primer,20.5,2019-09-24,1050
+Sea-act Hooks,55.24,2019-09-25,1051
+Sea-act Hooks,55.0,2019-09-27,1052
+Fin-troduction to Sea++,50.0,2019-09-29,1053
+Sea-act Hooks,59.96,2019-09-29,1054
+Sea-act Hooks,53.0,2019-09-29,1055
+Cod-ing in Python,58.38,2019-09-29,1056
+Cod-ing in Python,59.49,2019-09-30,1057
+The Crabmatic Programmer,58.5,2019-10-01,1058
+Fin-troduction to Sea++,49.34,2019-10-03,1059
+Fin-troduction to Sea++,52.0,2019-10-04,1060
+Building with Gradeel,79.5,2019-10-06,1061
+The Crabmatic Programmer,62.49,2019-10-10,1062
+Fin-troduction to Sea++,48.49,2019-10-11,1063
+Fin-troduction to Sea++,48.5,2019-10-12,1064
+Fin-troduction to Sea++,43.49,2019-10-13,1065
+Fin-troduction to Sea++,51.49,2019-10-13,1066
+Fin-troduction to Sea++,48.04,2019-10-13,1067
+Fin-troduction to Sea++,51.06,2019-10-14,1068
+Sea-act Hooks,55.5,2019-10-15,1069
+Building with Gradeel,80.5,2019-10-15,1070
+Fin-troduction to Sea++,50.0,2019-10-16,1071
+Building with Gradeel,83.0,2019-10-16,1072
+Sea-act Hooks,54.5,2019-10-17,1073
+Fin-troduction to Sea++,48.99,2019-10-18,1074
+Building with Gradeel,82.0,2019-10-22,1075
+Building with Gradeel,82.34,2019-10-22,1076
+Advanced Ruby on Whales,42.99,2019-10-23,1077
+The Crabmatic Programmer,61.49,2019-10-23,1078
+Fin-troduction to Sea++,47.15,2019-10-26,1079
+Building with Gradeel,74.49,2019-10-26,1080
+Fin-troduction to Sea++,48.49,2019-10-27,1081
+Building with Gradeel,83.5,2019-10-27,1082
+Fin-troduction to Sea++,43.0,2019-10-28,1083
+Fin-troduction to Sea++,50.0,2019-10-29,1084
+Advanced Ruby on Whales,47.0,2019-10-29,1085
+Fin-troduction to Sea++,51.0,2019-10-30,1086
+Sea-act Hooks,50.25,2019-10-30,1087
+Fin-troduction to Sea++,49.0,2019-11-01,1088
+Sea-act Hooks,52.5,2019-11-01,1089
+Building with Gradeel,77.49,2019-11-01,1090
+Fin-troduction to Sea++,51.0,2019-11-03,1091
+Fin-troduction to Sea++,50.99,2019-11-03,1092
+Advanced Ruby on Whales,43.99,2019-11-03,1093
+Sea-act Hooks,56.0,2019-11-03,1094
+Sea-act Hooks,54.61,2019-11-03,1095
+Sea-act Hooks,55.0,2019-11-05,1096
+Sea-act Hooks,57.0,2019-11-06,1097
+Building with Gradeel,77.0,2019-11-06,1098
+Sea-act Hooks,52.49,2019-11-07,1099
+Building with Gradeel,81.5,2019-11-07,1100
+Fin-troduction to Sea++,51.49,2019-11-09,1101
+The Crabmatic Programmer,57.5,2019-11-10,1102
+Fin-troduction to Sea++,52.49,2019-11-11,1103
+The Crabmatic Programmer,58.49,2019-11-11,1104
+Fin-troduction to Sea++,46.78,2019-11-12,1105
+Advanced Ruby on Whales,48.0,2019-11-12,1106
+Sea-act Hooks,57.0,2019-11-13,1107
+Fin-troduction to Sea++,50.73,2019-11-16,1108
+Fin-troduction to Sea++,49.5,2019-11-17,1109
+Fin-troduction to Sea++,52.0,2019-11-17,1110
+Cod-ing in Python,57.0,2019-11-18,1111
+Building with Gradeel,81.5,2019-11-18,1112
+Advanced Ruby on Whales,53.0,2019-11-19,1113
+Fin-troduction to Sea++,49.0,2019-11-21,1114
+Fin-troduction to Sea++,50.49,2019-11-22,1115
+Sea-act Hooks,53.49,2019-11-26,1116
+Fin-troduction to Sea++,47.0,2019-11-27,1117
+Fin-troduction to Sea++,52.0,2019-11-27,1118
+Fin-troduction to Sea++,51.99,2019-11-29,1119
+Fin-troduction to Sea++,48.49,2019-11-29,1120
+Cod-ing in Python,62.0,2019-11-30,1121
+Advanced Ruby on Whales,47.0,2019-12-01,1122
+Sea-act Hooks,56.5,2019-12-01,1123
+Building with Gradeel,81.15,2019-12-01,1124
+Sea-act Hooks,56.49,2019-12-02,1125
+Fin-troduction to Sea++,49.06,2019-12-03,1126
+Cod-ing in Python,61.5,2019-12-03,1127
+Fin-troduction to Sea++,47.0,2019-12-04,1128
+Fin-troduction to Sea++,49.0,2019-12-05,1129
+Sea-act Hooks,56.0,2019-12-05,1130
+Sea-act Hooks,53.72,2019-12-05,1131
+Sea-act Hooks,56.43,2019-12-05,1132
+Sea-act Hooks,50.49,2019-12-05,1133
+An Ag-isle Primer,23.0,2019-12-05,1134
+Building with Gradeel,78.49,2019-12-05,1135
+Advanced Ruby on Whales,48.5,2019-12-06,1136
+Sea-act Hooks,54.5,2019-12-06,1137
+The Crabmatic Programmer,61.5,2019-12-06,1138
+Fin-troduction to Sea++,52.68,2019-12-09,1139
+Sea-act Hooks,51.0,2019-12-09,1140
+Sea-act Hooks,53.0,2019-12-10,1141
+Sea-act Hooks,57.0,2019-12-12,1142
+Fin-troduction to Sea++,50.49,2019-12-13,1143
+Sea-act Hooks,51.0,2019-12-13,1144
+Fin-troduction to Sea++,50.0,2019-12-15,1145
+Advanced Ruby on Whales,50.0,2019-12-15,1146
+An Ag-isle Primer,21.07,2019-12-15,1147
+Fin-troduction to Sea++,50.5,2019-12-16,1148
+Fin-troduction to Sea++,49.49,2019-12-17,1149
+Fin-troduction to Sea++,50.0,2019-12-17,1150
+Sea-act Hooks,60.0,2019-12-17,1151
+Building with Gradeel,83.49,2019-12-17,1152
+Advanced Ruby on Whales,51.0,2019-12-18,1153
+Cod-ing in Python,56.49,2019-12-18,1154
+Building with Gradeel,77.5,2019-12-18,1155
+The Crabmatic Programmer,58.0,2019-12-18,1156
+Fin-troduction to Sea++,48.57,2019-12-19,1157
+Fin-troduction to Sea++,52.5,2019-12-19,1158
+An Ag-isle Primer,20.0,2019-12-20,1159
+Building with Gradeel,80.5,2019-12-20,1160
+Sea-act Hooks,55.0,2019-12-21,1161
+Sea-act Hooks,53.5,2019-12-21,1162
+Building with Gradeel,81.99,2019-12-21,1163
+Fin-troduction to Sea++,50.5,2019-12-22,1164
+Advanced Ruby on Whales,49.49,2019-12-22,1165
+Sea-act Hooks,53.49,2019-12-22,1166
+Advanced Ruby on Whales,46.49,2019-12-23,1167
+The Crabmatic Programmer,57.5,2019-12-23,1168
+Fin-troduction to Sea++,53.0,2019-12-24,1169
+Fin-troduction to Sea++,51.99,2019-12-24,1170
+Cod-ing in Python,60.08,2019-12-24,1171
+The Crabmatic Programmer,63.5,2019-12-24,1172
+The Crabmatic Programmer,63.5,2019-12-24,1173
+Fin-troduction to Sea++,53.69,2019-12-25,1174
+Building with Gradeel,86.99,2019-12-25,1175
+The Crabmatic Programmer,60.0,2019-12-26,1176
+Fin-troduction to Sea++,49.49,2019-12-27,1177
+Fin-troduction to Sea++,51.5,2019-12-27,1178
+Advanced Ruby on Whales,44.99,2019-12-28,1179
+Building with Gradeel,81.34,2019-12-28,1180
+Fin-troduction to Sea++,49.99,2019-12-30,1181
+Advanced Ruby on Whales,47.5,2019-12-31,1182
+Fin-troduction to Sea++,51.0,2020-01-01,1183
+Fin-troduction to Sea++,51.0,2020-01-02,1184
+Building with Gradeel,82.0,2020-01-02,1185
+Sea-act Hooks,48.68,2020-01-04,1186
+Fin-troduction to Sea++,46.5,2020-01-05,1187
+Cod-ing in Python,57.5,2020-01-06,1188
+Sea-act Hooks,53.0,2020-01-08,1189
+Building with Gradeel,85.5,2020-01-08,1190
+Building with Gradeel,85.89,2020-01-11,1191
+Sea-act Hooks,54.99,2020-01-12,1192
+Cod-ing in Python,59.5,2020-01-12,1193
+Reef-actoring,43.99,2020-01-12,1194
+Reef-actoring,37.5,2020-01-12,1195
+Reef-actoring,42.5,2020-01-12,1196
+Reef-actoring,37.49,2020-01-12,1197
+Reef-actoring,39.49,2020-01-12,1198
+Reef-actoring,41.5,2020-01-12,1199
+Reef-actoring,39.0,2020-01-12,1200
+Reef-actoring,38.5,2020-01-12,1201
+Reef-actoring,41.99,2020-01-12,1202
+An Ag-isle Primer,18.0,2020-01-13,1203
+An Ag-isle Primer,17.0,2020-01-13,1204
+Reef-actoring,43.49,2020-01-13,1205
+Reef-actoring,35.0,2020-01-13,1206
+Sea-act Hooks,51.0,2020-01-14,1207
+Reef-actoring,39.49,2020-01-14,1208
+Reef-actoring,41.5,2020-01-14,1209
+Reef-actoring,42.5,2020-01-14,1210
+Reef-actoring,43.0,2020-01-14,1211
+Fin-troduction to Sea++,47.0,2020-01-15,1212
+Reef-actoring,35.5,2020-01-15,1213
+Reef-actoring,38.5,2020-01-15,1214
+Reef-actoring,45.0,2020-01-16,1215
+Reef-actoring,36.5,2020-01-16,1216
+Reef-actoring,40.5,2020-01-17,1217
+Fin-troduction to Sea++,47.49,2020-01-18,1218
+Building with Gradeel,75.73,2020-01-18,1219
+Building with Gradeel,82.93,2020-01-18,1220
+Building with Gradeel,77.49,2020-01-18,1221
+Reef-actoring,38.0,2020-01-18,1222
+Reef-actoring,41.49,2020-01-18,1223
+Reef-actoring,38.99,2020-01-18,1224
+Reef-actoring,38.49,2020-01-18,1225
+Reef-actoring,38.5,2020-01-18,1226
+Fin-troduction to Sea++,47.59,2020-01-19,1227
+Sea-act Hooks,50.49,2020-01-19,1228
+Fin-troduction to Sea++,49.5,2020-01-20,1229
+Fin-troduction to Sea++,49.42,2020-01-20,1230
+Reef-actoring,43.33,2020-01-20,1231
+An Ag-isle Primer,21.21,2020-01-21,1232
+Reef-actoring,37.96,2020-01-21,1233
+Reef-actoring,36.91,2020-01-21,1234
+Reef-actoring,40.58,2020-01-22,1235
+Reef-actoring,40.99,2020-01-22,1236
+Reef-actoring,40.5,2020-01-22,1237
+Sea-act Hooks,57.35,2020-01-23,1238
+Reef-actoring,38.99,2020-01-23,1239
+Fin-troduction to Sea++,52.0,2020-01-24,1240
+Reef-actoring,41.5,2020-01-25,1241
+Reef-actoring,39.0,2020-01-25,1242
+Reef-actoring,37.0,2020-01-26,1243
+Reef-actoring,38.67,2020-01-26,1244
+Reef-actoring,35.99,2020-01-27,1245
+Fin-troduction to Sea++,53.11,2020-01-28,1246
+Sea-act Hooks,55.0,2020-01-28,1247
+Building with Gradeel,82.49,2020-01-28,1248
+Reef-actoring,38.2,2020-01-28,1249
+Reef-actoring,38.49,2020-01-28,1250
+Fin-troduction to Sea++,51.0,2020-01-29,1251
+Sea-act Hooks,58.0,2020-01-31,1252
+An Ag-isle Primer,20.0,2020-02-01,1253
+Reef-actoring,41.5,2020-02-01,1254
+Reef-actoring,40.5,2020-02-01,1255
+Reef-actoring,39.99,2020-02-01,1256
+Sea-act Hooks,57.49,2020-02-02,1257
+Cod-ing in Python,60.0,2020-02-02,1258
+Cod-ing in Python,60.49,2020-02-02,1259
+Reef-actoring,40.49,2020-02-02,1260
+Reef-actoring,43.5,2020-02-02,1261
+Reef-actoring,39.49,2020-02-02,1262
+An Ag-isle Primer,19.96,2020-02-03,1263
+Reef-actoring,38.99,2020-02-03,1264
+Reef-actoring,33.13,2020-02-03,1265
+Reef-actoring,35.49,2020-02-03,1266
+Reef-actoring,38.49,2020-02-04,1267
+Reef-actoring,42.79,2020-02-04,1268
+Reef-actoring,40.49,2020-02-04,1269
+Sea-act Hooks,57.5,2020-02-05,1270
+The Crabmatic Programmer,59.49,2020-02-05,1271
+Building with Gradeel,84.5,2020-02-06,1272
+Reef-actoring,44.0,2020-02-06,1273
+Fin-troduction to Sea++,51.5,2020-02-07,1274
+Fin-troduction to Sea++,47.99,2020-02-07,1275
+Building with Gradeel,79.99,2020-02-07,1276
+Fin-troduction to Sea++,44.49,2020-02-08,1277
+Sea-act Hooks,51.99,2020-02-08,1278
+Building with Gradeel,76.31,2020-02-08,1279
+Reef-actoring,38.97,2020-02-08,1280
+Reef-actoring,37.99,2020-02-08,1281
+Cod-ing in Python,62.99,2020-02-09,1282
+Fin-troduction to Sea++,48.49,2020-02-10,1283
+Reef-actoring,41.71,2020-02-10,1284
+Fin-troduction to Sea++,46.77,2020-02-11,1285
+Reef-actoring,40.0,2020-02-11,1286
+Reef-actoring,40.0,2020-02-11,1287
+Reef-actoring,36.0,2020-02-12,1288
+Reef-actoring,40.49,2020-02-12,1289
+Reef-actoring,42.49,2020-02-12,1290
+Building with Gradeel,79.0,2020-02-14,1291
+Reef-actoring,39.5,2020-02-15,1292
+Reef-actoring,37.49,2020-02-16,1293
+Building with Gradeel,78.49,2020-02-17,1294
+Reef-actoring,40.99,2020-02-17,1295
+Reef-actoring,39.99,2020-02-17,1296
+Reef-actoring,39.38,2020-02-17,1297
+The Crabmatic Programmer,63.99,2020-02-17,1298
+Fin-troduction to Sea++,51.0,2020-02-18,1299
+Sea-act Hooks,53.7,2020-02-19,1300
+Building with Gradeel,81.99,2020-02-19,1301
+Building with Gradeel,83.54,2020-02-19,1302
+Reef-actoring,33.99,2020-02-19,1303
+Reef-actoring,39.99,2020-02-19,1304
+Sea-act Hooks,55.0,2020-02-20,1305
+Building with Gradeel,78.49,2020-02-20,1306
+Reef-actoring,38.69,2020-02-20,1307
+Reef-actoring,44.0,2020-02-20,1308
+Cod-ing in Python,60.99,2020-02-21,1309
+Reef-actoring,37.5,2020-02-21,1310
+Fin-troduction to Sea++,51.5,2020-02-22,1311
+The Crabmatic Programmer,63.26,2020-02-22,1312
+Fin-troduction to Sea++,44.99,2020-02-23,1313
+Reef-actoring,39.62,2020-02-23,1314
+Reef-actoring,37.99,2020-02-23,1315
+Cod-ing in Python,58.5,2020-02-24,1316
+Reef-actoring,39.99,2020-02-24,1317
+Sea-act Hooks,50.0,2020-02-25,1318
+Reef-actoring,34.89,2020-02-25,1319
+Reef-actoring,37.49,2020-02-25,1320
+The Crabmatic Programmer,58.5,2020-02-25,1321
+Sea-act Hooks,54.7,2020-02-26,1322
+Sea-act Hooks,58.99,2020-02-26,1323
+Cod-ing in Python,61.5,2020-02-26,1324
+Reef-actoring,39.99,2020-02-26,1325
+Fin-troduction to Sea++,49.5,2020-02-27,1326
+Sea-act Hooks,57.5,2020-02-27,1327
+Reef-actoring,42.49,2020-02-27,1328
+Fin-troduction to Sea++,46.23,2020-02-29,1329
+Fin-troduction to Sea++,49.5,2020-03-01,1330
+Reef-actoring,37.99,2020-03-02,1331
+Reef-actoring,37.55,2020-03-02,1332
+An Ag-isle Primer,19.5,2020-03-03,1333
+Building with Gradeel,77.5,2020-03-03,1334
+Advanced Ruby on Whales,44.98,2020-03-04,1335
+Advanced Ruby on Whales,47.0,2020-03-05,1336
+Reef-actoring,42.0,2020-03-05,1337
+Sea-act Hooks,54.5,2020-03-06,1338
+Sea-act Hooks,53.49,2020-03-06,1339
+Building with Gradeel,80.65,2020-03-06,1340
+Reef-actoring,39.49,2020-03-06,1341
+An Ag-isle Primer,20.99,2020-03-07,1342
+Reef-actoring,39.99,2020-03-07,1343
+Reef-actoring,41.5,2020-03-07,1344
+The Crabmatic Programmer,62.0,2020-03-07,1345
+Building with Gradeel,80.5,2020-03-08,1346
+Fin-troduction to Sea++,53.0,2020-03-10,1347
+Reef-actoring,39.5,2020-03-10,1348
+Reef-actoring,41.49,2020-03-10,1349
+Advanced Ruby on Whales,48.5,2020-03-11,1350
+Building with Gradeel,81.49,2020-03-11,1351
+Sea-act Hooks,54.49,2020-03-13,1352
+Cod-ing in Python,56.99,2020-03-13,1353
+Fin-troduction to Sea++,53.5,2020-03-14,1354
+Fin-troduction to Sea++,52.99,2020-03-14,1355
+Reef-actoring,40.49,2020-03-14,1356
+Reef-actoring,38.49,2020-03-14,1357
+Fin-troduction to Sea++,48.5,2020-03-16,1358
+Building with Gradeel,80.49,2020-03-16,1359
+Reef-actoring,40.5,2020-03-17,1360
+Advanced Ruby on Whales,46.42,2020-03-18,1361
+Sea-act Hooks,53.49,2020-03-18,1362
+Cod-ing in Python,64.5,2020-03-18,1363
+Reef-actoring,36.99,2020-03-18,1364
+Reef-actoring,42.35,2020-03-19,1365
+An Ag-isle Primer,23.5,2020-03-20,1366
+An Ag-isle Primer,21.0,2020-03-20,1367
+Fin-troduction to Sea++,49.5,2020-03-21,1368
+Fin-troduction to Sea++,47.09,2020-03-21,1369
+Sea-act Hooks,55.49,2020-03-21,1370
+Cod-ing in Python,58.5,2020-03-21,1371
+The Crabmatic Programmer,58.0,2020-03-22,1372
+Fin-troduction to Sea++,51.49,2020-03-23,1373
+Reef-actoring,39.5,2020-03-23,1374
+Fin-troduction to Sea++,50.5,2020-03-24,1375
+Reef-actoring,38.5,2020-03-24,1376
+The Crabmatic Programmer,57.99,2020-03-24,1377
+The Crabmatic Programmer,60.49,2020-03-25,1378
+Fin-troduction to Sea++,49.49,2020-03-26,1379
+Fin-troduction to Sea++,47.49,2020-03-26,1380
+Sea-act Hooks,54.5,2020-03-26,1381
+Reef-actoring,42.72,2020-03-27,1382
+Sea-act Hooks,53.49,2020-03-28,1383
+An Ag-isle Primer,21.41,2020-03-30,1384
+Reef-actoring,38.99,2020-03-30,1385
+Reef-actoring,40.99,2020-04-01,1386
+Sea-act Hooks,52.49,2020-04-02,1387
+Reef-actoring,43.19,2020-04-02,1388
+Reef-actoring,42.49,2020-04-03,1389
+Building with Gradeel,80.0,2020-04-04,1390
+Sea-act Hooks,59.0,2020-04-05,1391
+Fin-troduction to Sea++,46.49,2020-04-06,1392
+Reef-actoring,41.49,2020-04-06,1393
+Cod-ing in Python,56.99,2020-04-07,1394
+Advanced Ruby on Whales,47.49,2020-04-08,1395
+Reef-actoring,39.0,2020-04-09,1396
+Fin-troduction to Sea++,47.5,2020-04-11,1397
+Sea-act Hooks,54.0,2020-04-11,1398
+Building with Gradeel,79.99,2020-04-11,1399
+Fin-troduction to Sea++,53.0,2020-04-12,1400
+Cod-ing in Python,59.0,2020-04-12,1401
+Building with Gradeel,83.49,2020-04-12,1402
+Reef-actoring,37.5,2020-04-12,1403
+The Crabmatic Programmer,59.41,2020-04-13,1404
+Reef-actoring,38.38,2020-04-14,1405
+Reef-actoring,43.49,2020-04-18,1406
+Reef-actoring,37.99,2020-04-18,1407
+Reef-actoring,38.5,2020-04-18,1408
+Fin-troduction to Sea++,50.92,2020-04-19,1409
+Reef-actoring,36.5,2020-04-19,1410
+Fin-troduction to Sea++,47.49,2020-04-20,1411
+Fin-troduction to Sea++,46.49,2020-04-20,1412
+Cod-ing in Python,60.99,2020-04-21,1413
+The Carp Of Computer Programming,68.5,2020-04-21,1414
+Reef-actoring,39.99,2020-04-21,1415
+Fin-troduction to Sea++,48.5,2020-04-24,1416
+Reef-actoring,39.5,2020-04-24,1417
+Sea-act Hooks,59.5,2020-04-25,1418
+Building with Gradeel,84.49,2020-04-25,1419
+Reef-actoring,36.99,2020-04-25,1420
+The Crabmatic Programmer,60.97,2020-04-25,1421
+Fin-troduction to Sea++,47.5,2020-04-26,1422
+Advanced Ruby on Whales,49.43,2020-04-26,1423
+Reef-actoring,39.5,2020-04-26,1424
+Advanced Ruby on Whales,45.5,2020-04-30,1425
+Fin-troduction to Sea++,50.99,2020-05-01,1426
+Advanced Ruby on Whales,49.5,2020-05-02,1427
+Sea-act Hooks,52.5,2020-05-02,1428
+Reef-actoring,36.0,2020-05-02,1429
+The Crabmatic Programmer,59.0,2020-05-02,1430
+Reef-actoring,39.99,2020-05-03,1431
+Reef-actoring,36.0,2020-05-03,1432
+Reef-actoring,39.99,2020-05-03,1433
+Sea-act Hooks,57.5,2020-05-04,1434
+Reef-actoring,36.5,2020-05-04,1435
+Fin-troduction to Sea++,51.0,2020-05-05,1436
+Advanced Ruby on Whales,49.5,2020-05-05,1437
+Sea-act Hooks,57.0,2020-05-05,1438
+Cod-ing in Python,58.49,2020-05-05,1439
+Fin-troduction to Sea++,48.99,2020-05-06,1440
+Reef-actoring,37.99,2020-05-06,1441
+Sea-act Hooks,55.49,2020-05-07,1442
+Sea-act Hooks,52.99,2020-05-09,1443
+Reef-actoring,37.25,2020-05-09,1444
+Sea-act Hooks,60.49,2020-05-10,1445
+Fin-troduction to Sea++,49.99,2020-05-11,1446
+The Carp Of Computer Programming,69.04,2020-05-11,1447
+Reef-actoring,42.5,2020-05-11,1448
+Fin-troduction to Sea++,47.49,2020-05-12,1449
+Cod-ing in Python,60.49,2020-05-12,1450
+Reef-actoring,38.99,2020-05-12,1451
+The Crabmatic Programmer,63.5,2020-05-12,1452
+Building with Gradeel,83.0,2020-05-15,1453
+Building with Gradeel,85.5,2020-05-15,1454
+Sea-act Hooks,54.0,2020-05-16,1455
+Sea-act Hooks,51.5,2020-05-16,1456
+Reef-actoring,42.0,2020-05-16,1457
+Sea-act Hooks,55.0,2020-05-17,1458
+Cod-ing in Python,59.0,2020-05-17,1459
+The Carp Of Computer Programming,66.5,2020-05-17,1460
+Reef-actoring,37.99,2020-05-17,1461
+Advanced Ruby on Whales,50.5,2020-05-18,1462
+The Carp Of Computer Programming,69.49,2020-05-18,1463
+Building with Gradeel,85.5,2020-05-19,1464
+Fin-troduction to Sea++,46.5,2020-05-20,1465
+Advanced Ruby on Whales,46.0,2020-05-20,1466
+Sea-act Hooks,53.5,2020-05-20,1467
+Cod-ing in Python,60.04,2020-05-21,1468
+Building with Gradeel,78.99,2020-05-22,1469
+The Carp Of Computer Programming,69.0,2020-05-22,1470
+Reef-actoring,38.49,2020-05-23,1471
+Reef-actoring,40.49,2020-05-23,1472
+The Crabmatic Programmer,59.0,2020-05-23,1473
+Building with Gradeel,79.99,2020-05-24,1474
+Advanced Ruby on Whales,49.43,2020-05-25,1475
+Software Sharkitecture in Practice,44.0,2020-05-25,1476
+Software Sharkitecture in Practice,45.0,2020-05-25,1477
+Advanced Ruby on Whales,51.5,2020-05-26,1478
+Advanced Ruby on Whales,47.0,2020-05-26,1479
+Reef-actoring,37.5,2020-05-26,1480
+Software Sharkitecture in Practice,44.95,2020-05-26,1481
+Fin-troduction to Sea++,46.0,2020-05-27,1482
+Software Sharkitecture in Practice,48.5,2020-05-27,1483
+Sea-act Hooks,59.5,2020-05-28,1484
+Sea-act Hooks,57.47,2020-05-29,1485
+Reef-actoring,40.99,2020-05-30,1486
+Reef-actoring,38.0,2020-05-31,1487
+Reef-actoring,37.5,2020-06-01,1488
+Reef-actoring,39.0,2020-06-01,1489
+Fin-troduction to Sea++,47.45,2020-06-02,1490
+Advanced Ruby on Whales,44.99,2020-06-02,1491
+Sea-act Hooks,52.5,2020-06-02,1492
+Cod-ing in Python,59.99,2020-06-02,1493
+Building with Gradeel,78.99,2020-06-02,1494
+Reef-actoring,38.49,2020-06-02,1495
+Fin-troduction to Sea++,52.55,2020-06-03,1496
+Fin-troduction to Sea++,51.49,2020-06-03,1497
+Building with Gradeel,84.0,2020-06-03,1498
+The Crabmatic Programmer,57.0,2020-06-03,1499
+Fin-troduction to Sea++,52.49,2020-06-04,1500
+Software Sharkitecture in Practice,51.5,2020-06-04,1501
+Reef-actoring,40.0,2020-06-05,1502
+No Silver Mullet,62.49,2020-06-05,1503
+Reef-actoring,42.5,2020-06-06,1504
+Fin-troduction to Sea++,49.5,2020-06-07,1505
+Cod-ing in Python,59.5,2020-06-07,1506
+Reef-actoring,39.99,2020-06-07,1507
+The Crabmatic Programmer,59.0,2020-06-07,1508
+Building with Gradeel,77.99,2020-06-08,1509
+Fin-troduction to Sea++,50.49,2020-06-09,1510
+Fin-troduction to Sea++,51.5,2020-06-09,1511
+The Crabmatic Programmer,64.02,2020-06-09,1512
+Reef-actoring,39.99,2020-06-10,1513
+No Silver Mullet,65.49,2020-06-10,1514
+Fin-troduction to Sea++,50.5,2020-06-11,1515
+Fin-troduction to Sea++,51.5,2020-06-11,1516
+Cod-ing in Python,58.5,2020-06-11,1517
+Reef-actoring,37.99,2020-06-11,1518
+Sea-act Hooks,51.99,2020-06-12,1519
+Sea-act Hooks,52.99,2020-06-12,1520
+Reef-actoring,39.5,2020-06-12,1521
+Sea-act Hooks,50.5,2020-06-13,1522
+Reef-actoring,38.5,2020-06-13,1523
+Sea-act Hooks,51.0,2020-06-14,1524
+Sea-act Hooks,52.99,2020-06-15,1525
+The Crabmatic Programmer,58.73,2020-06-15,1526
+The Carp Of Computer Programming,66.0,2020-06-16,1527
+No Silver Mullet,58.5,2020-06-16,1528
+Fin-troduction to Sea++,47.5,2020-06-17,1529
+Sea-act Hooks,53.49,2020-06-17,1530
+Reef-actoring,37.99,2020-06-17,1531
+Fin-troduction to Sea++,48.49,2020-06-18,1532
+Fin-troduction to Sea++,51.49,2020-06-18,1533
+Sea-act Hooks,53.99,2020-06-18,1534
+Reef-actoring,37.49,2020-06-18,1535
+No Silver Mullet,56.5,2020-06-18,1536
+Reef-actoring,41.0,2020-06-19,1537
+Reef-actoring,39.0,2020-06-19,1538
+Building with Gradeel,78.0,2020-06-20,1539
+Reef-actoring,38.49,2020-06-20,1540
+Reef-actoring,42.1,2020-06-20,1541
+Fin-troduction to Sea++,50.0,2020-06-21,1542
+Fin-troduction to Sea++,49.5,2020-06-21,1543
+Sea-act Hooks,50.99,2020-06-21,1544
+Building with Gradeel,80.0,2020-06-21,1545
+Reef-actoring,39.0,2020-06-21,1546
+No Silver Mullet,58.5,2020-06-21,1547
+Fin-troduction to Sea++,48.0,2020-06-22,1548
+Sea-act Hooks,56.5,2020-06-23,1549
+Reef-actoring,44.5,2020-06-23,1550
+Reef-actoring,39.99,2020-06-23,1551
+Sea-act Hooks,58.99,2020-06-24,1552
+Reef-actoring,38.49,2020-06-25,1553
+Reef-actoring,37.99,2020-06-25,1554
+No Silver Mullet,61.49,2020-06-25,1555
+No Silver Mullet,67.5,2020-06-26,1556
+Building with Gradeel,76.5,2020-06-27,1557
+Building with Gradeel,83.5,2020-06-27,1558
+Reef-actoring,38.0,2020-06-27,1559
+Reef-actoring,40.99,2020-06-29,1560
+Fin-troduction to Sea++,50.14,2020-06-30,1561
+Reef-actoring,38.49,2020-06-30,1562
+Fin-troduction to Sea++,54.0,2020-07-01,1563
+Building with Gradeel,81.03,2020-07-01,1564
+Fin-troduction to Sea++,47.09,2020-07-02,1565
+The Carp Of Computer Programming,64.0,2020-07-02,1566
+Sea-act Hooks,55.5,2020-07-06,1567
+Cod-ing in Python,59.26,2020-07-06,1568
+Reef-actoring,40.0,2020-07-06,1569
+Reef-actoring,34.31,2020-07-06,1570
+Cod-ing in Python,63.99,2020-07-07,1571
+The Carp Of Computer Programming,67.99,2020-07-07,1572
+Reef-actoring,37.56,2020-07-07,1573
+Reef-actoring,40.0,2020-07-07,1574
+Software Sharkitecture in Practice,53.0,2020-07-07,1575
+Sea-act Hooks,57.0,2020-07-09,1576
+Reef-actoring,39.5,2020-07-10,1577
+Sea-act Hooks,55.52,2020-07-11,1578
+Sea-act Hooks,55.0,2020-07-11,1579
+An Ag-isle Primer,24.49,2020-07-11,1580
+The Crabmatic Programmer,59.5,2020-07-11,1581
+Sea-act Hooks,55.06,2020-07-12,1582
+Reef-actoring,43.5,2020-07-12,1583
+Reef-actoring,37.87,2020-07-12,1584
+No Silver Mullet,64.0,2020-07-12,1585
+Reef-actoring,42.99,2020-07-13,1586
+Sea-act Hooks,48.9,2020-07-14,1587
+Building with Gradeel,80.5,2020-07-14,1588
+The Carp Of Computer Programming,69.49,2020-07-14,1589
+The Carp Of Computer Programming,67.49,2020-07-14,1590
+An Ag-isle Primer,19.49,2020-07-15,1591
+No Silver Mullet,58.0,2020-07-15,1592
+Building with Gradeel,80.0,2020-07-16,1593
+The Crabmatic Programmer,60.49,2020-07-16,1594
+No Silver Mullet,60.5,2020-07-16,1595
+Fin-troduction to Sea++,49.0,2020-07-17,1596
+Fin-troduction to Sea++,51.89,2020-07-18,1597
+Sea-act Hooks,52.5,2020-07-18,1598
+Building with Gradeel,81.22,2020-07-18,1599
+Reef-actoring,39.5,2020-07-18,1600
+Reef-actoring,37.61,2020-07-19,1601
+Reef-actoring,37.78,2020-07-19,1602
+Fin-troduction to Sea++,50.45,2020-07-20,1603
+Reef-actoring,34.5,2020-07-20,1604
+Reef-actoring,39.0,2020-07-20,1605
+Reef-actoring,38.99,2020-07-20,1606
+Building with Gradeel,78.5,2020-07-21,1607
+The Carp Of Computer Programming,67.75,2020-07-21,1608
+The Carp Of Computer Programming,65.0,2020-07-21,1609
+Reef-actoring,36.99,2020-07-21,1610
+Reef-actoring,38.5,2020-07-21,1611
+Fin-troduction to Sea++,49.93,2020-07-22,1612
+Fin-troduction to Sea++,52.99,2020-07-22,1613
+Sea-act Hooks,55.0,2020-07-22,1614
+Cod-ing in Python,63.5,2020-07-22,1615
+No Silver Mullet,60.99,2020-07-22,1616
+Building with Gradeel,79.0,2020-07-23,1617
+No Silver Mullet,63.5,2020-07-24,1618
+Sea-act Hooks,55.5,2020-07-25,1619
+Reef-actoring,37.82,2020-07-25,1620
+Reef-actoring,40.99,2020-07-26,1621
+No Silver Mullet,58.0,2020-07-26,1622
+Reef-actoring,38.99,2020-07-27,1623
+Sea-act Hooks,55.48,2020-07-28,1624
+Building with Gradeel,82.49,2020-07-28,1625
+Reef-actoring,40.0,2020-07-29,1626
+An Ag-isle Primer,23.0,2020-07-30,1627
+Reef-actoring,39.0,2020-07-30,1628
+Reef-actoring,39.0,2020-07-30,1629
+Reef-actoring,39.49,2020-07-31,1630
+Reef-actoring,38.5,2020-08-01,1631
+Software Sharkitecture in Practice,48.0,2020-08-01,1632
+Reef-actoring,37.5,2020-08-02,1633
+Reef-actoring,40.5,2020-08-02,1634
+Fin-troduction to Sea++,47.5,2020-08-04,1635
+No Silver Mullet,63.5,2020-08-04,1636
+Building with Gradeel,81.5,2020-08-05,1637
+Reef-actoring,41.0,2020-08-05,1638
+Cod-ing in Python,58.02,2020-08-06,1639
+Building with Gradeel,81.5,2020-08-07,1640
+Reef-actoring,34.49,2020-08-07,1641
+Software Sharkitecture in Practice,48.49,2020-08-07,1642
+The Crabmatic Programmer,60.16,2020-08-07,1643
+Sea-act Hooks,56.0,2020-08-08,1644
+Reef-actoring,38.99,2020-08-08,1645
+Reef-actoring,40.99,2020-08-09,1646
+Fin-troduction to Sea++,49.49,2020-08-10,1647
+Building with Gradeel,81.68,2020-08-10,1648
+Reef-actoring,39.0,2020-08-10,1649
+No Silver Mullet,58.99,2020-08-11,1650
+Sea-act Hooks,54.78,2020-08-12,1651
+Reef-actoring,41.5,2020-08-12,1652
+Building with Gradeel,77.5,2020-08-13,1653
+Reef-actoring,37.99,2020-08-14,1654
+Building with Gradeel,79.5,2020-08-15,1655
+Reef-actoring,40.0,2020-08-15,1656
+Reef-actoring,38.2,2020-08-15,1657
+The Crabmatic Programmer,58.99,2020-08-15,1658
+Cod-ing in Python,58.49,2020-08-16,1659
+Reef-actoring,40.0,2020-08-17,1660
+Reef-actoring,43.8,2020-08-18,1661
+Sea-act Hooks,50.99,2020-08-19,1662
+Reef-actoring,43.93,2020-08-19,1663
+Reef-actoring,37.5,2020-08-19,1664
+Fin-troduction to Sea++,49.99,2020-08-20,1665
+The Carp Of Computer Programming,67.65,2020-08-21,1666
+Building with Gradeel,81.5,2020-08-22,1667
+Reef-actoring,41.99,2020-08-22,1668
+Reef-actoring,42.0,2020-08-22,1669
+Reef-actoring,34.49,2020-08-22,1670
+Sea-act Hooks,49.5,2020-08-23,1671
+Cod-ing in Python,57.15,2020-08-23,1672
+Building with Gradeel,83.49,2020-08-23,1673
+Reef-actoring,36.8,2020-08-23,1674
+Reef-actoring,43.69,2020-08-24,1675
+Software Sharkitecture in Practice,47.99,2020-08-24,1676
+Building with Gradeel,80.0,2020-08-25,1677
+Reef-actoring,43.0,2020-08-26,1678
+The Crabmatic Programmer,61.5,2020-08-26,1679
+Building with Gradeel,80.3,2020-08-29,1680
+Sea-act Hooks,55.5,2020-08-30,1681
+Sea-act Hooks,51.59,2020-08-30,1682
+Cod-ing in Python,58.99,2020-08-31,1683
+The Crabmatic Programmer,61.49,2020-08-31,1684
+Fin-troduction to Sea++,48.99,2020-09-01,1685
+Building with Gradeel,76.99,2020-09-01,1686
+Cod-ing in Python,58.53,2020-09-02,1687
+Reef-actoring,37.49,2020-09-02,1688
+Fin-troduction to Sea++,50.99,2020-09-03,1689
+Fin-troduction to Sea++,50.49,2020-09-03,1690
+No Silver Mullet,57.0,2020-09-03,1691
+Fin-troduction to Sea++,47.5,2020-09-04,1692
+Reef-actoring,36.5,2020-09-04,1693
+Fin-troduction to Sea++,47.5,2020-09-05,1694
+Cod-ing in Python,64.0,2020-09-05,1695
+Cod-ing in Python,58.99,2020-09-05,1696
+Reef-actoring,39.49,2020-09-05,1697
+The Crabmatic Programmer,56.99,2020-09-05,1698
+Sea-act Hooks,55.5,2020-09-06,1699
+Building with Gradeel,78.49,2020-09-06,1700
+Reef-actoring,39.6,2020-09-06,1701
+Reef-actoring,37.5,2020-09-06,1702
+Fin-troduction to Sea++,53.49,2020-09-08,1703
+Reef-actoring,39.99,2020-09-08,1704
+Reef-actoring,36.0,2020-09-09,1705
+Software Sharkitecture in Practice,50.5,2020-09-09,1706
+Software Sharkitecture in Practice,50.0,2020-09-10,1707
+No Silver Mullet,59.49,2020-09-12,1708
+Advanced Ruby on Whales,50.5,2020-09-14,1709
+Reef-actoring,37.5,2020-09-14,1710
+Container Orca-stration,68.0,2020-09-14,1711
+Software Sharkitecture in Practice,48.49,2020-09-15,1712
+Fin-troduction to Sea++,48.99,2020-09-16,1713
+The Carp Of Computer Programming,67.0,2020-09-16,1714
+Reef-actoring,38.0,2020-09-17,1715
+Reef-actoring,41.99,2020-09-17,1716
+Container Orca-stration,71.0,2020-09-17,1717
+Advanced Ruby on Whales,45.0,2020-09-18,1718
+Reef-actoring,41.5,2020-09-18,1719
+Reef-actoring,35.0,2020-09-19,1720
+Reef-actoring,40.5,2020-09-19,1721
+Container Orca-stration,73.5,2020-09-19,1722
+Reef-actoring,40.99,2020-09-20,1723
+Reef-actoring,41.5,2020-09-20,1724
+Software Sharkitecture in Practice,47.14,2020-09-20,1725
+Sea-act Hooks,56.75,2020-09-22,1726
+Cod-ing in Python,60.5,2020-09-22,1727
+Container Orca-stration,69.5,2020-09-22,1728
+Fin-troduction to Sea++,48.99,2020-09-23,1729
+No Silver Mullet,58.98,2020-09-23,1730
+Cod-ing in Python,58.5,2020-09-24,1731
+Reef-actoring,40.5,2020-09-24,1732
+Container Orca-stration,68.69,2020-09-24,1733
+Cod-ing in Python,59.49,2020-09-26,1734
+Container Orca-stration,64.99,2020-09-26,1735
+Sea-act Hooks,54.49,2020-09-27,1736
+Cod-ing in Python,61.0,2020-09-27,1737
+Container Orca-stration,69.5,2020-09-27,1738
+No Silver Mullet,61.49,2020-09-27,1739
+The Carp Of Computer Programming,70.99,2020-09-28,1740
+Reef-actoring,40.9,2020-09-28,1741
+Sea-act Hooks,56.5,2020-09-29,1742
+Cod-ing in Python,61.0,2020-09-29,1743
+Container Orca-stration,71.0,2020-09-30,1744
+Container Orca-stration,68.0,2020-09-30,1745
+Reef-actoring,39.5,2020-10-01,1746
+Reef-actoring,39.5,2020-10-03,1747
+Container Orca-stration,72.99,2020-10-03,1748
+Software Sharkitecture in Practice,47.5,2020-10-03,1749
+Software Sharkitecture in Practice,48.5,2020-10-03,1750
+Building with Gradeel,81.49,2020-10-05,1751
+Building with Gradeel,79.51,2020-10-06,1752
+Reef-actoring,39.5,2020-10-06,1753
+Reef-actoring,37.99,2020-10-06,1754
+Reef-actoring,36.0,2020-10-07,1755
+Reef-actoring,36.5,2020-10-07,1756
+Fin-troduction to Sea++,50.5,2020-10-08,1757
+Cod-ing in Python,54.49,2020-10-08,1758
+Reef-actoring,40.5,2020-10-08,1759
+Reef-actoring,40.0,2020-10-08,1760
+The Crabmatic Programmer,60.49,2020-10-08,1761
+The Carp Of Computer Programming,68.99,2020-10-09,1762
+Reef-actoring,39.49,2020-10-09,1763
+Software Sharkitecture in Practice,42.0,2020-10-09,1764
+Sea-act Hooks,53.99,2020-10-10,1765
+Reef-actoring,39.99,2020-10-10,1766
+The Crabmatic Programmer,60.49,2020-10-10,1767
+Fin-troduction to Sea++,45.39,2020-10-11,1768
+Reef-actoring,39.0,2020-10-11,1769
+Container Orca-stration,68.74,2020-10-11,1770
+Reef-actoring,39.0,2020-10-12,1771
+No Silver Mullet,62.99,2020-10-12,1772
+Clean Cod,32.77,2020-10-13,1773
+Reef-actoring,36.5,2020-10-13,1774
+Container Orca-stration,71.49,2020-10-13,1775
+No Silver Mullet,62.23,2020-10-13,1776
+Container Orca-stration,73.74,2020-10-15,1777
+Advanced Ruby on Whales,48.15,2020-10-16,1778
+Fin-troduction to Sea++,47.99,2020-10-17,1779
+Clean Cod,31.0,2020-10-17,1780
+The Carp Of Computer Programming,71.49,2020-10-17,1781
+Software Sharkitecture in Practice,49.08,2020-10-17,1782
+Fin-troduction to Sea++,48.03,2020-10-18,1783
+Sea-act Hooks,58.0,2020-10-19,1784
+An Ag-isle Primer,17.5,2020-10-20,1785
+Fin-troduction to Sea++,49.5,2020-10-21,1786
+Cod-ing in Python,59.98,2020-10-21,1787
+Reef-actoring,36.49,2020-10-22,1788
+Sea-act Hooks,53.0,2020-10-23,1789
+Container Orca-stration,70.5,2020-10-23,1790
+Advanced Ruby on Whales,48.5,2020-10-24,1791
+Cod-ing in Python,59.99,2020-10-24,1792
+Reef-actoring,37.49,2020-10-24,1793
+Fin-troduction to Sea++,45.99,2020-10-25,1794
+Fin-troduction to Sea++,49.49,2020-10-25,1795
+Clean Cod,29.0,2020-10-25,1796
+Sea-act Hooks,51.49,2020-10-25,1797
+Building with Gradeel,83.99,2020-10-25,1798
+Fin-troduction to Sea++,53.49,2020-10-26,1799
+Sea-act Hooks,56.94,2020-10-26,1800
+Building with Gradeel,81.65,2020-10-27,1801
+Container Orca-stration,73.5,2020-10-28,1802
+Advanced Ruby on Whales,48.0,2020-10-29,1803
+Clean Cod,31.49,2020-10-29,1804
+Clean Cod,35.5,2020-10-30,1805
+Reef-actoring,38.99,2020-10-30,1806
+Container Orca-stration,66.01,2020-10-30,1807
+Building with Gradeel,80.5,2020-10-31,1808
+Reef-actoring,40.0,2020-10-31,1809
+Reef-actoring,38.5,2020-10-31,1810
+Software Sharkitecture in Practice,50.51,2020-10-31,1811
+Fin-troduction to Sea++,54.06,2020-11-01,1812
+Advanced Ruby on Whales,51.89,2020-11-01,1813
+Reef-actoring,38.0,2020-11-01,1814
+No Silver Mullet,60.5,2020-11-01,1815
+Reef-actoring,38.19,2020-11-02,1816
+Sea-act Hooks,56.0,2020-11-03,1817
+Reef-actoring,40.49,2020-11-03,1818
+Clean Cod,35.0,2020-11-05,1819
+Sea-act Hooks,54.49,2020-11-05,1820
+Clean Cod,30.5,2020-11-06,1821
+Reef-actoring,38.15,2020-11-06,1822
+Fin-troduction to Sea++,51.5,2020-11-07,1823
+Reef-actoring,38.5,2020-11-07,1824
+Reef-actoring,40.99,2020-11-07,1825
+Clean Cod,34.49,2020-11-08,1826
+Clean Cod,34.5,2020-11-08,1827
+Building with Gradeel,81.5,2020-11-08,1828
+Reef-actoring,38.49,2020-11-08,1829
+Container Orca-stration,68.0,2020-11-08,1830
+Building with Gradeel,78.99,2020-11-09,1831
+Fin-troduction to Sea++,47.99,2020-11-10,1832
+Building with Gradeel,79.49,2020-11-10,1833
+Building with Gradeel,79.35,2020-11-10,1834
+Reef-actoring,40.49,2020-11-10,1835
+Reef-actoring,38.35,2020-11-10,1836
+Cod-ing in Python,61.5,2020-11-12,1837
+Reef-actoring,37.99,2020-11-12,1838
+The Crabmatic Programmer,58.99,2020-11-12,1839
+Sea-act Hooks,55.99,2020-11-13,1840
+Advanced Ruby on Whales,47.7,2020-11-14,1841
+Sea-act Hooks,55.49,2020-11-14,1842
+Cod-ing in Python,61.49,2020-11-14,1843
+Building with Gradeel,81.49,2020-11-14,1844
+Container Orca-stration,71.0,2020-11-14,1845
+Fin-troduction to Sea++,48.61,2020-11-15,1846
+Clean Cod,38.0,2020-11-15,1847
+Reef-actoring,39.5,2020-11-15,1848
+Container Orca-stration,74.5,2020-11-15,1849
+Building with Gradeel,83.5,2020-11-16,1850
+Reef-actoring,36.0,2020-11-16,1851
+Reef-actoring,37.7,2020-11-16,1852
+No Silver Mullet,60.49,2020-11-16,1853
+Reef-actoring,37.99,2020-11-17,1854
+Fin-troduction to Sea++,47.49,2020-11-18,1855
+Sea-act Hooks,52.99,2020-11-18,1856
+The Carp Of Computer Programming,69.5,2020-11-18,1857
+Cod-ing in Python,61.71,2020-11-19,1858
+Container Orca-stration,72.5,2020-11-19,1859
+No Silver Mullet,58.5,2020-11-19,1860
+Sea-act Hooks,55.42,2020-11-21,1861
+Building with Gradeel,80.99,2020-11-21,1862
+Container Orca-stration,71.0,2020-11-21,1863
+Sea-act Hooks,57.99,2020-11-22,1864
+Container Orca-stration,73.0,2020-11-22,1865
+No Silver Mullet,57.84,2020-11-22,1866
+Reef-actoring,39.0,2020-11-23,1867
+Sea-act Hooks,58.0,2020-11-24,1868
+Sea-act Hooks,51.4,2020-11-24,1869
+Reef-actoring,36.49,2020-11-24,1870
+Container Orca-stration,71.99,2020-11-24,1871
+The Crabmatic Programmer,60.0,2020-11-24,1872
+Advanced Ruby on Whales,50.0,2020-11-25,1873
+Clean Cod,29.99,2020-11-26,1874
+Reef-actoring,38.5,2020-11-26,1875
+Container Orca-stration,71.0,2020-11-26,1876
+Software Sharkitecture in Practice,47.5,2020-11-26,1877
+The Crabmatic Programmer,61.49,2020-11-26,1878
+The Crabmatic Programmer,62.5,2020-11-26,1879
+Reef-actoring,37.49,2020-11-27,1880
+Advanced Ruby on Whales,43.49,2020-11-28,1881
+Cod-ing in Python,57.49,2020-11-28,1882
+Reef-actoring,43.0,2020-11-28,1883
+Reef-actoring,38.5,2020-11-28,1884
+Software Sharkitecture in Practice,46.49,2020-11-28,1885
+No Silver Mullet,59.28,2020-11-28,1886
+Reef-actoring,39.99,2020-11-29,1887
+Reef-actoring,36.99,2020-11-29,1888
+Cod-ing in Python,60.7,2020-11-30,1889
+Sea-act Hooks,56.36,2020-12-01,1890
+Building with Gradeel,78.5,2020-12-01,1891
+Container Orca-stration,71.0,2020-12-01,1892
+Fin-troduction to Sea++,47.49,2020-12-02,1893
+Fin-troduction to Sea++,49.49,2020-12-02,1894
+Building with Gradeel,86.5,2020-12-02,1895
+Reef-actoring,44.3,2020-12-02,1896
+Cod-ing in Python,59.29,2020-12-03,1897
+The Carp Of Computer Programming,68.41,2020-12-03,1898
+Reef-actoring,37.0,2020-12-03,1899
+Container Orca-stration,75.49,2020-12-03,1900
+Container Orca-stration,74.5,2020-12-03,1901
+Fin-troduction to Sea++,51.0,2020-12-04,1902
+Advanced Ruby on Whales,43.0,2020-12-04,1903
+Reef-actoring,36.99,2020-12-04,1904
+Container Orca-stration,73.0,2020-12-04,1905
+Fin-troduction to Sea++,48.09,2020-12-05,1906
+Clean Cod,29.99,2020-12-05,1907
+Cod-ing in Python,58.0,2020-12-05,1908
+Clean Cod,36.5,2020-12-06,1909
+The Crabmatic Programmer,60.0,2020-12-06,1910
+Reef-actoring,35.37,2020-12-07,1911
+Reef-actoring,38.99,2020-12-07,1912
+Advanced Ruby on Whales,52.0,2020-12-08,1913
+Advanced Ruby on Whales,46.99,2020-12-08,1914
+Container Orca-stration,72.99,2020-12-08,1915
+Reef-actoring,41.11,2020-12-09,1916
+Sea-act Hooks,51.99,2020-12-10,1917
+Container Orca-stration,69.0,2020-12-10,1918
+Container Orca-stration,72.0,2020-12-11,1919
+Container Orca-stration,73.32,2020-12-11,1920
+Fin-troduction to Sea++,49.49,2020-12-12,1921
+Fin-troduction to Sea++,50.99,2020-12-12,1922
+Fin-troduction to Sea++,48.5,2020-12-12,1923
+Reef-actoring,41.49,2020-12-12,1924
+Container Orca-stration,68.5,2020-12-12,1925
+Container Orca-stration,71.0,2020-12-12,1926
+Fin-troduction to Sea++,50.0,2020-12-13,1927
+Advanced Ruby on Whales,49.0,2020-12-13,1928
+Advanced Ruby on Whales,49.5,2020-12-13,1929
+The Carp Of Computer Programming,73.49,2020-12-13,1930
+Reef-actoring,35.0,2020-12-13,1931
+Reef-actoring,37.0,2020-12-13,1932
+Fin-troduction to Sea++,50.0,2020-12-14,1933
+Building with Gradeel,82.5,2020-12-14,1934
+Reef-actoring,38.18,2020-12-14,1935
+Container Orca-stration,72.5,2020-12-14,1936
+No Silver Mullet,61.05,2020-12-14,1937
+Software Sharkitecture in Practice,53.99,2020-12-15,1938
+Fin-troduction to Sea++,49.49,2020-12-16,1939
+Fin-troduction to Sea++,47.49,2020-12-17,1940
+The Carp Of Computer Programming,72.49,2020-12-17,1941
+Advanced Ruby on Whales,46.02,2020-12-18,1942
+Sea-act Hooks,51.0,2020-12-18,1943
+Clean Cod,31.49,2020-12-19,1944
+The Carp Of Computer Programming,62.49,2020-12-19,1945
+Container Orca-stration,71.0,2020-12-19,1946
+Clean Cod,32.0,2020-12-20,1947
+An Ag-isle Primer,19.49,2020-12-20,1948
+Reef-actoring,36.5,2020-12-20,1949
+Reef-actoring,41.5,2020-12-20,1950
+Reef-actoring,42.0,2020-12-20,1951
+Fin-troduction to Sea++,48.0,2020-12-21,1952
+Advanced Ruby on Whales,46.97,2020-12-21,1953
+An Ag-isle Primer,15.0,2020-12-21,1954
+Sea-act Hooks,56.5,2020-12-22,1955
+Building with Gradeel,79.5,2020-12-22,1956
+Reef-actoring,41.99,2020-12-22,1957
+Container Orca-stration,71.14,2020-12-22,1958
+Sea-act Hooks,54.49,2020-12-23,1959
+Container Orca-stration,73.0,2020-12-23,1960
+Container Orca-stration,71.0,2020-12-24,1961
+Container Orca-stration,73.0,2020-12-24,1962
+Building with Gradeel,83.99,2020-12-25,1963
+Software Sharkitecture in Practice,46.25,2020-12-25,1964
+Software Sharkitecture in Practice,49.49,2020-12-26,1965
+Cod-ing in Python,61.0,2020-12-27,1966
+Reef-actoring,39.49,2020-12-27,1967
+Reef-actoring,42.0,2020-12-27,1968
+The Crabmatic Programmer,61.99,2020-12-27,1969
+Advanced Ruby on Whales,45.5,2020-12-28,1970
+Sea-act Hooks,56.19,2020-12-28,1971
+Reef-actoring,38.49,2020-12-28,1972
+Sea-act Hooks,53.0,2020-12-29,1973
+Container Orca-stration,68.41,2020-12-29,1974
+Fin-troduction to Sea++,47.5,2020-12-30,1975
+Container Orca-stration,77.0,2020-12-30,1976
+Reef-actoring,38.5,2020-12-31,1977
+Reef-actoring,39.5,2020-12-31,1978
+An Ag-isle Primer,22.77,2021-01-01,1979
+Clean Cod,33.5,2021-01-03,1980
+Reef-actoring,38.0,2021-01-04,1981
+No Silver Mullet,57.49,2021-01-04,1982
+Clean Cod,34.0,2021-01-05,1983
+The Crabmatic Programmer,64.0,2021-01-07,1984
+Advanced Ruby on Whales,43.65,2021-01-09,1985
+Reef-actoring,41.62,2021-01-09,1986
+Sea-act Hooks,53.5,2021-01-10,1987
+Reef-actoring,39.0,2021-01-10,1988
+Reef-actoring,42.52,2021-01-10,1989
+Reef-actoring,41.22,2021-01-11,1990
+Sea-act Hooks,54.5,2021-01-12,1991
+The Carp Of Computer Programming,69.42,2021-01-12,1992
+Reef-actoring,40.99,2021-01-12,1993
+Sea-act Hooks,57.0,2021-01-14,1994
+Sea-act Hooks,52.93,2021-01-14,1995
+Cod-ing in Python,58.0,2021-01-15,1996
+Clean Cod,30.99,2021-01-17,1997
+Reef-actoring,39.0,2021-01-17,1998
+Reef-actoring,40.43,2021-01-18,1999
+Advanced Ruby on Whales,47.5,2021-01-19,2000
+Sea-act Hooks,55.5,2021-01-19,2001
+Cod-ing in Python,57.5,2021-01-19,2002
+Sea-act Hooks,56.5,2021-01-20,2003
+Reef-actoring,40.5,2021-01-20,2004
+Container Orca-stration,71.31,2021-01-20,2005
+Container Orca-stration,70.49,2021-01-20,2006
+Sea-act Hooks,51.99,2021-01-21,2007
+Fin-troduction to Sea++,53.26,2021-01-22,2008
+Reef-actoring,37.99,2021-01-23,2009
+Fin-troduction to Sea++,48.49,2021-01-24,2010
+Cod-ing in Python,58.74,2021-01-25,2011
+The Crabmatic Programmer,59.89,2021-01-25,2012
+No Silver Mullet,60.0,2021-01-25,2013
+Clean Cod,31.5,2021-01-26,2014
+Cod-ing in Python,59.0,2021-01-26,2015
+Reef-actoring,38.49,2021-01-26,2016
+Container Orca-stration,72.0,2021-01-26,2017
+Container Orca-stration,70.99,2021-01-26,2018
+Container Orca-stration,67.99,2021-01-27,2019
+The Carp Of Computer Programming,65.49,2021-01-28,2020
+Reef-actoring,38.52,2021-01-29,2021
+Container Orca-stration,75.99,2021-01-30,2022
+Container Orca-stration,71.49,2021-01-30,2023
+Container Orca-stration,66.5,2021-01-31,2024
+Container Orca-stration,73.0,2021-01-31,2025
+Software Sharkitecture in Practice,49.99,2021-01-31,2026
+No Silver Mullet,64.0,2021-02-01,2027
+Clean Cod,28.24,2021-02-02,2028
+Container Orca-stration,71.0,2021-02-02,2029
+Sea-act Hooks,54.5,2021-02-04,2030
+Building with Gradeel,84.49,2021-02-04,2031
+Advanced Ruby on Whales,50.99,2021-02-07,2032
+Reef-actoring,35.0,2021-02-07,2033
+Reef-actoring,42.0,2021-02-07,2034
+The Carp Of Computer Programming,64.99,2021-02-09,2035
+Reef-actoring,41.0,2021-02-09,2036
+Sea-act Hooks,54.5,2021-02-11,2037
+Building with Gradeel,83.5,2021-02-12,2038
+Reef-actoring,36.14,2021-02-12,2039
+Sea-act Hooks,50.49,2021-02-13,2040
+Sea-act Hooks,57.5,2021-02-13,2041
+Building with Gradeel,82.75,2021-02-14,2042
+Reef-actoring,36.5,2021-02-14,2043
+Reef-actoring,41.99,2021-02-15,2044
+Reef-actoring,38.38,2021-02-15,2045
+Sea-act Hooks,53.5,2021-02-16,2046
+Building with Gradeel,80.0,2021-02-16,2047
+Container Orca-stration,69.5,2021-02-16,2048
+Software Sharkitecture in Practice,47.99,2021-02-16,2049
+Advanced Ruby on Whales,46.0,2021-02-17,2050
+Fin-troduction to Sea++,51.5,2021-02-18,2051
+Fin-troduction to Sea++,44.78,2021-02-18,2052
+Sea-act Hooks,54.38,2021-02-18,2053
+Building with Gradeel,82.22,2021-02-18,2054
+The Carp Of Computer Programming,68.12,2021-02-20,2055
+Reef-actoring,34.99,2021-02-20,2056
+Container Orca-stration,70.0,2021-02-20,2057
+Fin-troduction to Sea++,50.99,2021-02-21,2058
+Reef-actoring,40.45,2021-02-21,2059
+Reef-actoring,41.5,2021-02-21,2060
+Building with Gradeel,78.85,2021-02-22,2061
+The Crabmatic Programmer,59.49,2021-02-22,2062
+Reef-actoring,38.5,2021-02-23,2063
+Container Orca-stration,68.0,2021-02-23,2064
+Container Orca-stration,73.5,2021-02-23,2065
+No Silver Mullet,60.5,2021-02-23,2066
+Fin-troduction to Sea++,52.57,2021-02-24,2067
+Clean Cod,33.11,2021-02-24,2068
+Reef-actoring,37.49,2021-02-24,2069
+Clean Cod,33.8,2021-02-27,2070
+Sea-act Hooks,60.0,2021-02-27,2071
+Building with Gradeel,83.5,2021-02-27,2072
+Cod-ing in Python,60.16,2021-02-28,2073
+Reef-actoring,36.5,2021-02-28,2074
+Fin-troduction to Sea++,50.5,2021-03-04,2075
+Container Orca-stration,69.99,2021-03-05,2076
+Reef-actoring,42.49,2021-03-06,2077
+Reef-actoring,40.5,2021-03-06,2078
+Sea-act Hooks,54.0,2021-03-07,2079
+Reef-actoring,40.0,2021-03-07,2080
+No Silver Mullet,60.83,2021-03-07,2081
+Reef-actoring,39.0,2021-03-08,2082
+Reef-actoring,35.99,2021-03-08,2083
+Fin-troduction to Sea++,45.5,2021-03-09,2084
+Sea-act Hooks,50.82,2021-03-10,2085
+Building with Gradeel,78.0,2021-03-10,2086
+Sea-act Hooks,52.0,2021-03-11,2087
+Reef-actoring,39.28,2021-03-11,2088
+The Crabmatic Programmer,61.49,2021-03-11,2089
+Building with Gradeel,79.5,2021-03-12,2090
+The Crabmatic Programmer,63.0,2021-03-12,2091
+Fin-troduction to Sea++,50.96,2021-03-13,2092
+Software Sharkitecture in Practice,50.49,2021-03-13,2093
+Clean Cod,34.0,2021-03-14,2094
+Cod-ing in Python,57.0,2021-03-14,2095
+Reef-actoring,39.0,2021-03-14,2096
+No Silver Mullet,59.0,2021-03-14,2097
+Reef-actoring,40.0,2021-03-16,2098
+Clean Cod,29.0,2021-03-17,2099
+Fin-troduction to Sea++,47.99,2021-03-18,2100
+Reef-actoring,39.0,2021-03-18,2101
+Reef-actoring,38.0,2021-03-18,2102
+Reef-actoring,40.0,2021-03-18,2103
+The Carp Of Computer Programming,70.32,2021-03-19,2104
+Reef-actoring,40.49,2021-03-19,2105
+Container Orca-stration,73.42,2021-03-20,2106
+Building with Gradeel,81.0,2021-03-21,2107
+The Crabmatic Programmer,61.51,2021-03-21,2108
+Reef-actoring,41.37,2021-03-22,2109
+Container Orca-stration,73.0,2021-03-22,2110
+Fin-troduction to Sea++,48.99,2021-03-23,2111
+Clean Cod,35.0,2021-03-23,2112
+Cod-ing in Python,58.42,2021-03-23,2113
+Reef-actoring,40.99,2021-03-23,2114
+The Crabmatic Programmer,62.49,2021-03-23,2115
+No Silver Mullet,62.49,2021-03-23,2116
+Clean Cod,35.49,2021-03-24,2117
+Cod-ing in Python,55.49,2021-03-24,2118
+Reef-actoring,41.5,2021-03-24,2119
+Fin-troduction to Sea++,48.0,2021-03-25,2120
+Reef-actoring,39.5,2021-03-25,2121
+Fin-troduction to Sea++,50.0,2021-03-27,2122
+Fin-troduction to Sea++,49.0,2021-03-27,2123
+Reef-actoring,42.0,2021-03-27,2124
+Container Orca-stration,71.0,2021-03-27,2125
+Reef-actoring,40.5,2021-03-28,2126
+Building with Gradeel,84.25,2021-03-29,2127
+Reef-actoring,43.0,2021-03-29,2128
+Reef-actoring,39.0,2021-03-29,2129
+The Crabmatic Programmer,59.99,2021-03-30,2130
+Fin-troduction to Sea++,52.0,2021-04-01,2131
+Reef-actoring,39.0,2021-04-01,2132
+Clean Cod,32.99,2021-04-02,2133
+Reef-actoring,36.49,2021-04-03,2134
+Software Sharkitecture in Practice,53.99,2021-04-03,2135
+Fin-troduction to Sea++,49.49,2021-04-04,2136
+Advanced Ruby on Whales,46.11,2021-04-04,2137
+Sea-act Hooks,51.99,2021-04-04,2138
+Reef-actoring,40.5,2021-04-04,2139
+Container Orca-stration,71.43,2021-04-05,2140
+Fin-troduction to Sea++,51.99,2021-04-06,2141
+Advanced Ruby on Whales,45.99,2021-04-06,2142
+Sea-act Hooks,53.14,2021-04-06,2143
+Sea-act Hooks,54.99,2021-04-07,2144
+Building with Gradeel,82.0,2021-04-07,2145
+Sea-act Hooks,57.75,2021-04-08,2146
+Reef-actoring,38.0,2021-04-08,2147
+Software Sharkitecture in Practice,54.5,2021-04-08,2148
+Clean Cod,29.63,2021-04-10,2149
+Cod-ing in Python,62.49,2021-04-10,2150
+Building with Gradeel,79.49,2021-04-10,2151
+Sea-act Hooks,53.0,2021-04-11,2152
+Sea-act Hooks,55.49,2021-04-11,2153
+Container Orca-stration,74.5,2021-04-12,2154
+Sea-act Hooks,51.99,2021-04-13,2155
+Building with Gradeel,81.49,2021-04-13,2156
+Reef-actoring,40.49,2021-04-13,2157
+Sea-act Hooks,53.49,2021-04-15,2158
+The Carp Of Computer Programming,66.0,2021-04-17,2159
+Fin-troduction to Sea++,50.99,2021-04-18,2160
+Advanced Ruby on Whales,45.49,2021-04-18,2161
+Sea-act Hooks,54.99,2021-04-19,2162
+Building with Gradeel,80.49,2021-04-19,2163
+Reef-actoring,32.5,2021-04-19,2164
+Sea-act Hooks,53.5,2021-04-20,2165
+Sea-act Hooks,56.49,2021-04-20,2166
+Building with Gradeel,80.0,2021-04-20,2167
+Software Sharkitecture in Practice,48.5,2021-04-20,2168
+Fin-troduction to Sea++,49.0,2021-04-21,2169
+Building with Gradeel,84.0,2021-04-22,2170
+Sea-act Hooks,54.49,2021-04-24,2171
+Reef-actoring,40.5,2021-04-25,2172
+Fin-troduction to Sea++,47.0,2021-04-26,2173
+Reef-actoring,39.0,2021-04-26,2174
+Container Orca-stration,68.71,2021-04-26,2175
+Container Orca-stration,67.5,2021-04-26,2176
+No Silver Mullet,58.54,2021-04-26,2177
+Clean Cod,32.99,2021-04-27,2178
+The Carp Of Computer Programming,71.5,2021-04-27,2179
+Advanced Ruby on Whales,49.5,2021-04-28,2180
+Reef-actoring,36.0,2021-04-29,2181
+Reef-actoring,42.0,2021-04-29,2182
+Reef-actoring,39.99,2021-04-30,2183
+Reef-actoring,41.24,2021-04-30,2184
+Sea-act Hooks,56.5,2021-05-01,2185
+Reef-actoring,35.0,2021-05-01,2186
+Reef-actoring,39.99,2021-05-01,2187
+Software Sharkitecture in Practice,50.99,2021-05-01,2188
+Sea-act Hooks,56.49,2021-05-02,2189
+Reef-actoring,38.99,2021-05-02,2190
+Fin-troduction to Sea++,47.99,2021-05-03,2191
+Reef-actoring,43.67,2021-05-03,2192
+Reef-actoring,41.5,2021-05-03,2193
+An Ag-isle Primer,17.24,2021-05-04,2194
+Building with Gradeel,84.25,2021-05-04,2195
+Fin-troduction to Sea++,45.0,2021-05-05,2196
+Sea-act Hooks,50.99,2021-05-07,2197
+Container Orca-stration,73.0,2021-05-07,2198
+Clean Cod,31.46,2021-05-08,2199
+The Carp Of Computer Programming,68.33,2021-05-08,2200
+Sea-act Hooks,54.0,2021-05-09,2201
+No Silver Mullet,59.5,2021-05-09,2202
+Clean Cod,35.0,2021-05-10,2203
+Clean Cod,30.0,2021-05-10,2204
+Sea-act Hooks,54.5,2021-05-10,2205
+Sea-act Hooks,57.49,2021-05-11,2206
+Fin-troduction to Sea++,52.0,2021-05-13,2207
+Container Orca-stration,73.49,2021-05-13,2208
+No Silver Mullet,62.49,2021-05-13,2209
+Clean Cod,33.91,2021-05-15,2210
+An Ag-isle Primer,17.99,2021-05-15,2211
+Building with Gradeel,80.99,2021-05-16,2212
+Software Sharkitecture in Practice,51.0,2021-05-16,2213
+Software Sharkitecture in Practice,56.49,2021-05-16,2214
+Cod-ing in Python,63.0,2021-05-17,2215
+Reef-actoring,40.49,2021-05-17,2216
+Fin-troduction to Sea++,51.5,2021-05-18,2217
+Fin-troduction to Sea++,50.99,2021-05-18,2218
+Sea-act Hooks,49.99,2021-05-18,2219
+Sea-act Hooks,50.0,2021-05-18,2220
+Building with Gradeel,80.99,2021-05-18,2221
+Container Orca-stration,72.0,2021-05-18,2222
+Clean Cod,33.5,2021-05-19,2223
+Reef-actoring,38.99,2021-05-19,2224
+Building with Gradeel,82.49,2021-05-20,2225
+Sea-act Hooks,55.0,2021-05-21,2226
+Sea-act Hooks,50.62,2021-05-21,2227
+Cod-ing in Python,56.99,2021-05-21,2228
+Building with Gradeel,81.49,2021-05-21,2229
+Container Orca-stration,67.5,2021-05-22,2230
+Advanced Ruby on Whales,50.99,2021-05-23,2231
+Clean Cod,32.99,2021-05-23,2232
+Cod-ing in Python,60.42,2021-05-23,2233
+Reef-actoring,40.6,2021-05-23,2234
+Container Orca-stration,71.5,2021-05-23,2235
+Software Sharkitecture in Practice,46.0,2021-05-23,2236
+Reef-actoring,38.0,2021-05-24,2237
+Reef-actoring,39.0,2021-05-24,2238
+Reef-actoring,42.0,2021-05-25,2239
+Container Orca-stration,66.99,2021-05-25,2240
+Cod-ing in Python,58.5,2021-05-27,2241
+No Silver Mullet,66.0,2021-05-27,2242
+Advanced Ruby on Whales,43.49,2021-05-29,2243
+Software Sharkitecture in Practice,50.99,2021-05-29,2244
+The Carp Of Computer Programming,68.99,2021-05-30,2245
+The Carp Of Computer Programming,67.5,2021-05-30,2246
+Fin-troduction to Sea++,51.5,2021-05-31,2247
+Sea-act Hooks,54.99,2021-05-31,2248
+Advanced Ruby on Whales,46.49,2021-06-01,2249
+Sea-act Hooks,54.5,2021-06-01,2250
+Reef-actoring,39.99,2021-06-01,2251
+Reef-actoring,40.0,2021-06-02,2252
+Cod-ing in Python,59.34,2021-06-03,2253
+Reef-actoring,40.49,2021-06-03,2254
+Reef-actoring,41.49,2021-06-03,2255
+Reef-actoring,38.99,2021-06-03,2256
+Container Orca-stration,67.0,2021-06-03,2257
+Reef-actoring,42.0,2021-06-05,2258
+Software Sharkitecture in Practice,47.5,2021-06-05,2259
+Software Sharkitecture in Practice,48.5,2021-06-07,2260
+Cod-ing in Python,67.5,2021-06-08,2261
+Reef-actoring,44.99,2021-06-08,2262
+No Silver Mullet,58.49,2021-06-09,2263
+Fin-troduction to Sea++,47.97,2021-06-10,2264
+Advanced Ruby on Whales,47.99,2021-06-10,2265
+Reef-actoring,40.99,2021-06-10,2266
+Advanced Ruby on Whales,43.0,2021-06-11,2267
+Cod-ing in Python,59.99,2021-06-12,2268
+Reef-actoring,36.5,2021-06-12,2269
+Reef-actoring,39.49,2021-06-12,2270
+Fin-troduction to Sea++,50.99,2021-06-13,2271
+Container Orca-stration,70.49,2021-06-13,2272
+Sea-act Hooks,57.49,2021-06-14,2273
+Sea-act Hooks,57.25,2021-06-14,2274
+Cod-ing in Python,61.06,2021-06-14,2275
+Sea-act Hooks,56.0,2021-06-15,2276
+Building with Gradeel,82.17,2021-06-16,2277
+Container Orca-stration,66.99,2021-06-16,2278
+Reef-actoring,40.0,2021-06-17,2279
+No Silver Mullet,59.0,2021-06-17,2280
+Reef-actoring,35.99,2021-06-19,2281
+Reef-actoring,37.08,2021-06-20,2282
+Reef-actoring,40.0,2021-06-20,2283
+Reef-actoring,40.49,2021-06-20,2284
+Sea-act Hooks,57.5,2021-06-22,2285
+Building with Gradeel,77.5,2021-06-22,2286
+Software Sharkitecture in Practice,50.49,2021-06-22,2287
+Reef-actoring,39.5,2021-06-24,2288
+Container Orca-stration,69.49,2021-06-24,2289
+Container Orca-stration,71.0,2021-06-24,2290
+Cod-ing in Python,63.49,2021-06-25,2291
+Sea-act Hooks,57.5,2021-06-26,2292
+Reef-actoring,41.0,2021-06-26,2293
+No Silver Mullet,61.0,2021-06-26,2294
+Fin-troduction to Sea++,46.5,2021-06-27,2295
+Fin-troduction to Sea++,49.49,2021-06-27,2296
+Building with Gradeel,77.99,2021-06-28,2297
+The Crabmatic Programmer,57.16,2021-06-28,2298
+Fin-troduction to Sea++,49.5,2021-06-29,2299
+Container Orca-stration,68.99,2021-06-30,2300
+Cod-ing in Python,59.0,2021-07-01,2301
+Container Orca-stration,69.99,2021-07-01,2302
+Container Orca-stration,67.39,2021-07-02,2303
+Building with Gradeel,78.49,2021-07-03,2304
+Clean Cod,30.5,2021-07-04,2305
+No Silver Mullet,55.5,2021-07-04,2306
+Building with Gradeel,77.99,2021-07-05,2307
+Container Orca-stration,69.99,2021-07-05,2308
+Sea-act Hooks,53.5,2021-07-06,2309
+Sea-act Hooks,58.99,2021-07-09,2310
+Fin-troduction to Sea++,49.0,2021-07-10,2311
+Clean Cod,30.5,2021-07-10,2312
+Sea-act Hooks,53.5,2021-07-10,2313
+Reef-actoring,40.0,2021-07-10,2314
+The Carp Of Computer Programming,68.0,2021-07-11,2315
+Container Orca-stration,72.99,2021-07-11,2316
+Software Sharkitecture in Practice,45.5,2021-07-11,2317
+Building with Gradeel,84.0,2021-07-13,2318
+Reef-actoring,40.0,2021-07-13,2319
+Reef-actoring,38.49,2021-07-13,2320
+Reef-actoring,35.49,2021-07-13,2321
+Reef-actoring,41.5,2021-07-13,2322
+Sea-act Hooks,53.99,2021-07-15,2323
+Building with Gradeel,82.49,2021-07-15,2324
+Container Orca-stration,70.99,2021-07-15,2325
+Building with Gradeel,79.0,2021-07-17,2326
+Fin-troduction to Sea++,49.49,2021-07-18,2327
+Clean Cod,34.99,2021-07-18,2328
+Building with Gradeel,83.0,2021-07-18,2329
+Building with Gradeel,83.5,2021-07-18,2330
+Building with Gradeel,83.99,2021-07-19,2331
+Reef-actoring,42.0,2021-07-19,2332
+Fin-troduction to Sea++,48.13,2021-07-20,2333
+Advanced Ruby on Whales,48.49,2021-07-20,2334
+Clean Cod,24.5,2021-07-20,2335
+Reef-actoring,44.72,2021-07-20,2336
+Container Orca-stration,67.99,2021-07-20,2337
+Fin-troduction to Sea++,49.0,2021-07-21,2338
+Sea-act Hooks,52.61,2021-07-21,2339
+Sea-act Hooks,57.5,2021-07-21,2340
+Building with Gradeel,86.49,2021-07-21,2341
+Clean Cod,36.5,2021-07-23,2342
+Clean Cod,31.67,2021-07-24,2343
+Sea-act Hooks,55.5,2021-07-24,2344
+Building with Gradeel,78.5,2021-07-24,2345
+Reef-actoring,36.5,2021-07-24,2346
+Building with Gradeel,78.0,2021-07-25,2347
+Sea-act Hooks,53.99,2021-07-26,2348
+Building with Gradeel,78.99,2021-07-26,2349
+The Carp Of Computer Programming,65.0,2021-07-26,2350
+Container Orca-stration,68.5,2021-07-27,2351
+Container Orca-stration,69.27,2021-07-30,2352
+Reef-actoring,39.49,2021-07-31,2353
+Reef-actoring,42.0,2021-08-01,2354
+Building with Gradeel,80.0,2021-08-02,2355
+Reef-actoring,40.5,2021-08-02,2356
+Reef-actoring,43.99,2021-08-02,2357
+The Crabmatic Programmer,57.99,2021-08-02,2358
+Reef-actoring,38.49,2021-08-04,2359
+Cod-ing in Python,59.86,2021-08-05,2360
+No Silver Mullet,62.49,2021-08-05,2361
+Sea-act Hooks,54.74,2021-08-07,2362
+The Crabmatic Programmer,58.0,2021-08-07,2363
+Sea-act Hooks,56.42,2021-08-08,2364
+Reef-actoring,35.49,2021-08-08,2365
+Container Orca-stration,70.0,2021-08-08,2366
+Building with Gradeel,79.49,2021-08-09,2367
+Sea-act Hooks,56.98,2021-08-10,2368
+Reef-actoring,41.49,2021-08-10,2369
+Advanced Ruby on Whales,48.49,2021-08-12,2370
+Clean Cod,31.49,2021-08-12,2371
+Sea-act Hooks,54.5,2021-08-14,2372
+Reef-actoring,41.49,2021-08-14,2373
+Container Orca-stration,68.0,2021-08-14,2374
+Sea-act Hooks,56.49,2021-08-15,2375
+Fin-troduction to Sea++,45.99,2021-08-16,2376
+Advanced Ruby on Whales,48.74,2021-08-16,2377
+Sea-act Hooks,57.04,2021-08-16,2378
+Sea-act Hooks,51.5,2021-08-17,2379
+Advanced Ruby on Whales,49.5,2021-08-18,2380
+An Ag-isle Primer,18.49,2021-08-18,2381
+No Silver Mullet,57.99,2021-08-18,2382
+Building with Gradeel,83.49,2021-08-19,2383
+Reef-actoring,37.5,2021-08-19,2384
+Fin-troduction to Sea++,51.0,2021-08-21,2385
+The Crabmatic Programmer,60.04,2021-08-22,2386
+An Ag-isle Primer,22.99,2021-08-23,2387
+Reef-actoring,39.0,2021-08-23,2388
+Building with Gradeel,82.99,2021-08-26,2389
+Sea-act Hooks,57.02,2021-08-27,2390
+Sea-act Hooks,54.23,2021-08-28,2391
+Advanced Ruby on Whales,50.0,2021-08-29,2392
+Sea-act Hooks,57.0,2021-08-29,2393
+The Carp Of Computer Programming,69.99,2021-08-29,2394
+Container Orca-stration,72.49,2021-08-29,2395
+Fin-troduction to Sea++,48.5,2021-08-30,2396
+Reef-actoring,38.0,2021-08-30,2397
+Cod-ing in Python,57.49,2021-08-31,2398
+Reef-actoring,38.5,2021-08-31,2399
+Building with Gradeel,81.41,2021-09-01,2400
+Fin-troduction to Sea++,43.0,2021-09-03,2401
+Reef-actoring,40.49,2021-09-03,2402
+Fin-troduction to Sea++,48.69,2021-09-04,2403
+Reef-actoring,40.5,2021-09-04,2404
+Reef-actoring,34.99,2021-09-05,2405
+Reef-actoring,38.02,2021-09-05,2406
+Clean Cod,39.0,2021-09-06,2407
+Reef-actoring,37.0,2021-09-06,2408
+The Crabmatic Programmer,56.0,2021-09-07,2409
+Reef-actoring,40.98,2021-09-08,2410
+Building with Gradeel,78.5,2021-09-10,2411
+Fin-troduction to Sea++,49.49,2021-09-11,2412
+Fin-troduction to Sea++,52.99,2021-09-11,2413
+Cod-ing in Python,64.49,2021-09-11,2414
+Advanced Ruby on Whales,44.81,2021-09-12,2415
+Building with Gradeel,81.0,2021-09-12,2416
+Fin-troduction to Sea++,51.99,2021-09-15,2417
+Building with Gradeel,80.49,2021-09-17,2418
+Fin-troduction to Sea++,46.0,2021-09-18,2419
+Container Orca-stration,71.0,2021-09-18,2420
+The Crabmatic Programmer,63.99,2021-09-18,2421
+Building with Gradeel,84.5,2021-09-19,2422
+Sea-act Hooks,53.0,2021-09-20,2423
+Building with Gradeel,80.99,2021-09-21,2424
+Sea-act Hooks,52.75,2021-09-22,2425
+Reef-actoring,41.99,2021-09-22,2426
+Advanced Ruby on Whales,46.99,2021-09-23,2427
+Reef-actoring,40.0,2021-09-23,2428
+The Crabmatic Programmer,57.0,2021-09-23,2429
+No Silver Mullet,62.49,2021-09-23,2430
+Building with Gradeel,82.81,2021-09-25,2431
+The Crabmatic Programmer,59.0,2021-09-25,2432
+The Crabmatic Programmer,63.5,2021-09-25,2433
+Clean Cod,37.49,2021-09-26,2434
+Sea-act Hooks,55.99,2021-09-26,2435
+Reef-actoring,35.99,2021-09-26,2436
+Container Orca-stration,68.5,2021-09-26,2437
+Reef-actoring,42.0,2021-09-27,2438
+Sea-act Hooks,58.5,2021-09-29,2439
+Cod-ing in Python,62.99,2021-09-30,2440
+Sea-act Hooks,59.5,2021-10-01,2441
+Fin-troduction to Sea++,50.99,2021-10-02,2442
+Sea-act Hooks,52.49,2021-10-02,2443
+Building with Gradeel,81.5,2021-10-02,2444
+Reef-actoring,35.0,2021-10-02,2445
+Reef-actoring,37.0,2021-10-03,2446
+Sea-act Hooks,59.23,2021-10-05,2447
+Reef-actoring,41.99,2021-10-05,2448
+Cod-ing in Python,53.5,2021-10-06,2449
+Cod-ing in Python,60.5,2021-10-08,2450
+Clean Cod,31.49,2021-10-09,2451
+Sea-act Hooks,57.0,2021-10-09,2452
+Reef-actoring,38.49,2021-10-10,2453
+Sea-act Hooks,54.63,2021-10-11,2454
+Building with Gradeel,77.5,2021-10-11,2455
+Fin-troduction to Sea++,49.5,2021-10-12,2456
+Clean Cod,29.49,2021-10-12,2457
+Cod-ing in Python,58.93,2021-10-12,2458
+Cod-ing in Python,63.0,2021-10-12,2459
+An Ag-isle Primer,22.5,2021-10-12,2460
+Building with Gradeel,80.0,2021-10-12,2461
+Reef-actoring,42.99,2021-10-12,2462
+Reef-actoring,41.5,2021-10-13,2463
+Reef-actoring,38.99,2021-10-13,2464
+Building with Gradeel,81.49,2021-10-14,2465
+Container Orca-stration,70.49,2021-10-14,2466
+Container Orca-stration,72.15,2021-10-14,2467
+Fin-troduction to Sea++,51.5,2021-10-15,2468
+The Carp Of Computer Programming,68.5,2021-10-15,2469
+Reef-actoring,37.0,2021-10-15,2470
+The Carp Of Computer Programming,69.5,2021-10-16,2471
+Reef-actoring,40.0,2021-10-19,2472
+Fin-troduction to Sea++,52.0,2021-10-22,2473
+Reef-actoring,39.5,2021-10-22,2474
+Reef-actoring,42.79,2021-10-23,2475
+Reef-actoring,37.49,2021-10-23,2476
+Fin-troduction to Sea++,49.49,2021-10-24,2477
+Clean Cod,30.99,2021-10-24,2478
+Reef-actoring,37.78,2021-10-25,2479
+The Crabmatic Programmer,59.5,2021-10-25,2480
+Reef-actoring,40.99,2021-10-26,2481
+Reef-actoring,39.99,2021-10-27,2482
+Reef-actoring,40.0,2021-10-27,2483
+Reef-actoring,43.0,2021-10-27,2484
+Reef-actoring,37.5,2021-10-28,2485
+Reef-actoring,41.5,2021-10-28,2486
+No Silver Mullet,58.6,2021-10-28,2487
+An Ag-isle Primer,18.5,2021-10-31,2488
+Reef-actoring,39.96,2021-11-01,2489
+Reef-actoring,40.3,2021-11-02,2490
+Fin-troduction to Sea++,46.99,2021-11-03,2491
+Clean Cod,27.5,2021-11-03,2492
+Fin-troduction to Sea++,51.0,2021-11-04,2493
+Sea-act Hooks,57.5,2021-11-04,2494
+Sea-act Hooks,57.0,2021-11-04,2495
+The Carp Of Computer Programming,71.24,2021-11-04,2496
+Container Orca-stration,70.0,2021-11-04,2497
+No Silver Mullet,63.6,2021-11-04,2498
+Sea-act Hooks,62.0,2021-11-05,2499
+Sea-act Hooks,55.49,2021-11-06,2500
+Reef-actoring,37.99,2021-11-06,2501
+Container Orca-stration,71.5,2021-11-06,2502
+Fin-troduction to Sea++,49.5,2021-11-07,2503
+Fin-troduction to Sea++,48.62,2021-11-07,2504
+An Ag-isle Primer,19.0,2021-11-07,2505
+The Carp Of Computer Programming,66.99,2021-11-07,2506
+Software Sharkitecture in Practice,50.83,2021-11-07,2507
+The Crabmatic Programmer,60.5,2021-11-07,2508
+Clean Cod,39.5,2021-11-08,2509
+Reef-actoring,38.0,2021-11-08,2510
+Reef-actoring,39.49,2021-11-09,2511
+Container Orca-stration,72.0,2021-11-09,2512
+Building with Gradeel,82.0,2021-11-10,2513
+Sea-act Hooks,57.5,2021-11-11,2514
+Reef-actoring,41.16,2021-11-11,2515
+Cod-ing in Python,61.49,2021-11-12,2516
+Container Orca-stration,70.0,2021-11-12,2517
+Clean Cod,32.99,2021-11-13,2518
+Reef-actoring,42.49,2021-11-13,2519
+Sea-act Hooks,51.49,2021-11-14,2520
+Building with Gradeel,79.0,2021-11-14,2521
+Advanced Ruby on Whales,48.0,2021-11-15,2522
+Advanced Ruby on Whales,47.0,2021-11-16,2523
+Reef-actoring,39.49,2021-11-16,2524
+Sea-act Hooks,51.5,2021-11-17,2525
+Software Sharkitecture in Practice,48.5,2021-11-17,2526
+Fin-troduction to Sea++,53.64,2021-11-18,2527
+Container Orca-stration,71.5,2021-11-18,2528
+No Silver Mullet,62.81,2021-11-18,2529
+Reef-actoring,38.5,2021-11-19,2530
+Sea-act Hooks,52.0,2021-11-20,2531
+Building with Gradeel,80.5,2021-11-20,2532
+Reef-actoring,41.0,2021-11-20,2533
+Reef-actoring,38.5,2021-11-20,2534
+The Crabmatic Programmer,57.5,2021-11-20,2535
+The Carp Of Computer Programming,71.46,2021-11-21,2536
+Reef-actoring,40.99,2021-11-21,2537
+Reef-actoring,38.5,2021-11-21,2538
+Reef-actoring,40.5,2021-11-21,2539
+Software Sharkitecture in Practice,50.49,2021-11-21,2540
+The Crabmatic Programmer,63.0,2021-11-23,2541
+Reef-actoring,38.5,2021-11-24,2542
+Reef-actoring,41.0,2021-11-24,2543
+Building with Gradeel,81.99,2021-11-25,2544
+Reef-actoring,38.99,2021-11-25,2545
+No Silver Mullet,60.0,2021-11-26,2546
+Sea-act Hooks,51.0,2021-11-27,2547
+Reef-actoring,37.99,2021-11-28,2548
+Reef-actoring,37.81,2021-11-28,2549
+Container Orca-stration,68.4,2021-11-28,2550
+Fin-troduction to Sea++,48.99,2021-11-29,2551
+Fin-troduction to Sea++,46.05,2021-11-30,2552
+Fin-troduction to Sea++,48.0,2021-11-30,2553
+Clean Cod,32.99,2021-11-30,2554
+Reef-actoring,39.0,2021-12-01,2555
+Reef-actoring,40.94,2021-12-01,2556
+Container Orca-stration,74.28,2021-12-01,2557
+Container Orca-stration,69.5,2021-12-01,2558
+Cod-ing in Python,61.0,2021-12-02,2559
+Building with Gradeel,82.49,2021-12-02,2560
+Building with Gradeel,79.99,2021-12-02,2561
+Sea-act Hooks,53.99,2021-12-03,2562
+Reef-actoring,42.0,2021-12-04,2563
+Reef-actoring,39.99,2021-12-04,2564
+Software Sharkitecture in Practice,49.5,2021-12-04,2565
+Fin-troduction to Sea++,49.22,2021-12-05,2566
+Sea-act Hooks,56.0,2021-12-05,2567
+Reef-actoring,34.0,2021-12-05,2568
+Reef-actoring,39.5,2021-12-05,2569
+Clean Cod,33.02,2021-12-06,2570
+Sea-act Hooks,52.51,2021-12-06,2571
+Container Orca-stration,71.62,2021-12-06,2572
+No Silver Mullet,60.49,2021-12-06,2573
+Reef-actoring,39.03,2021-12-07,2574
+The Crabmatic Programmer,58.99,2021-12-07,2575
+Fin-troduction to Sea++,46.99,2021-12-09,2576
+Clean Cod,33.93,2021-12-09,2577
+An Ag-isle Primer,17.49,2021-12-09,2578
+The Carp Of Computer Programming,69.0,2021-12-09,2579
+Container Orca-stration,71.5,2021-12-10,2580
+Software Sharkitecture in Practice,50.99,2021-12-10,2581
+Fin-troduction to Sea++,49.49,2021-12-11,2582
+Clean Cod,34.92,2021-12-11,2583
+Cod-ing in Python,60.0,2021-12-11,2584
+Container Orca-stration,64.5,2021-12-11,2585
+Building with Gradeel,82.5,2021-12-12,2586
+Reef-actoring,39.49,2021-12-12,2587
+Reef-actoring,37.5,2021-12-12,2588
+Sea-act Hooks,50.0,2021-12-13,2589
+Cod-ing in Python,64.49,2021-12-13,2590
+Clean Cod,32.6,2021-12-14,2591
+Building with Gradeel,85.0,2021-12-14,2592
+Reef-actoring,39.0,2021-12-14,2593
+Container Orca-stration,69.5,2021-12-14,2594
+Sea-act Hooks,51.06,2021-12-15,2595
+Sea-act Hooks,55.5,2021-12-15,2596
+The Carp Of Computer Programming,66.99,2021-12-16,2597
+Reef-actoring,40.49,2021-12-16,2598
+Reef-actoring,47.99,2021-12-17,2599
+Sea-act Hooks,53.0,2021-12-18,2600
+The Crabmatic Programmer,58.5,2021-12-19,2601
+Software Sharkitecture in Practice,52.99,2021-12-20,2602
+Advanced Ruby on Whales,47.5,2021-12-21,2603
+Cod-ing in Python,63.95,2021-12-21,2604
+An Ag-isle Primer,15.5,2021-12-21,2605
+Reef-actoring,40.5,2021-12-21,2606
+Reef-actoring,41.5,2021-12-23,2607
+Advanced Ruby on Whales,48.49,2021-12-25,2608
+Sea-act Hooks,54.0,2021-12-25,2609
+Building with Gradeel,78.5,2021-12-25,2610
+Reef-actoring,38.46,2021-12-25,2611
+Reef-actoring,36.5,2021-12-25,2612
+Reef-actoring,38.61,2021-12-25,2613
+Reef-actoring,40.3,2021-12-25,2614
+Container Orca-stration,66.3,2021-12-26,2615
+Software Sharkitecture in Practice,47.49,2021-12-26,2616
+No Silver Mullet,60.06,2021-12-26,2617
+Reef-actoring,41.3,2021-12-27,2618
+Building with Gradeel,78.5,2021-12-28,2619
+Reef-actoring,41.0,2021-12-28,2620
+No Silver Mullet,59.5,2021-12-28,2621
+Building with Gradeel,86.49,2021-12-29,2622
+Reef-actoring,42.49,2021-12-29,2623
+Software Sharkitecture in Practice,47.5,2021-12-29,2624
+Clean Cod,33.49,2021-12-30,2625
+Clean Cod,30.0,2021-12-30,2626
+Cod-ing in Python,55.73,2021-12-30,2627
+Reef-actoring,38.5,2021-12-30,2628
