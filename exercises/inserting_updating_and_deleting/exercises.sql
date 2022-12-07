@@ -126,7 +126,7 @@
 |   name to NULL.
 |
 | * Write a command that will update all rows without a name to have a rating
-|   of 1.5.
+|   of 2.
 |
 | * Write a command that will update the album with id 3 to have a description.
 |   (Use whatever short sentence comes to mind.)
