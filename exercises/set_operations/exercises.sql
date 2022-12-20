@@ -25,13 +25,17 @@
 /* -----------------------------------------------------------------------------
 |   2. EXCEPT
 |
-|   The sales_usa and sales_europe tables include product names - there isn't a separate products table.
+|   The sales_usa and sales_europe tables include product names - there isn't a
+|   separate products table.
 |
 |   Write 3 queries to get the following information about the products.
 |   Find all the `product_name`s that have been sold:
 |       * in either the USA OR Europe
 |       * in the USA but NOT Europe
-|       * in both the USA AND Europe - you will need to use EXCEPT for this query
+|       * in both the USA AND Europe:
+|             Do this by just using SELECT, FROM, UNION and EXCEPT
+|             i.e. without joins, subqueries or INTERSECT (covered soon).
+|             This will be a significantly longer query!
 |
 */ -----------------------------------------------------------------------------
 
@@ -94,9 +98,9 @@
 |
 |   You will recognise the queries below from the previous exercise.
 |
-|   How might you find out which rows are different?
+|   How can you find out which are the extra 20 rows?
 |
-|   Try this out, and see if it works. Why do you think this is?
+|   Try this out, and see if it works. If it doesn't, why do you think this is?
 |
 */ -----------------------------------------------------------------------------
 
@@ -105,12 +109,14 @@
 -- UNION ALL
 -- SELECT product_name, sale_date, amount, 'USD'
 -- FROM sales_usa
+-- -- Row Count: 4303
 
 -- SELECT product_name, sale_date, amount, currency_code
 -- FROM sales_europe
 -- UNION
 -- SELECT product_name, sale_date, amount, 'USD'
 -- FROM sales_usa
+-- -- Row Count: 4283
 
 /* -----------------------------------------------------------------------------
 |   6. EXCEPT ALL
@@ -119,18 +125,21 @@
 |   table - a sale is "Impressive" if the `product_name` has 'Advanced' in the title
 |   **OR** has sold for more than $50.
 |
-|   Unfortunately they return different row counts.
+|   Unfortunately the two queries return different row counts.
 |
-|   Write queries to find the rows which are different, and decide if query A or B is correct.
+|   Your tasks:
+|       * Write queries to find the 16 extra rows that query B returns.
+|       * Identify why these rows are included, and write this in the answer box.
+|       * Which query do you think might be correct?
 |
 */ -----------------------------------------------------------------------------
 
 -- Query A
 -- SELECT product_name, sale_date, amount
 -- FROM sales_usa
--- WHERE amount > 100
+-- WHERE amount > 50
 -- OR product_name LIKE 'Advanced%';
--- Row Count: 1789
+-- -- Row Count: 1789
 
 -- Query B
 -- SELECT product_name, sale_date, amount
@@ -140,6 +149,6 @@
 -- SELECT product_name, sale_date, amount
 -- FROM sales_usa
 -- WHERE product_name LIKE 'Advanced%';
--- Row Count: 1805
+-- -- Row Count: 1805
 
 -- YOUR CODE GOES HERE
