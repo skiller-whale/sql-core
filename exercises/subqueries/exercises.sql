@@ -1,14 +1,15 @@
 /* -----------------------------------------------------------------------------
-|   1. Using a Subquery in an `IN` Clause
+|   1. Querying Using Results
 |
 |   The following query gets some album ids that satisfy some complex criteria
 |   we do not want to break by modifying the query.
 |
 |       * Uncomment and run the query.
-|       * Using a subquery, write a query to select all columns from the
+|       * Using this as a subquery, write a query to select all columns from the
 |        `albums` table for these album ids.
-|       * Do you think you can also include the `COUNT(s.*)` and `AVG(s.amount)`
-|         just using the subquery? What might you try instead?
+|       * Do you think you can also select the `COUNT(s.*)` and `AVG(s.amount)`
+|         from the subquery? What might you try instead? **You don't need to
+|         actually write this query.**
 |
 */ -----------------------------------------------------------------------------
 
@@ -23,10 +24,10 @@
 -- -- Row Count: 5
 
 /* -----------------------------------------------------------------------------
-|   2. Single-Row Single-Column subquery
+|   2. Single-Row, Single-Column Subquery
 |
 |       * Write a query to get all the sales that are more than twice the amount
-|         of the lowest sale.
+|         of the lowest sale (you can use `MIN()` for this).
 |       * Now modify the query to also restrict to the sales that are less than
 |         three times the amount of the lowest sale.
 |
@@ -39,7 +40,7 @@
 -- Expected Row Count: 2648
 
 /* -----------------------------------------------------------------------------
-|   3. Single-Row Multi-Column Subquery
+|   3. Multi-Column Subqueries
 |
 |   The following query gets the best-selling genres and record labels.
 |
@@ -68,7 +69,7 @@
 |       * Uncomment and run the query.
 |       * Use a derived table subquery and a JOIN to select all albums for these
 |         combinations of genres and record labels, AND include the statistics.
-|       * Explain why you can't use a row constructor to answer this question.
+|       * Optional - Explain why you can't use a row constructor to answer this question.
 |
 */ -----------------------------------------------------------------------------
 
@@ -98,7 +99,7 @@
 |
 */ -----------------------------------------------------------------------------
 
--- Query 1
+-- Query 1 - Get all sales of albums with more than 10 tracks.
 -- SELECT *
 -- FROM sales
 -- WHERE album_id IN (
@@ -108,7 +109,7 @@
 -- );
 -- -- Row Count 1200
 
--- Query 2
+-- Query 2 -  Get all sales of albums with more tracks than their sale price.
 -- SELECT *
 -- FROM sales
 -- WHERE album_id IN (
