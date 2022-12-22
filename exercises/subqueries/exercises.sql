@@ -1,4 +1,13 @@
 /* -----------------------------------------------------------------------------
+|   0. Database Diagram
+|
+|   A copy of the database diagram from the slides can be found at:
+|
+|       * exercises/album_sales.png
+|
+*/ -----------------------------------------------------------------------------
+
+/* -----------------------------------------------------------------------------
 |   1. Querying Using Results
 |
 |   The following query gets some album ids that satisfy some complex criteria

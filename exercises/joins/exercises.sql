@@ -105,7 +105,7 @@
 |   Write a single query that will return:
 |     * The album title
 |     * The name of the artist for the album
-|     * The name of the collaborate on the album (if there is one)
+|     * The name of the collaborator on the album (if there is one)
 |
 */ -----------------------------------------------------------------------------
 
