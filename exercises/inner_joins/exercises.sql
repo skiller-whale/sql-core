@@ -1,4 +1,13 @@
 /* -----------------------------------------------------------------------------
+|   0. Database Diagram
+|
+|   A copy of the database diagram from the slides can be found at:
+|
+|       * exercises/album_sales.png
+|
+*/ -----------------------------------------------------------------------------
+
+/* -----------------------------------------------------------------------------
 |   1. Data Stored Across Multiple Tables
 |
 |   In the space given below, write the following queries:
@@ -24,6 +33,7 @@
 */ -----------------------------------------------------------------------------
 
 -- YOUR CODE GOES HERE
+-- Expected Row Count: 20
 
 
 /* -----------------------------------------------------------------------------
@@ -38,6 +48,7 @@
 */ -----------------------------------------------------------------------------
 
 -- YOUR CODE GOES HERE
+-- Expected Row Count: 1025
 
 /* -----------------------------------------------------------------------------
 |   4. Filtering vs Joins
@@ -53,6 +64,9 @@
 -- WHERE s.date = '2019-11-16'
 -- AND s.album_id = a.id;
 
+-- Expected Row Count 16
+
+
 -- This query finds all `Salmon and Garfunkel` sales recorded in 2020.
 
 -- SELECT sales.*, artists.name
@@ -62,6 +76,8 @@
 -- AND sales.date >= '2020-01-01'
 -- AND sales.date < '2021-01-01'
 -- AND sales.album_id = albums.id;
+
+-- Expected Row Count 239
 
 /* -----------------------------------------------------------------------------
 |   5. Joining on multiple columns
@@ -85,3 +101,4 @@
 -- FROM industry_revenue_history;
 
 -- YOUR CODE GOES HERE
+-- Expected Row Count: 15
