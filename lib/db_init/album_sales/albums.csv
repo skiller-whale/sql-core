@@ -1,21 +1,21 @@
 id,artist_id,title,genre,record_label,release_date,minutes,n_tracks,collaborator_id
-1,1,Iste earum.,sole music,Atlantic,2020-02-18,62,6,
-2,1,Provident earum.,sole music,Atlantic,2014-02-12,51,7,
-3,2,Zawodowy dziki.,eelectronic,Crabapple,2018-06-03,47,10,
-4,2,Sunt nobis.,eelectronic,Atlantic,2014-02-09,47,12,5
-5,3,Iure dolorum voluptatum.,eelectronic,Sharx Records,2017-01-01,75,9,2
-6,3,Letni chyba.,drum and seabass,Sharx Records,2019-07-16,61,8,
-7,3,Earum ipsam tempore.,drum and seabass,Sharx Records,2020-08-16,62,7,
-8,3,Spadać obwód zdarzenie.,drum and seabass,Sharx Records,2018-12-09,69,11,
-9,4,In deserunt quis.,orcastral,Atlantic,2018-11-11,59,10,
-10,4,Autem dignissimos.,eelectronic,Sharx Records,2020-06-23,62,10,
-11,4,Porro.,eelectronic,Sharx Records,2014-10-14,64,12,2
-12,4,Nemo.,eelectronic,Sharx Records,2018-02-09,75,11,
-13,4,Magnam natus.,eelectronic,Atlantic,2019-11-11,68,9,5
-14,5,Illo tempora perspiciatis.,sole music,Island,2016-12-31,43,8,
-15,5,Świadczyć miękki.,eelectronic,Island,2020-04-07,40,8,
-16,5,Sequi libero voluptate.,sole music,Island,2014-02-09,40,9,
-17,5,Suscipit minima aspernatur reprehenderit.,sole music,Island,2018-04-30,37,8,
-18,5,Quis provident occaecati.,eelectronic,Island,2019-03-09,49,8,2
-19,5,Cupiditate beatae.,sole music,Island,2014-12-17,40,10,
-20,5,Cupiditate.,sole music,Island,2017-09-08,44,9,
+1,1,Blenny,sole music,Atlantic,2020-02-18,62,6,
+2,1,Are You Gonna Go My Ray,sole music,Atlantic,2014-02-12,51,7,
+3,2,Bridge over Troubled Water,eelectronic,Crabapple,2018-06-03,47,10,
+4,2,Sounds of Seal-ence,eelectronic,Atlantic,2014-02-09,47,12,5
+5,3,Chumbug,eelectronic,Sharx Records,2017-01-01,75,9,2
+6,3,Tranquility Bass Hotel & Casino,drum and seabass,Sharx Records,2019-07-16,61,8,
+7,3,Favourite Worst Night-mer,drum and seabass,Sharx Records,2020-08-16,62,7,
+8,3,"Whatever People Sea I am, That's What I'm Not",drum and seabass,Sharx Records,2018-12-09,69,11,
+9,4,Sea Shanties about Jane,orcastral,Atlantic,2018-11-11,59,10,
+10,4,It Won't Be Soon Before Long-oustine,eelectronic,Sharx Records,2020-06-23,62,10,
+11,4,Hands All Overboard,eelectronic,Sharx Records,2014-10-14,64,12,2
+12,4,Red Grouper Blues,eelectronic,Sharx Records,2018-02-09,75,11,
+13,4,Roeverexposed,eelectronic,Atlantic,2019-11-11,68,9,5
+14,5,The Whaling Whalers,sole music,Island,2016-12-31,43,8,
+15,5,Sole Rebels,eelectronic,Island,2020-04-07,40,8,
+16,5,Catch a Fish,sole music,Island,2014-02-09,40,9,
+17,5,Kayak,sole music,Island,2018-04-30,37,8,
+18,5,Ex-Cod-us,eelectronic,Island,2019-03-09,49,8,2
+19,5,Upwelling,sole music,Island,2014-12-17,40,10,
+20,5,The Best of The Whalers,sole music,Island,2017-09-08,44,9,
