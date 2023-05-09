@@ -8,9 +8,9 @@
 |   Uncomment the query, and save the file to run it.
 |
 |   Change the query to also return a `sales_volume` column that contains one of 'High', 'Medium' or 'Low':
-|       * An album is 'High' sales if it's had more than 400 total sales.
-|       * An album is 'Medium' sales if it's had between 100 and 400 total sales.
 |       * An album is 'Low' sales if it's had less than 100 total sales.
+|       * An album is 'Medium' sales if it's had between 100 and 400 total sales.
+|       * An album is 'High' sales if it's had more than 400 total sales.
 |
 */ -----------------------------------------------------------------------------
 
@@ -29,9 +29,36 @@
 -- -- Expected 'High' sales_volume: 6
 
 /* -----------------------------------------------------------------------------
-|   2. Concatenating strings
+|   2. COALESCE
 |
 |   The following query joins the albums table to the artists table twice,
+|   to get the artist and collaborator ids and names for each album.
+|
+|   Uncomment the query, and save the file to run it.
+|
+|   Some albums do not have a collaborator, so return NULL for collaborator name.
+|
+|   * Change the query so that the string 'None' is returned instead of NULL when
+|     there is no collaborator.
+|
+*/ -----------------------------------------------------------------------------
+
+SELECT
+    al.title AS album_title,
+    ar.name AS artist_name,
+    c.name AS collaborator_name
+FROM
+    albums al
+    JOIN artists ar ON al.artist_id = ar.id
+    LEFT JOIN artists c ON al.collaborator_id = c.id;
+-- Expected Row Count: 20
+-- Expected NULL collaborator_name: 0
+
+/* -----------------------------------------------------------------------------
+|   3. Concatenating strings
+|
+|   The following query is similar to the previous one.
+|   It joins the albums table to the artists table twice,
 |   to get the artist and collaborator ids and names.
 |
 |   Uncomment the query, and save the file to run it.
@@ -61,7 +88,7 @@
 -- -- Expected NULL artists_description: 0
 
 /* -----------------------------------------------------------------------------
-|   3. Comparing Strings - LIKE
+|   4. Comparing Strings - LIKE
 |
 |   Write two queries that find albums where:
 |       1. the title contains "Sea" (case sensitive)
@@ -75,7 +102,7 @@
 -- Row Count: 1
 
 /* -----------------------------------------------------------------------------
-|   4. Comparing Strings - Case Sensitivity
+|   5. Comparing Strings - Case Sensitivity
 |
 |   Write a query to find albums where the title or genre
 |   contains "sea" (case insensitive this time)
@@ -85,7 +112,7 @@
 -- Row Count: 5
 
 /* -----------------------------------------------------------------------------
-|   5. Dates
+|   6. Dates
 |
 |   The following query selects album titles together with their earliest and
 |   latest recorded sale dates.
