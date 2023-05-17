@@ -43,14 +43,14 @@
 |
 */ -----------------------------------------------------------------------------
 
-SELECT
-    al.title AS album_title,
-    ar.name AS artist_name,
-    c.name AS collaborator_name
-FROM
-    albums al
-    JOIN artists ar ON al.artist_id = ar.id
-    LEFT JOIN artists c ON al.collaborator_id = c.id;
+-- SELECT
+--     al.title AS album_title,
+--     ar.name AS artist_name,
+--     c.name AS collaborator_name
+-- FROM
+--     albums al
+--     JOIN artists ar ON al.artist_id = ar.id
+--     LEFT JOIN artists c ON al.collaborator_id = c.id;
 -- Expected Row Count: 20
 -- Expected NULL collaborator_name: 0
 
@@ -117,18 +117,21 @@ FROM
 |   The following query selects album titles together with their earliest and
 |   latest recorded sale dates.
 |
-|   Uncomment the query, and save the file to run it.
+|   Part 1:
 |
-|   Change the query to return a new `sale_range_desc` column that will display the
-|   range of sale dates as a single string, for example: '27/02/2017 - 31/08/2020'
+|       * Uncomment the query, and save the file to run it.
+|       * Change the query to return a new `sale_range_desc` column that will display the
+|         range of sale dates as a single string, for example: '27/02/2017 - 31/08/2020'
 |
-|   Optional (in any order):
+|   Part 2 (you can do these steps in any order):
+|
 |       * Change your query so `sale_range_desc` returns 'UNSOLD' for albums with 0 sales.
-|       * Add a `sale_duration_category` column to categorise the album by how long they've sold for:
+|       * Add a `sale_duration_category` column to categorise the albums by how long they've sold for:
 |            More than 5 years:      'Long'
 |            Between 2 and 5 years:  'Medium'
 |            Less than 2 years:      'Short'
-|          Assume for this exercise that a year is exactly 365 days long.
+|         Assume for this exercise that a year is exactly 365 days long.
+
 */ -----------------------------------------------------------------------------
 
 -- SELECT
