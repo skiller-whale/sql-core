@@ -118,7 +118,9 @@
 |
 |   Uncomment the below query to see the contents of the new `vendors` table.
 |
-|   Then write a query that returns all albums and any sales made by 'Clamazon'.
+|   Then write a query that returns ALL albums, and also includes any sales made by 'Clamazon'.
+|   Albums with no 'Clamazon' sales should appear as a single row with NULLs for the `sales` columns.
+|
 |   The results should include:
 |       * The album title
 |       * The vendor_name for each sale
