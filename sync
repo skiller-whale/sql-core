@@ -53,7 +53,7 @@ def skiller_whale_sync():
     print("|_____/|_|\\_\\_|_|_|\\___|_|        \\/  \\/   |_| |_|\\__,_|_|\\___| ")
     print("")
     print("")
-    print(f'We\'re going to start watching this directory for changes so that the trainer can see your progress.')
+    print(f'We\'re going to start watching this directory for changes so that the coach can see your progress.')
     print(f'Your attendance id is currently set to: {read_attendance_id()}')
     print(f'If this is not correct, you can update it in the file {USER_ID_FILEPATH}\n')
 

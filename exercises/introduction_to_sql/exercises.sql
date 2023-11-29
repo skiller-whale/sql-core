@@ -48,7 +48,7 @@
 |   In the space below, write a single query that will return all albums with:
 |
 |    * The record label `'Atlantic'`, and
-|    * A genre of `'eelectronic'` or `'sole_music'`
+|    * A genre of `'eelectronic'` or `'sole music'`
 |
 */ -----------------------------------------------------------------------------
 
