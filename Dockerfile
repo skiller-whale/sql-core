@@ -6,11 +6,10 @@ RUN apk add --update --no-cache gcc=9.3.0-r0               \
                                 postgresql-libs=~12      \
                                 postgresql-client=~12
 
-RUN pip3 install requests==2.25.1  \
-                 psycopg2==2.8.6   \
+RUN pip3 install psycopg2==2.8.6   \
                  tabulate==0.8.9
 
-ADD sync /app/sync
+ADD query_runner /app/query_runner
 
 WORKDIR /app
-CMD python3 sync
+CMD python3 query_runner

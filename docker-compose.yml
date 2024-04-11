@@ -6,8 +6,6 @@ services:
       - POSTGRES_PASSWORD=123
     ports:
       - 5432
-    logging:
-      driver: "none"
   sync:
     build:
       context: .
@@ -17,11 +15,18 @@ services:
       - POSTGRES_HOST=db
     depends_on:
       - db
-    links:
-      - db
+      - filesync # This is a bit of a hack, so running the exercises starts the filesync
     volumes:
-      - ./attendance_id:/app/attendance_id
       - ./lib:/app/lib
       - ./exercises:/app/exercises
-    stdin_open: true
-    tty: true
+  filesync:
+    image: ghcr.io/skiller-whale/learnersync:0.2.1
+    environment:
+      SERVER_URL: https://train.skillerwhale.com/
+      WATCHER_BASE_PATH: /app
+      ATTENDANCE_ID_FILE: /app/sync/attendance_id
+      WATCHED_EXTS: .sql
+      IGNORE_DIRS: .git
+    volumes:
+      - ./exercises:/app/exercises
+      - ./attendance_id:/app/sync/attendance_id
