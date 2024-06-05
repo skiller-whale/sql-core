@@ -16,6 +16,7 @@ services:
     depends_on:
       - db
       - filesync # This is a bit of a hack, so running the exercises starts the filesync
+    tty: true
     volumes:
       - ./lib:/app/lib
       - ./exercises:/app/exercises
