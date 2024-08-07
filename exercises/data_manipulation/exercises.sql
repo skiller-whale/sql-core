@@ -123,9 +123,11 @@
 |       * Change the query to return a new `sale_range_desc` column that will display the
 |         range of sale dates as a single string, for example: '27/02/2017 - 31/08/2020'
 |
-|   Part 2 (you can do these steps in any order):
+|   Part 2:
 |
 |       * Change your query so `sale_range_desc` returns 'UNSOLD' for albums with 0 sales.
+|              You'll need to edit the `HAVING` clause, as it currently filters out rows with no sales
+|              i.e. where `MAX(s.date)` is `NULL`.
 |       * Add a `sale_duration_category` column to categorise the albums by how long they've sold for:
 |            More than 5 years:      'Long'
 |            Between 2 and 5 years:  'Medium'

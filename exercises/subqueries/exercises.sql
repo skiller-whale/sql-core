@@ -78,7 +78,27 @@
 |       * Uncomment and run the query.
 |       * Use a derived table subquery and a JOIN to select all albums for these
 |         combinations of genres and record labels, AND include the statistics.
-|       * Optional - Explain why you can't use a row constructor to answer this question.
+|
+|         Your results should look something like this:
+|
+|  |+--------------------------------------+-------------+----------------+---------------------+-----------------------+-------------------------+
+|  | title                                | genre       | record_label   |   genre_total_sales |   genre_total_revenue |   genre_sales_per_album |
+|  |--------------------------------------+-------------+----------------+---------------------+-----------------------+-------------------------|
+|  | Roeverexposed                        | eelectronic | Atlantic       |                 942 |               10843.9 |                     471 |
+|  | Sounds of Seal-ence                  | eelectronic | Atlantic       |                 942 |               10843.9 |                     471 |
+|  | Red Grouper Blues                    | eelectronic | Sharx Records  |                 876 |               12581.7 |                     292 |
+|  | Hands All Overboard                  | eelectronic | Sharx Records  |                 876 |               12581.7 |                     292 |
+|  | It Won't Be Soon Before Long-oustine | eelectronic | Sharx Records  |                 876 |               12581.7 |                     292 |
+|  | Chumbug                              | eelectronic | Sharx Records  |                 876 |               12581.7 |                     292 |
+|  | The Best of The Whalers              | sole music  | Island         |                1861 |               27467.8 |                     372 |
+|  | Upwelling                            | sole music  | Island         |                1861 |               27467.8 |                     372 |
+|  | Kayak                                | sole music  | Island         |                1861 |               27467.8 |                     372 |
+|  | Catch a Fish                         | sole music  | Island         |                1861 |               27467.8 |                     372 |
+|  | The Whaling Whalers                  | sole music  | Island         |                1861 |               27467.8 |                     372 |
+|  +--------------------------------------+-------------+----------------+---------------------+-----------------------+-------------------------+
+|
+|       * Optional - Explain why you can't use a row constructor and IN clause
+|                    like in exercise 3. to answer this question.
 |
 */ -----------------------------------------------------------------------------
 
