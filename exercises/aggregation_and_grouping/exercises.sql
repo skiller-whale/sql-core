@@ -50,9 +50,13 @@
 |    * The average sales price
 |    * The average album length  (albums.minutes)
 |
-|   across all albums and sales for the artist named 'Salmon and Garfunkel'.
-|
+|   across all albums and sales for the artist named 'Arctic Monkfish'.
 |   Note: You can use your previous query as a starting point.
+|
+|   OPTIONAL EXTENSION:
+|
+|   * Add a column to your query that will show the number of albums that have
+|   not made any sales.
 |
 */ -----------------------------------------------------------------------------
 
@@ -97,7 +101,7 @@
 */ -----------------------------------------------------------------------------
 
 -- YOUR CODE GOES HERE
--- Expected Row Count: 7
+-- Expected Row Count: 8
 
 /* -----------------------------------------------------------------------------
 |   6. HAVING
