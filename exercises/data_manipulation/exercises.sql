@@ -120,6 +120,7 @@
 |   Part 1:
 |
 |       * Uncomment the query, and save the file to run it.
+|
 |       * Change the query to return a new `sale_range_desc` column that will display the
 |         range of sale dates as a single string, for example: '27/02/2017 - 31/08/2020'
 |
@@ -128,10 +129,11 @@
 |       * Change your query so `sale_range_desc` returns 'UNSOLD' for albums with 0 sales.
 |              You'll need to edit the `HAVING` clause, as it currently filters out rows with no sales
 |              i.e. where `MAX(s.date)` is `NULL`.
+|
 |       * Add a `sale_duration_category` column to categorise the albums by how long they've sold for:
-|            More than 5 years:      'Long'
-|            Between 2 and 5 years:  'Medium'
-|            Less than 2 years:      'Short'
+|            More than 3 years:      'Long'
+|            Between 1 and 3 years:  'Medium'
+|            Less than 1 year:       'Short'
 |         Assume for this exercise that a year is exactly 365 days long.
 
 */ -----------------------------------------------------------------------------
@@ -144,7 +146,8 @@
 -- FROM albums a
 -- LEFT JOIN sales s ON s.album_id = a.id
 -- GROUP BY a.id
--- HAVING MAX(s.date) - MIN(s.date) < 365 * 7; --Filter to albums with a sale range of less than 7 years.
+-- HAVING MAX(s.date) - MIN(s.date) < 365 * 5; --Filter to albums with a sale range of less than 5 years.
 -- --NB: In Postgres, subtracting a DATE from a DATE gives the number of days between as an integer.
--- Expected Row Count: 19
--- Expected Row Count if including 'UNSOLD' albums: 20
+
+-- Expected Row Count: 14
+-- Expected Row Count if including 'UNSOLD' albums: 15
