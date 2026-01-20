@@ -4,7 +4,7 @@
 |
 |  * In the space below, write a command that will create a table called tracks,
 |    containing these columns:
-|     * id, as an integer
+|     * id, as an integer primary key
 |     * name, as a string with maximum length 255
 |     * rating, as a numeric / floating point number
 |
@@ -38,7 +38,7 @@
 | 3. Altering Existing Tables
 |
 | * Write a command that will add a column to tracks called album_id that is an
-|   integer.
+|   integer. This should be a foreign key to the id column in the albums table.
 |
 | * Write one command that will change the type of the rating column from
 |   NUMERIC to INTEGER.
@@ -62,21 +62,27 @@
 |   order of columns from the tracks table.
 |
 | * Above the SELECT, write one command to insert the following data as one row
-|   to the tracks table without specifying column names:
+|   to the tracks table:
 |
-|    * id=1, name='Bridge Over Troubled Water', rating=5, album_id=3
+|      id    name                         rating  album_id
+|      ---------------------------------------------------
+|      1,   'Bridge Over Troubled Water',      5,        3
 |
 | * Add a second command that will insert the following data as one row to the
 |   tracks table:
 |
-|    * id=2, name='I Am A Rockfish', album_id=3
+|      id   name               album_id
+|      --------------------------------
+|       2,  'I Am A Rockfish',        3
 |
 | * Add a third command that will insert the following data as several rows with
 |   one command:
 |
-|    * id=3, name='Mrs Dolphinson', album_id=3
-|    * id=4, name='The Sounds Of Salmon', album_id=3
-|    * id=5, name='Walrus Bound', album_id=3
+|      id  name                    album_id
+|      ------------------------------------
+|      3,  'Mrs Dolphinson',              3
+|      4,  'The Sounds Of Salmon',        3
+|      5,  'Walrus Bound',                3
 |
 */ -----------------------------------------------------------------------------
 
