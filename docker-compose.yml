@@ -14,7 +14,7 @@ services:
       - POSTGRES_HOST=db
     depends_on:
       - db
-      - filesync # This is a bit of a hack, so running the exercises starts the filesync
+      - filesync
     tty: true  # Allow the filesync to print output to the console
     volumes:
       - ./lib:/app/lib

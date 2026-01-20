@@ -5,7 +5,7 @@
 |
 |   These should return:
 |       1. All rows and columns from the artists table.
-|       2. The date, and amount of all rows in the sales table.
+|       2. All rows of the date and amount columns from the sales table.
 |
 |   Remember to include a semicolon ; after each query.
 |
@@ -47,8 +47,8 @@
 |
 |   In the space below, write a single query that will return all albums with:
 |
-|    * The record label `'Atlantic'`, and
-|    * A genre of `'eelectronic'` or `'sole music'`
+|    * The record label 'Atlantic', and
+|    * A genre of 'eelectronic' or 'sole music'
 |
 */ -----------------------------------------------------------------------------
 
