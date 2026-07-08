@@ -20,7 +20,7 @@ services:
       - ./lib:/app/lib
       - ./exercises:/app/exercises
   filesync:
-    image: ghcr.io/skiller-whale/learnersync:0.2.1
+    image: ghcr.io/skiller-whale/learnersync:0.2.7
     environment:
       SERVER_URL: https://train.skillerwhale.com/
       SW_RUNNING_IN_HOSTED_ENV:
